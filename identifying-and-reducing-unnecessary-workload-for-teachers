@@ -1,0 +1,623 @@
+
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
+<!--<![endif]-->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta property="og:description" content="Training materials, practical guidance and tools for teachers and school leaders, to help you review and remove unnecessary teacher workload. ">
+<meta property="og:title" content="Identifying and reducing unnecessary workload for teachers">
+<meta property="og:url" content="https://www.gov.uk/guidance/identifying-and-reducing-unnecessary-workload-for-teachers">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GOV.UK">
+<meta name="twitter:card" content="summary">
+<meta name="description" content="Training materials, practical guidance and tools for teachers and school leaders, to help you review and remove unnecessary teacher workload. ">
+<meta name="govuk:content-has-history" content="true">
+<meta name="govuk:taxon-slugs" content="teacher-training-and-professional-development">
+<meta name="govuk:taxon-slug" content="teacher-training-and-professional-development">
+<meta name="govuk:taxon-ids" content="25bc1af0-33df-40be-a668-d9b05d1dd3e4">
+<meta name="govuk:taxon-id" content="25bc1af0-33df-40be-a668-d9b05d1dd3e4">
+<meta name="govuk:themes" content="education">
+<meta name="govuk:navigation-document-type" content="guidance">
+<meta name="govuk:user-journey-stage" content="thing">
+<meta name="govuk:publishing-government" content="2015-conservative-government">
+<meta name="govuk:political-status" content="non-political">
+<meta name="govuk:schema-name" content="detailed_guide">
+<meta name="govuk:format" content="detailed_guide">
+<meta name="govuk:content-id" content="8276dfe3-ccb0-4751-a92b-ec3ac362ca56">
+<meta name="csrf-token" content="oWSKUkilWz3v85U2aKODvREdporgahtLp1rVBnMwUIMg2FqcTV9uv75allkfloEX2icyye2fBLXhON9LmAvHHw==">
+<meta name="csrf-param" content="authenticity_token">
+    <meta charset="utf-8">
+    <title lang="en">
+      Identifying and reducing unnecessary workload for teachers - GOV.UK
+  </title>
+
+    <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-c0b8ba8b1652aacad298d74f24752260187f538b50c40c2484f7f333cbc3cf2b.css" crossorigin="anonymous" integrity="sha256-wLi6ixZSqsrSmNdPJHUiYBh/U4tQxAwkhPfzM8vDzys=">
+<!--<![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-ie6-2c1bb089ee71d4d70a08ba94e4b363a99542c8feddf3aa979bc4f8962aed5e02.css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-ie7-062e553ef49a9f884a3a1f885c8a18e829b6557046b075e1384f6092a60151d1.css" /><![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-ie8-11027733d1abeac34c7bf14e37fea30366ad3a87cfd7f7a084de3a3b4b838412.css" /><![endif]-->
+    <link rel="stylesheet" media="print" href="https://assets.publishing.service.gov.uk/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css" crossorigin="anonymous" integrity="sha256-EHZRlSHC//u/das7DTsy7i2WrH6XePHN+sF3Hu/RocA=">
+
+    <link rel="stylesheet" media="all" href="https://assets.publishing.service.gov.uk/static/fonts-e9ec5a5f82e5c2a17927ce356e5a054cb28025ec1547ec5d00f5c98d2ec5e481.css" crossorigin="anonymous" integrity="sha256-6exaX4LlwqF5J841bloFTLKAJewVR+xdAPXJjS7F5IE=">
+    <!--[if lt IE 9]><script src="https://assets.publishing.service.gov.uk/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js" crossorigin="anonymous" integrity="sha256-pFJFRKU9V6fiWbS7lmucMlV8mMkgt35S0JMEZCtoQBo="></script><![endif]-->
+
+    <link rel="shortcut icon" href="https://assets.publishing.service.gov.uk/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
+    <link rel="mask-icon" href="https://assets.publishing.service.gov.uk/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png">
+    <link rel="apple-touch-icon" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png">
+
+    <meta name="theme-color" content="#0b0c0c">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/core-layout-5e49a546a119ec332f61ac993dd07a203d68560602cb64cce540ec0ed172b18b.css" crossorigin="anonymous" integrity="sha256-XkmlRqEZ7DMvYayZPdB6ID1oVgYCy2TM5UDsDtFysYs=">
+<!--<![endif]-->
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/core-layout-ie6-b27f7c4921cb662ca9c5b24c0e0d9d3937a706cb96295e632daf983df62df149.css" /><script>var ieVersion = 6;</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/core-layout-ie7-5e7b36b38d8f12d3e2caf123cbea99656df7096d225e5838f1aa161daaf44df5.css" /><script>var ieVersion = 7;</script><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/core-layout-ie8-d94ebf34403c29552a3754981921524c8dd3beb851bcac272b7797323e37335b.css" /><script>var ieVersion = 8;</script><![endif]-->
+
+<link rel="stylesheet" media="print" href="https://assets.publishing.service.gov.uk/static/core-layout-print-07d9f2ae45b9bf761acf17c7ec414a9493f1a7cf1c8278b7ad5497cdd73eee84.css" crossorigin="anonymous" integrity="sha256-B9nyrkW5v3YazxfH7EFKlJPxp88cgni3rVSXzdc+7oQ=">
+
+
+
+    <meta property="og:image" content="https://assets.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
+  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-b55be098aa5bedf9465be15341c083ae644bbe6792322350adbba80d47a2fdd8.css" crossorigin="anonymous" integrity="sha256-tVvgmKpb7flGW+FTQcCDrmRLvmeSMiNQrbuoDUei/dg=">
+<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets.publishing.service.gov.uk/government-frontend/print-455a024567f6a7da3dd667d551112ccad49741b90ef19f9f6a26a88a3afe5436.css" crossorigin="anonymous" integrity="sha256-RVoCRWf2p9o91mfVUREsytSXQbkO8Z+faiaoijr+VDY=">
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-ie6-4e5fcd3a39186f33e37cf7b0dd39fe8df1b61fe9fd47b6f1b0fe65cd4438ba0e.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-ie7-54bbf503f4e0b9db0ff5654babe84c5cf671f4a11e954d07dd942df9c63a10ca.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-ie8-5f4046d6a3fdb30605a4fc81a46eb5cb6e7b89fd0e8b6f8425ed863ad15f9ffc.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
+</head>
+
+  <body class="draft">
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+
+    
+
+    <div id="skiplink-container">
+      <div>
+        <a href="#content" class="skiplink">Skip to main content</a>
+      </div>
+    </div>
+
+    <div id="global-cookie-message">
+        <p>GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a></p>
+    </div>
+
+    <header role="banner" id="global-header" class=" with-proposition">
+      <div class="header-wrapper">
+        <div class="header-global">
+          <div class="header-logo">
+            <a href="https://www.gov.uk" title="Go to the GOV.UK homepage" id="logo" class="content">
+              <img src="https://assets.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> GOV.UK
+            </a>
+          </div>
+            <a href="#search" class="search-toggle js-header-toggle">Search</a>
+
+  <form id="search" class="site-search" action="/search" method="get" role="search">
+    <div class="content">
+      <label for="site-search-text">Search</label>
+      <input type="search" name="q" id="site-search-text" title="Search" class="js-search-focus">
+      <input class="submit" type="submit" value="Search">
+    </div>
+  </form>
+
+        </div>
+        
+      <div class="header-proposition">
+  <div class="content">
+    <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
+  <nav id="proposition-menu" class="no-proposition-name">
+  <ul id="proposition-links">
+    <li>
+      <a class="" href="/government/organisations">
+        Departments
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/world">
+        Worldwide
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/how-government-works">
+        How government works
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/get-involved">
+        Get involved
+      </a>
+    </li>
+    <li class="clear-child">
+      <a class="" href="/government/policies">
+        Policies
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/publications">
+        Publications
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/publications?publication_filter_option=consultations">
+        Consultations
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/statistics">
+        Statistics
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/announcements">
+        Announcements
+      </a>
+    </li>
+  </ul>
+</nav>
+</div>
+</div>
+</div>
+    </header>
+
+      <div id="user-satisfaction-survey-container"></div>
+
+
+    <div id="global-header-bar"></div>
+
+      <div id="wrapper" class="direction-ltr">
+    
+    
+  <!-- Rendering taxonomy breadcrumbs because the page is tagged to live taxons -->
+  
+<div class="govuk-breadcrumbs collapse-on-mobile" data-module="track-click">
+  <ol>
+
+    <li class="">
+        <a data-track-category="breadcrumbClicked" data-track-action="1" data-track-label="/" data-track-options='{"dimension28":"4","dimension29":"Home"}' class="" aria-current="false" href="/">Home</a>
+    </li>
+
+    <li class="">
+        <a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/education" data-track-options='{"dimension28":"4","dimension29":"Education, training and skills"}' class="" aria-current="false" href="/education">Education, training and skills</a>
+    </li>
+
+    <li class="">
+        <a data-track-category="breadcrumbClicked" data-track-action="3" data-track-label="/education/teaching-and-leadership" data-track-options='{"dimension28":"4","dimension29":"Teaching and leadership"}' class="" aria-current="false" href="/education/teaching-and-leadership">Teaching and leadership</a>
+    </li>
+
+    <li class="parent-breadcrumb">
+        <a data-track-category="breadcrumbClicked" data-track-action="4" data-track-label="/education/teacher-training-and-professional-development" data-track-options='{"dimension28":"4","dimension29":"Teacher training and professional development"}' class="" aria-current="false" href="/education/teacher-training-and-professional-development">Teacher training and professional development</a>
+    </li>
+  </ol>
+</div>
+
+
+    <main role="main" id="content" class="detailed-guide" lang="en">
+      <div class="grid-row">
+  <div class="column-two-thirds">
+    <div class="pub-c-title
+  
+  pub-c-title--bottom-margin">
+    <p class="pub-c-title__context">
+      Guidance
+    </p>
+  <h1 class="pub-c-title__text pub-c-title__text--long">
+    Identifying and reducing unnecessary workload for teachers
+  </h1>
+</div>
+
+  </div>
+  <div class="column-two-thirds">
+      <p class="pub-c-lead-paragraph ">
+    Training materials, practical guidance and tools for teachers and school leaders, to help you review and remove unnecessary teacher workload.
+  </p>
+
+  </div>
+</div>
+
+<div class="grid-row">
+  <div class="metadata-logo-wrapper">
+    <div class="column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata">
+    <div class="app-c-published-dates ">
+    Published 4 April 2018
+    <br>Last updated 25 April 2018
+      — <a href="#history">see all updates</a>
+</div>
+
+  </div>
+
+    </div>
+    <div class="column-one-third">
+    </div>
+  </div>
+</div>
+
+
+
+
+<div class="grid-row">
+  <div class="column-two-thirds">
+      <div class="app-c-important-metadata app-c-important-metadata--bottom-margin">
+    <dl data-module="track-click">
+      <dt class="app-c-important-metadata__term">Applies to: </dt>
+      <dd class="app-c-important-metadata__definition">England</dd>
+    </dl>
+  </div>
+
+
+      <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav role="navigation" class="app-c-contents-list app-c-contents-list--no-underline" data-module="track-click">
+    <h2>
+      Contents
+    </h2>
+    <ol class="app-c-contents-list__list">
+        <li class="app-c-contents-list__list-item app-c-contents-list__list-item--dashed ">
+          <a class="app-c-contents-list__link" data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#how-to-use-this-toolkit" data-track-options='{"dimension29":"How to use this toolkit"}' href="#how-to-use-this-toolkit">How to use this toolkit</a>
+        </li>
+        <li class="app-c-contents-list__list-item app-c-contents-list__list-item--dashed ">
+          <a class="app-c-contents-list__link" data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#identifying-the-issues-in-your-schools" data-track-options='{"dimension29":"1) Identifying the issues in your school(s)"}' href="#identifying-the-issues-in-your-schools">1) Identifying the issues in your school(s)</a>
+        </li>
+        <li class="app-c-contents-list__list-item app-c-contents-list__list-item--dashed ">
+          <a class="app-c-contents-list__link" data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#training-and-guidance-for-you-and-your-school-staff" data-track-options='{"dimension29":"2) Training and guidance for you and your school staff"}' href="#training-and-guidance-for-you-and-your-school-staff">2) Training and guidance for you and your school staff</a>
+        </li>
+        <li class="app-c-contents-list__list-item app-c-contents-list__list-item--dashed ">
+          <a class="app-c-contents-list__link" data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#putting-it-into-practice-action-planning" data-track-options='{"dimension29":"3) Putting it into practice: action planning"}' href="#putting-it-into-practice-action-planning">3) Putting it into practice: action planning</a>
+        </li>
+        <li class="app-c-contents-list__list-item app-c-contents-list__list-item--dashed ">
+          <a class="app-c-contents-list__link" data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#contact-us" data-track-options='{"dimension29":"Contact us"}' href="#contact-us">Contact us</a>
+        </li>
+    </ol>
+  </nav>
+
+      </div>
+    
+      
+<div class="govuk-govspeak direction-ltr">
+  <div class="govspeak">
+<p>The essential thing with education is the person standing at the front of the class. The most effective actions to reduce workload are really those that encourage better teaching - by focusing on what makes the most difference, backed up by evidence, and making best use of teacher time.</p>
+
+<p>This guidance and supporting materials have been produced by school leaders, teachers and teacher training providers in conjunction with Department for Education.</p>
+
+<h2 id="how-to-use-this-toolkit">How to use this toolkit</h2>
+
+<p>We’ve produced these materials to give teachers and school leaders practical advice and tools to help them address workload issues in their schools, departments or teams. This guidance builds on the principles of the 3 independent reports on <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-marking-policy-review-group-report">marking</a>, <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-planning-and-resources-group-report">planning and resources</a> and <a href="https://www.gov.uk/government/publications/reducing-teacher-workload-data-management-review-group-report">data management</a>, and the findings of the <a href="https://www.gov.uk/government/publications/teacher-workload-survey-2016">teacher workload survey 2016</a>.</p>
+
+<p>We’ve designed the guidance to be used in all types of school, but it is important to remember that teachers’ experiences of workload are unique, and different issues may arise in specific phases or year groups. We’ve created the toolkit to help schools to review and deal with a variety of workload issues so that you can select and tailor the most appropriate and relevant strategies for your situation. There is no requirement on schools to use any of the examples over other approaches.</p>
+
+<h2 id="identifying-the-issues-in-your-schools">1) Identifying the issues in your school(s)</h2>
+
+<p>You should start by running a workshop or discussion with your staff to help you and them identify the areas that are causing the biggest workload issues so that you know the areas to prioritise.
+You may already have an understanding of the workload issues in your school through, for example:</p>
+
+<ul>
+  <li>wellbeing or workload committees</li>
+  <li>informal discussions you’ve had with staff</li>
+  <li>points raised at meetings</li>
+  <li>information gathered as part of the appraisal process</li>
+</ul>
+
+<p>We’ve put together a selection of workload audit tools that may help you, which have been developed by school leaders and teachers, and used in schools to help identify and address workload issues it includes:</p>
+
+<ul>
+  <li>workshop: identifying the issues (using staff surveys, structured conversations or impact graphs) (1hr)</li>
+  <li>example staff workload survey (10mins)</li>
+  <li>example staff wellbeing questionnaire (20mins)</li>
+  <li>templates for structured conversations (30mins to 1hr)</li>
+  <li>introductory workshop: the importance of working together (20mins)</li>
+</ul>
+
+<h2 id="training-and-guidance-for-you-and-your-school-staff">2) Training and guidance for you and your school staff</h2>
+
+<p>Once you’ve identified the areas that you need to focus on we’ve put together a set of workshops and training materials that you can use with your staff to support you and help you make changes.</p>
+
+<p>We’ve grouped these resources into themes that have been identified as issues which can lead to unnecessary workload in schools:</p>
+
+<ul>
+  <li>Planning and resources</li>
+  <li>Assessment, feedback and marking</li>
+  <li>Pupil data and interventions</li>
+  <li>School management and structures</li>
+  <li>Managing and supporting teachers</li>
+</ul>
+
+<p>Short bullet point guides provide clear steps to address workload in each area, and provide links to training and practical tools.</p>
+
+<p>You can use the training workshops to structure an <abbr title="in service training">INSET</abbr> day, staff meeting or training session in a school or group of schools. You can also tailor them to be used with senior leadership teams, middle leaders or as whole staff <abbr title="in service training">INSET</abbr> training session.</p>
+
+<h2 id="putting-it-into-practice-action-planning">3) Putting it into practice: action planning</h2>
+
+<p>When you’ve carried out your training sessions we recommend that you agree on some longer term actions that you and your staff can work towards. You should also plan some future dates or milestones when you can review the changes and measure the impact they are having on your staff and school.</p>
+
+<p>To help you with this we’ve put together a workshop and some action planning guidance and templates that you can tailor to meet your own needs.</p>
+
+<h2 id="contact-us">Contact us</h2>
+
+<p>We’re regularly reviewing and updating these materials, taking account of user views and adding to the materials on offer. Please contact us using the address below to tell us:</p>
+
+<ul>
+  <li>how you are using the toolkit</li>
+  <li>how you are dealing with unnecessary workload</li>
+  <li>whether you have other innovative and effective solutions which you would like us to consider for inclusion in the toolkit</li>
+</ul>
+
+<h3 id="acknowledgements">Acknowledgements</h3>
+
+<p>The Department for Education would like to thank the following people and organisations for their work developing content and contributing examples to the toolkit: [to add]</p>
+
+</div>
+</div>
+
+
+      <div class="responsive-bottom-margin">
+        <div class="app-c-published-dates ">
+    Published 4 April 2018
+    <br>Last updated 25 April 2018
+</div>
+
+      </div>
+
+      <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
+  </div>
+  </div>
+  <div class="column-one-third">
+  
+
+  <!-- Rendering taxonomy sidebar because the page is tagged to live taxons -->
+    <aside class="gem-c-taxonomy-navigation" data-module="track-click" role="complementary">
+    <h2 class="gem-c-taxonomy-navigation__heading">Related content</h2>
+      <div data-track-count="sidebarTaxonSection">
+        <h3 class="gem-c-taxonomy-navigation__heading">
+          <a class="gem-c-taxonomy-navigation__link" data-track-category="relatedLinkClicked" data-track-action="1" data-track-label="/education/teacher-training-and-professional-development" data-track-options='{"dimension28":"1","dimension29":"Teacher training and professional development"}' href="/education/teacher-training-and-professional-development">Teacher training and professional development</a>
+        </h3>
+
+        <p class="gem-c-taxonomy-navigation__taxon-description">
+          Funding and grants for training. Initial Teacher Training (ITT), Qualified Teacher Status (QTS), teacher subject specialism courses.
+        </p>
+
+      </div>
+
+        <div>
+          <h3 class="gem-c-taxonomy-navigation__section-heading">
+            Collection
+          </h3>
+          <nav class="gem-c-taxonomy-navigation__navigation" data-module="toggle" role="navigation">
+            <ul class="gem-c-taxonomy-navigation__list">
+                    <li><a class="gem-c-taxonomy-navigation__section-link" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/teacher-workload-reduction-tools" data-track-options='{"dimension28":"1","dimension29":"Teacher workload reduction tools"}' href="/government/collections/teacher-workload-reduction-tools">Teacher workload reduction tools</a></li>
+            </ul>
+          </nav>
+        </div>
+  </aside>
+
+
+  <!-- Rendering the contextual communications campaign test -->
+</div>
+
+</div>
+
+    </main>
+    
+<div class="gem-c-feedback gem-c-feedback--top-margin" data-module="feedback">
+  <div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
+    <div class="js-prompt-questions">
+      <h3 class="gem-c-feedback__prompt-question">Is this page useful?</h3>
+
+      <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--useful js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" href="/contact/govuk">
+          Yes <span class="visually-hidden">this page is useful</span>
+</a>
+      <a class="gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffNoClick" aria-controls="page-is-not-useful" aria-expanded="false" role="button" href="/contact/govuk">
+          No <span class="visually-hidden">this page is not useful</span>
+</a>
+      <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--wrong js-toggle-form js-something-is-wrong" data-track-category="Onsite Feedback" data-track-action="GOV.UK Open Form" aria-controls="something-is-wrong" aria-expanded="false" role="button" href="/contact/govuk">
+          Is there anything wrong with this page?
+</a>    </div>
+
+    <div class="gem-c-feedback__prompt-success js-prompt-success js-hidden" tabindex="-1">
+      Thank you for your feedback
+    </div>
+  </div>
+
+  <form action="/contact/govuk/problem_reports" id="something-is-wrong" class="gem-c-feedback__form js-feedback-form js-hidden" data-track-category="Onsite Feedback" data-track-action="GOV.UK Send Form" method="post">
+    <a href="#" class="gem-c-feedback__close gem-c-feedback__js-show js-close-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Close Form" aria-controls="something-is-wrong" aria-expanded="true" role="button">Close</a>
+
+    <div class="gem-c-feedback__grid-row">
+      <div class="gem-c-feedback__column-two-thirds">
+        <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
+
+        <input type="hidden" name="url" value="https://draft-origin.publishing.service.gov.uk/guidance/identifying-and-reducing-unnecessary-workload-for-teachers">
+        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36">
+
+        <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
+        <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
+
+        
+
+
+<div class="
+    gem-c-label
+    
+    
+  ">
+  <label class="
+      gem-c-label__text
+      
+    " for="input-5ca5d177">
+    What were you doing?
+  </label>
+</div>
+
+
+<input class="gem-c-input " id="input-5ca5d177" name="what_doing" type="text" aria-describedby="feedback_explanation">
+
+
+        
+
+
+<div class="
+    gem-c-label
+    
+    
+  ">
+  <label class="
+      gem-c-label__text
+      
+    " for="input-0850ef51">
+    What went wrong?
+  </label>
+</div>
+
+
+<input class="gem-c-input " id="input-0850ef51" name="what_wrong" type="text">
+
+
+        <input class="gem-c-feedback__submit" type="submit" value="Send">
+      </div>
+    </div>
+  </form>
+
+  <form action="/contact/govuk/email-survey-signup" id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form js-hidden" data-track-category="yesNoFeedbackForm" data-track-action="Send Form" method="post">
+    <a href="#" class="gem-c-feedback__close js-close-form" data-track-category="yesNoFeedbackForm" data-track-action="ffFormClose" aria-controls="page-is-not-useful" aria-expanded="true" role="button">Close</a>
+
+    <div class="gem-c-feedback__grid-row">
+      <div class="gem-c-feedback__column-two-thirds">
+        <div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
+
+        <input type="hidden" name="url" value="https://draft-origin.publishing.service.gov.uk/guidance/identifying-and-reducing-unnecessary-workload-for-teachers">
+        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36">
+
+        <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
+        <input name="email_survey_signup[survey_source]" type="hidden" value="https://draft-origin.publishing.service.gov.uk/guidance/identifying-and-reducing-unnecessary-workload-for-teachers">
+        <input name="email_survey_signup[ga_client_id]" type="hidden" value="1627485790.1515403243">
+
+        <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
+        <p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
+
+        
+
+
+<div class="
+    gem-c-label
+    
+    
+  ">
+  <label class="
+      gem-c-label__text
+      
+    " for="input-4ad9e0ef">
+    Email address
+  </label>
+</div>
+
+
+<input class="gem-c-input " id="input-4ad9e0ef" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation">
+
+
+        <input class="gem-c-feedback__submit" type="submit" value="Send me the survey">
+        <a href="https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/guidance/identifying-and-reducing-unnecessary-workload-for-teachers&amp;gcl=1627485790.1515403243" class="gem-c-feedback__email-link" id="take-survey" target="_blank" rel="noopener noreferrer">Don’t have an email address?</a>
+      </div>
+    </div>
+  </form>
+
+</div>
+
+  </div>
+
+
+    <footer class="group js-footer" id="footer" role="contentinfo">
+
+      <div class="footer-wrapper">
+            <div class="footer-categories">
+      <div class="footer-explore">
+        <h2>Services and information</h2>
+
+        <ul>
+          <li><a href="/browse/benefits">Benefits</a></li>
+          <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
+          <li><a href="/browse/business">Business and self-employed</a></li>
+          <li><a href="/browse/childcare-parenting">Childcare and parenting</a></li>
+          <li><a href="/browse/citizenship">Citizenship and living in the UK</a></li>
+          <li><a href="/browse/justice">Crime, justice and the law</a></li>
+          <li><a href="/browse/disabilities">Disabled people</a></li>
+          <li><a href="/browse/driving">Driving and transport</a></li>
+        </ul>
+        <ul>
+          <li><a href="/browse/education">Education and learning</a></li>
+          <li><a href="/browse/employing-people">Employing people</a></li>
+          <li><a href="/browse/environment-countryside">Environment and countryside</a></li>
+          <li><a href="/browse/housing-local-services">Housing and local services</a></li>
+          <li><a href="/browse/tax">Money and tax</a></li>
+          <li><a href="/browse/abroad">Passports, travel and living abroad</a></li>
+          <li><a href="/browse/visas-immigration">Visas and immigration</a></li>
+          <li><a href="/browse/working">Working, jobs and pensions</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-inside-government">
+        <h2>Departments and policy</h2>
+
+        <ul>
+          <li><a href="/government/how-government-works">How government works</a></li>
+          <li><a href="/government/organisations">Departments</a></li>
+          <li><a href="/world">Worldwide</a></li>
+          <li><a href="/government/policies">Policies</a></li>
+          <li><a href="/government/publications">Publications</a></li>
+          <li><a href="/government/announcements">Announcements</a></li>
+        </ul>
+      </div>
+      <hr>
+    </div>
+
+
+        <div class="footer-meta">
+          <div class="footer-meta-inner">
+              <h2 class="visuallyhidden">Support links</h2>
+<ul>
+  <li><a href="/help">Help</a></li>
+  <li><a href="/help/cookies">Cookies</a></li>
+  <li><a href="/contact">Contact</a></li>
+  <li><a href="/help/terms-conditions">Terms and conditions</a></li>
+  <li><a href="/cymraeg" lang="cy" hreflang="cy">Rhestr o Wasanaethau Cymraeg</a></li>
+  <li>Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service">Government Digital Service</a>
+</li>
+</ul>
+
+
+
+            <div class="open-government-licence">
+              <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
+                <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
+            </div>
+          </div>
+
+          <div class="copyright">
+            <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/">© Crown copyright</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div id="global-app-error" class="app-error hidden"></div>
+
+    <script src="https://assets.publishing.service.gov.uk/static/govuk-template-ae4c5d21c0a7cb5bc8926a9f491de4e410244403f66c72997210c281efb92d4f.js" crossorigin="anonymous" integrity="sha256-rkxdIcCny1vIkmqfSR3k5BAkRAP2bHKZchDCge+5LU8="></script>
+
+      <script src="https://assets.publishing.service.gov.uk/static/libs/jquery/jquery-1.12.4-5f1157a433c276bcb98f3651434f7cb1f49ff45fe2ec2808b46ee088e61159b5.js" crossorigin="anonymous" integrity="sha256-XxFXpDPCdry5jzZRQ098sfSf9F/i7CgItG7giOYRWbU="></script>
+<script src="https://assets.publishing.service.gov.uk/static/header-footer-only-d03b5fd21e9197119d11b83e3325c35f8695a4040cf96e50b824f1198be8c4af.js" crossorigin="anonymous" integrity="sha256-0Dtf0h6RlxGdEbg+MyXDX4aVpAQM+W5QuCTxGYvoxK8="></script>
+<script src="https://assets.publishing.service.gov.uk/static/surveys-0d86371aa3b7454b07a5045a026cf00fc7c405bff02e06be7d4703391c422f23.js" crossorigin="anonymous" integrity="sha256-DYY3GqO3RUsHpQRaAmzwD8fEBb/wLga+fUcDORxCLyM="></script>
+
+
+
+    <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
+  <script src="https://assets.publishing.service.gov.uk/government-frontend/application-dae76f45ac35faa59992489a9e67f2bb6ef30e0ef9c63b68869bd504c7bbe372.js" crossorigin="anonymous" integrity="sha256-2udvRaw1+qWZkkianmfyu27zDg75xjtohpvVBMe743I="></script>
+</body>
+</html>
