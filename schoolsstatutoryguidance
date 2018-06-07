@@ -1,0 +1,1973 @@
+<!DOCTYPE html>
+<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
+<!--<![endif]-->
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta property="og:description" content="The Department for Education’s statutory guidance publications for schools and local authorities.">
+<meta property="og:title" content="Schools: statutory guidance">
+<meta property="og:url" content="https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools">
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="GOV.UK">
+<meta name="twitter:card" content="summary">
+<meta name="description" content="The Department for Education’s statutory guidance publications for schools and local authorities.">
+<meta name="govuk:taxon-slugs" content="running-and-managing-a-school">
+<meta name="govuk:taxon-slug" content="running-and-managing-a-school">
+<meta name="govuk:taxon-ids" content="42e6e5c3-3a06-4a6f-abd4-a4b85d9c6b16">
+<meta name="govuk:taxon-id" content="42e6e5c3-3a06-4a6f-abd4-a4b85d9c6b16">
+<meta name="govuk:themes" content="education">
+<meta name="govuk:publishing-government" content="2010-to-2015-conservative-and-liberal-democrat-coalition-government">
+<meta name="govuk:political-status" content="non-political">
+<meta name="govuk:analytics:organisations" content="&lt;D6&gt;">
+<meta name="govuk:content-has-history" content="true">
+<meta name="govuk:content-id" content="5ef4d375-7631-11e4-a3cb-005056011aef">
+<meta name="govuk:navigation-document-type" content="guidance">
+<meta name="govuk:user-journey-stage" content="finding">
+<meta name="govuk:schema-name" content="document_collection">
+<meta name="govuk:format" content="document_collection">
+<meta name="csrf-token" content="jVB/KYM/rgeA044U5qkFtLy5RQ4lTWbsEDwDBqZYJXYlrei7yhN3WmDVdi9ACchP3OLAQ5aZHrnfMEpvq3jM2w==">
+<meta name="csrf-param" content="authenticity_token">
+    <meta charset="utf-8">
+    <title lang="en">
+      Schools: statutory guidance - GOV.UK
+  </title>
+
+    <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-460e090f2ead97f3ec511a45a38fa904f864580ddcd9e252158946ba97ca632b.css" crossorigin="anonymous" integrity="sha256-Rg4JDy6tl/PsURpFo4+pBPhkWA3c2eJSFYlGupfKYys=">
+<!--<![endif]-->
+    <!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-ie6-29be9c332a8b3abc85a6dbda46b1240f56db0ae97199c9746f499c37a926b241.css" /><![endif]-->
+    <!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-ie7-3fdede6944700ccc1661c90ae2a2581414ccecd1f79c1c524e641d62eb022b2d.css" /><![endif]-->
+    <!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-ie8-5c60a2ac7cd8a4f48b090a7a40abeea696c10a4675f83edaf6fbd47b73be1c60.css" /><![endif]-->
+    <link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css" crossorigin="anonymous" integrity="sha256-EHZRlSHC//u/das7DTsy7i2WrH6XePHN+sF3Hu/RocA=">
+
+    <link rel="stylesheet" media="all" href="https://assets-origin.integration.publishing.service.gov.uk/static/fonts-ca10ee5d23041fa6da7a63ac3ebc7b5df1601f7a9c60d401f29840fa237b3aba.css" crossorigin="anonymous" integrity="sha256-yhDuXSMEH6baemOsPrx7XfFgH3qcYNQB8phA+iN7Oro=">
+    <!--[if lt IE 9]><script src="https://assets-origin.integration.publishing.service.gov.uk/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js" crossorigin="anonymous" integrity="sha256-pFJFRKU9V6fiWbS7lmucMlV8mMkgt35S0JMEZCtoQBo="></script><![endif]-->
+
+    <link rel="shortcut icon" href="https://assets-origin.integration.publishing.service.gov.uk/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
+    <link rel="mask-icon" href="https://assets-origin.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c">
+    <link rel="apple-touch-icon" sizes="180x180" href="https://assets-origin.integration.publishing.service.gov.uk/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png">
+    <link rel="apple-touch-icon" sizes="167x167" href="https://assets-origin.integration.publishing.service.gov.uk/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="https://assets-origin.integration.publishing.service.gov.uk/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png">
+    <link rel="apple-touch-icon" href="https://assets-origin.integration.publishing.service.gov.uk/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png">
+
+    <meta name="theme-color" content="#0b0c0c">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-b37ca3541387eea09fc1a3730209f5a1c75376749a764ca1d4e4dbc3f7ce13b1.css" crossorigin="anonymous" integrity="sha256-s3yjVBOH7qCfwaNzAgn1ocdTdnSadkyh1OTbw/fOE7E=">
+<!--<![endif]-->
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie6-e9746117083783428f3f975114f8834b01821ecee68b5e662dea2bfcb57999cb.css" /><script>var ieVersion = 6;</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie7-ad510cae741911e2e619e3857fc0ca933bc7b8dfcab6d7773755c9189586bdeb.css" /><script>var ieVersion = 7;</script><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie8-9b4924d5736d93ef21246bbe4b5ac9e68fd16d4645519d11536522710ac06634.css" /><script>var ieVersion = 8;</script><![endif]-->
+
+<link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-print-07d9f2ae45b9bf761acf17c7ec414a9493f1a7cf1c8278b7ad5497cdd73eee84.css" crossorigin="anonymous" integrity="sha256-B9nyrkW5v3YazxfH7EFKlJPxp88cgni3rVSXzdc+7oQ=">
+
+
+
+    <meta property="og:image" content="https://assets-origin.integration.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
+  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-8267827a8078b631cf5268e1527a0af6b251a8f11d4c317aadfde7d5bd5dabb0.css" crossorigin="anonymous" integrity="sha256-gmeCeoB4tjHPUmjhUnoK9rJRqPEdTDF6rf3n1b1dq7A=">
+<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/print-efa220c0a74eafee8fed663ec4061175f72a06371342f96e8a6ba4c67c25be35.css" crossorigin="anonymous" integrity="sha256-76IgwKdOr+6P7WY+xAYRdfcqBjcTQvluimukxnwlvjU=">
+<link rel="canonical" href="https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools">
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie6-5c6da18f5475416747b51c43bc9bcb3338a948887fdc18602ee2e588be12bb07.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie7-2589047b2b6ce5e48dd13e9d7b6495457afdcb030fc5fea207ee497e199980b9.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie8-041a83f316d9500620d6c90638f0ba0429cc9fa5c7a7c70908ec7c157ad322d0.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
+</head>
+
+  <body>
+    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+
+    
+
+    <div id="skiplink-container">
+      <div>
+        <a href="#content" class="skiplink">Skip to main content</a>
+      </div>
+    </div>
+
+    <div id="global-cookie-message">
+        <p>GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a></p>
+    </div>
+
+    <header role="banner" id="global-header" class=" with-proposition">
+      <div class="header-wrapper">
+        <div class="header-global">
+          <div class="header-logo">
+            <a href="https://www-origin.integration.publishing.service.gov.uk" title="Go to the GOV.UK homepage" id="logo" class="content">
+              <img src="https://assets-origin.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> This is not GOV.UK
+            </a>
+          </div>
+            <a href="#search" class="search-toggle js-header-toggle">Search</a>
+
+  <form id="search" class="site-search" action="/search" method="get" role="search">
+    <div class="content">
+      <label for="site-search-text">Search</label>
+      <input type="search" name="q" id="site-search-text" title="Search" class="js-search-focus">
+      <input class="submit" type="submit" value="Search">
+    </div>
+  </form>
+
+        </div>
+        
+      <div class="header-proposition">
+  <div class="content">
+    <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
+  <nav id="proposition-menu" class="no-proposition-name">
+  <ul id="proposition-links">
+    <li>
+      <a class="" href="/government/organisations">
+        Departments
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/world">
+        Worldwide
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/how-government-works">
+        How government works
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/get-involved">
+        Get involved
+      </a>
+    </li>
+    <li class="clear-child">
+      <a class="" href="/government/policies">
+        Policies
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/publications">
+        Publications
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/publications?publication_filter_option=consultations">
+        Consultations
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/statistics">
+        Statistics
+      </a>
+    </li>
+    <li>
+      <a class="" href="/government/announcements">
+        Announcements
+      </a>
+    </li>
+  </ul>
+</nav>
+</div>
+</div>
+</div>
+    </header>
+
+      <div id="user-satisfaction-survey-container"></div>
+
+
+    <div id="global-header-bar"></div>
+
+      <div id="wrapper" class="direction-ltr">
+    
+    
+  <!-- Rendering taxonomy breadcrumbs because the page is tagged to live taxons -->
+  
+
+
+<div class="gem-c-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile" data-module="track-click">
+  <ol>
+
+    <li class="gem-c-breadcrumbs--item ">
+        <a data-track-category="breadcrumbClicked" data-track-action="1" data-track-label="/" data-track-options='{"dimension28":"3","dimension29":"Home"}' class="" aria-current="false" href="/">Home</a>
+    </li>
+
+    <li class="gem-c-breadcrumbs--item ">
+        <a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/education" data-track-options='{"dimension28":"3","dimension29":"Education, training and skills"}' class="" aria-current="false" href="/education">Education, training and skills</a>
+    </li>
+
+    <li class="gem-c-breadcrumbs--item gem-c-breadcrumbs--parent">
+        <a data-track-category="breadcrumbClicked" data-track-action="3" data-track-label="/education/running-and-managing-a-school" data-track-options='{"dimension28":"3","dimension29":"Running and managing a school"}' class="" aria-current="false" href="/education/running-and-managing-a-school">Running and managing a school</a>
+    </li>
+  </ol>
+</div>
+
+
+    <main role="main" id="content" class="document-collection" lang="en">
+      
+<div class="grid-row">
+  <div class="column-two-thirds">
+    <div class="pub-c-title
+  
+  pub-c-title--bottom-margin">
+    <p class="pub-c-title__context">
+      Collection
+    </p>
+  <h1 class="pub-c-title__text pub-c-title__text--long">
+    Schools: statutory guidance
+  </h1>
+</div>
+
+  </div>
+  
+  <div class="column-two-thirds">
+    
+  <p class="gem-c-lead-paragraph ">
+    The Department for Education’s statutory guidance publications for schools and local authorities.
+  </p>
+
+    
+    
+  </div>
+</div>
+
+<div class="grid-row">
+  <div class="metadata-logo-wrapper">
+    <div class="column-two-thirds metadata-column">
+        <div class="app-c-publisher-metadata">
+    <div class="app-c-published-dates ">
+    Published 11 March 2014
+    <br>Last updated 7 June 2018
+      — <a href="#history">see all updates</a>
+</div>
+
+      <div class="app-c-publisher-metadata__other">
+        <dl data-module="track-click">
+            <dt class="app-c-publisher-metadata__term">From: </dt>
+            <dd class="app-c-publisher-metadata__definition"><a href="/government/organisations/department-for-education">Department for Education</a></dd>
+        </dl>
+      </div>
+  </div>
+
+    </div>
+    <div class="column-one-third">
+    </div>
+  </div>
+</div>
+
+
+<div class="grid-row">
+  <div class="column-two-thirds">
+    
+
+      <div id="contents" class="app-c-contents-list-with-body" data-module="sticky-element-container">
+      <div class="responsive-bottom-margin">
+          <nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+      <h2 class="gem-c-contents-list__title">Contents</h2>
+
+    <ol class="gem-c-contents-list__list">
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#administration-and-finance" data-track-options='{"dimension29":"Administration and finance"}' href="#administration-and-finance">Administration and finance</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#admissions" data-track-options='{"dimension29":"Admissions"}' href="#admissions">Admissions</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#assessment" data-track-options='{"dimension29":"Assessment"}' href="#assessment">Assessment</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#behaviour-and-attendance--" data-track-options='{"dimension29":"Behaviour and attendance  "}' href="#behaviour-and-attendance--">Behaviour and attendance  </a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#curriculum" data-track-options='{"dimension29":"Curriculum"}' href="#curriculum">Curriculum</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#early-years-foundation-stage" data-track-options='{"dimension29":"Early years foundation stage"}' href="#early-years-foundation-stage">Early years foundation stage</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#governance" data-track-options='{"dimension29":"Governance"}' href="#governance">Governance</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#involving-parents-and-pupils" data-track-options='{"dimension29":"Involving parents and pupils"}' href="#involving-parents-and-pupils">Involving parents and pupils</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#looked-after-children" data-track-options='{"dimension29":"Looked-after children"}' href="#looked-after-children">Looked-after children</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#safeguarding-children-and-young-people" data-track-options='{"dimension29":"Safeguarding children and young people"}' href="#safeguarding-children-and-young-people">Safeguarding children and young people</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#special-educational-/-health-needs" data-track-options='{"dimension29":"Special educational / health needs"}' href="#special-educational-/-health-needs">Special educational / health needs</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#staff-employment-and-teachers-pay" data-track-options='{"dimension29":"Staff employment and teachers pay"}' href="#staff-employment-and-teachers-pay">Staff employment and teachers pay</a>
+        </li>
+        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 13" data-track-label="#16-to-19-education-and-work-experience" data-track-options='{"dimension29":"16 to 19 education and work experience"}' href="#16-to-19-education-and-work-experience">16 to 19 education and work experience</a>
+        </li>
+    </ol>
+  </nav>
+
+      </div>
+    
+      <div class="responsive-bottom-margin">
+          
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+<div class="call-to-action">
+<p>Statutory guidance sets out what schools and local authorities must do to comply with the law. You should follow the guidance unless you have a very good reason not to.
+<br><br>
+There is some guidance that you must follow without exception. In these cases we make this clear in the guidance document itself.</p>
+</div>
+
+<p>There is supporting guidance to help you comply with the law.</p>
+
+<p>These publications reflect the current legal position (unless otherwise indicated), but may not reflect the current government’s policies.</p>
+
+</div>
+</div>
+
+
+  <h3 class="group-title" id="administration-and-finance">Administration and finance</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/capital-transactions-sixth-form-colleges" data-track-options='{"dimension28":"10","dimension29":"Capital transactions: sixth-form colleges"}' href="/government/publications/capital-transactions-sixth-form-colleges">Capital transactions: sixth-form colleges</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2014-06-25T12:36:52+01:00">
+                    25 June 2014
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.2" data-track-label="/government/publications/change-of-land-use-due-to-an-academy-conversion" data-track-options='{"dimension28":"10","dimension29":"Change of land use due to an academy conversion"}' href="/government/publications/change-of-land-use-due-to-an-academy-conversion">Change of land use due to an academy conversion</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2010-12-17T00:00:00+00:00">
+                    17 December 2010
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.3" data-track-label="/government/publications/home-to-school-travel-and-transport-guidance" data-track-options='{"dimension28":"10","dimension29":"Home-to-school travel and transport"}' href="/government/publications/home-to-school-travel-and-transport-guidance">Home-to-school travel and transport</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-12-07T15:51:00+00:00">
+                     7 December 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.4" data-track-label="/government/publications/post-16-transport-to-education-and-training" data-track-options='{"dimension28":"10","dimension29":"Transport to education and training for people aged 16 to 18"}' href="/government/publications/post-16-transport-to-education-and-training">Transport to education and training for people aged 16 to 18</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2017-10-26T09:43:33+01:00">
+                    26 October 2017
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.5" data-track-label="/government/publications/schemes-for-financing-schools" data-track-options='{"dimension28":"10","dimension29":"Schemes for financing schools"}' href="/government/publications/schemes-for-financing-schools">Schemes for financing schools</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-03-22T11:35:06+00:00">
+                    22 March 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.6" data-track-label="/government/publications/schools-causing-concern--2" data-track-options='{"dimension28":"10","dimension29":"Schools causing concern"}' href="/government/publications/schools-causing-concern--2">Schools causing concern</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-02-09T13:46:02+00:00">
+                     9 February 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.7" data-track-label="/government/publications/charging-for-school-activities" data-track-options='{"dimension28":"10","dimension29":"Charging for school activities"}' href="/government/publications/charging-for-school-activities">Charging for school activities</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-05-15T14:29:52+01:00">
+                    15 May 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.8" data-track-label="/government/publications/data-protection-and-privacy-privacy-notices" data-track-options='{"dimension28":"10","dimension29":"Data protection: privacy notice model documents"}' href="/government/publications/data-protection-and-privacy-privacy-notices">Data protection: privacy notice model documents</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-05-15T15:16:58+01:00">
+                    15 May 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.9" data-track-label="/guidance/what-maintained-schools-must-publish-online" data-track-options='{"dimension28":"10","dimension29":"What maintained schools must publish online"}' href="/guidance/what-maintained-schools-must-publish-online">What maintained schools must publish online</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-05-24T10:13:27+01:00">
+                    24 May 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.10" data-track-label="/guidance/what-academies-free-schools-and-colleges-should-publish-online" data-track-options='{"dimension28":"10","dimension29":"What academies, free schools and colleges should publish online"}' href="/guidance/what-academies-free-schools-and-colleges-should-publish-online">What academies, free schools and colleges should publish online</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-05-24T10:13:29+01:00">
+                    24 May 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="admissions">Admissions</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/government/publications/school-admissions-code--2" data-track-options='{"dimension28":"2","dimension29":"School admissions code"}' href="/government/publications/school-admissions-code--2">School admissions code</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-09-17T13:26:03+01:00">
+                    17 September 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.2" data-track-label="/government/publications/school-admissions-appeals-code" data-track-options='{"dimension28":"2","dimension29":"School admissions appeals code"}' href="/government/publications/school-admissions-appeals-code">School admissions appeals code</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2012-02-01T09:00:00+00:00">
+                     1 February 2012
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="assessment">Assessment</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/government/publications/p-scales-attainment-targets-for-pupils-with-sen" data-track-options='{"dimension28":"1","dimension29":"P scales: attainment targets for pupils with SEN"}' href="/government/publications/p-scales-attainment-targets-for-pupils-with-sen">P scales: attainment targets for pupils with SEN</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2017-06-02T16:07:01+01:00">
+                     2 June 2017
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="behaviour-and-attendance--">Behaviour and attendance  </h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/government/publications/alternative-provision" data-track-options='{"dimension28":"5","dimension29":"Alternative provision"}' href="/government/publications/alternative-provision">Alternative provision</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-06-27T10:29:44+01:00">
+                    27 June 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.2" data-track-label="/government/publications/behaviour-and-discipline-in-schools-guidance-for-governing-bodies" data-track-options='{"dimension28":"5","dimension29":"Behaviour and discipline in schools: guide for governing bodies"}' href="/government/publications/behaviour-and-discipline-in-schools-guidance-for-governing-bodies">Behaviour and discipline in schools: guide for governing bodies</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-09-24T16:42:48+01:00">
+                    24 September 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/children-missing-education" data-track-options='{"dimension28":"5","dimension29":"Children missing education"}' href="/government/publications/children-missing-education">Children missing education</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-09-05T16:48:27+01:00">
+                     5 September 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.4" data-track-label="/government/publications/parental-responsibility-measures-for-behaviour-and-attendance" data-track-options='{"dimension28":"5","dimension29":"School behaviour and attendance: parental responsibility measures"}' href="/government/publications/parental-responsibility-measures-for-behaviour-and-attendance">School behaviour and attendance: parental responsibility measures</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2017-01-05T14:50:33+00:00">
+                     5 January 2017
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.5" data-track-label="/government/publications/school-exclusion" data-track-options='{"dimension28":"5","dimension29":"School exclusion"}' href="/government/publications/school-exclusion">School exclusion</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2017-07-19T15:01:48+01:00">
+                    19 July 2017
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="curriculum">Curriculum</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.1" data-track-label="/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: framework for key stages 1 to 4"}' href="/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4">National curriculum in England: framework for key stages 1 to 4</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2014-12-02T12:08:38+00:00">
+                     2 December 2014
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.2" data-track-label="/government/publications/national-curriculum-in-england-primary-curriculum" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: primary curriculum"}' href="/government/publications/national-curriculum-in-england-primary-curriculum">National curriculum in England: primary curriculum</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-05-06T16:00:54+01:00">
+                     6 May 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.3" data-track-label="/government/publications/national-curriculum-in-england-secondary-curriculum" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: secondary curriculum"}' href="/government/publications/national-curriculum-in-england-secondary-curriculum">National curriculum in England: secondary curriculum</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2014-12-02T12:12:59+00:00">
+                     2 December 2014
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.4" data-track-label="/government/publications/national-curriculum-in-england-english-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: English programmes of study"}' href="/government/publications/national-curriculum-in-england-english-programmes-of-study">National curriculum in England: English programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2014-07-16T10:51:11+01:00">
+                    16 July 2014
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.5" data-track-label="/government/publications/national-curriculum-in-england-mathematics-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: mathematics programmes of study"}' href="/government/publications/national-curriculum-in-england-mathematics-programmes-of-study">National curriculum in England: mathematics programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2014-07-16T10:51:40+01:00">
+                    16 July 2014
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.6" data-track-label="/government/publications/national-curriculum-in-england-science-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: science programmes of study"}' href="/government/publications/national-curriculum-in-england-science-programmes-of-study">National curriculum in England: science programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-05-06T15:52:05+01:00">
+                     6 May 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+         </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.7" data-track-label="/government/publications/national-curriculum-in-england-art-and-design-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: art and design programmes of study"}' href="/government/publications/national-curriculum-in-england-art-and-design-programmes-of-study">National curriculum in England: art and design programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.8" data-track-label="/government/publications/national-curriculum-in-england-citizenship-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: citizenship programmes of study"}' href="/government/publications/national-curriculum-in-england-citizenship-programmes-of-study">National curriculum in England: citizenship programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.9" data-track-label="/government/publications/national-curriculum-in-england-computing-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: computing programmes of study"}' href="/government/publications/national-curriculum-in-england-computing-programmes-of-study">National curriculum in England: computing programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.10" data-track-label="/government/publications/national-curriculum-in-england-design-and-technology-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: design and technology programmes of study"}' href="/government/publications/national-curriculum-in-england-design-and-technology-programmes-of-study">National curriculum in England: design and technology programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                 <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.11" data-track-label="/government/publications/national-curriculum-in-england-geography-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: geography programmes of study"}' href="/government/publications/national-curriculum-in-england-geography-programmes-of-study">National curriculum in England: geography programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.12" data-track-label="/government/publications/national-curriculum-in-england-history-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: history programmes of study"}' href="/government/publications/national-curriculum-in-england-history-programmes-of-study">National curriculum in England: history programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.13" data-track-label="/government/publications/national-curriculum-in-england-languages-progammes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: languages programmes of study"}' href="/government/publications/national-curriculum-in-england-languages-progammes-of-study">National curriculum in England: languages programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+             <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.14" data-track-label="/government/publications/national-curriculum-in-england-music-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: music programmes of study"}' href="/government/publications/national-curriculum-in-england-music-programmes-of-study">National curriculum in England: music programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.15" data-track-label="/government/publications/national-curriculum-in-england-physical-education-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: PE programmes of study"}' href="/government/publications/national-curriculum-in-england-physical-education-programmes-of-study">National curriculum in England: PE programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.16" data-track-label="/government/publications/sex-and-relationship-education" data-track-options='{"dimension28":"16","dimension29":"Sex and relationship education"}' href="/government/publications/sex-and-relationship-education">Sex and relationship education</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2000-07-06T00:00:00+01:00">
+                     6 July 2000
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="early-years-foundation-stage">Early years foundation stage</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/government/publications/early-years-foundation-stage-framework--2" data-track-options='{"dimension28":"1","dimension29":"Early years foundation stage statutory framework (EYFS)"}' href="/government/publications/early-years-foundation-stage-framework--2">Early years foundation stage statutory framework (EYFS)</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-02-20T14:29:08+00:00">
+                    20 February 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="governance">Governance</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.1" data-track-label="/government/publications/constitution-of-governing-bodies-of-maintained-schools" data-track-options='{"dimension28":"3","dimension29":"Constitution of governing bodies of maintained schools"}' href="/government/publications/constitution-of-governing-bodies-of-maintained-schools">Constitution of governing bodies of maintained schools</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2017-08-29T15:56:38+01:00">
+                    29 August 2017
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.2" data-track-label="/government/publications/school-governance-collaboration-regulations-2003" data-track-options='{"dimension28":"3","dimension29":"School Governance (Collaboration) Regulations 2003"}' href="/government/publications/school-governance-collaboration-regulations-2003">School Governance (Collaboration) Regulations 2003</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2003-09-01T10:00:00+01:00">
+                     1 September 2003
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.3" data-track-label="/government/publications/school-complaints-procedures" data-track-options='{"dimension28":"3","dimension29":"School complaints procedures: guidance for schools"}' href="/government/publications/school-complaints-procedures">School complaints procedures: guidance for schools</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-01-06T13:39:00+00:00">
+                     6 January 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="involving-parents-and-pupils">Involving parents and pupils</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="8.1" data-track-label="/government/publications/listening-to-and-involving-children-and-young-people" data-track-options='{"dimension28":"1","dimension29":"Listening to and involving children and young people"}' href="/government/publications/listening-to-and-involving-children-and-young-people">Listening to and involving children and young people</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2014-01-16T00:00:00+00:00">
+                    16 January 2014
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="looked-after-children">Looked-after children</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.1" data-track-label="/government/publications/designated-teacher-for-looked-after-children" data-track-options='{"dimension28":"5","dimension29":"Designated teacher for looked-after and previously looked-after children"}' href="/government/publications/designated-teacher-for-looked-after-children">Designated teacher for looked-after and previously looked-after children</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-02-26T15:03:08+00:00">
+                    26 February 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.2" data-track-label="/government/publications/directors-of-childrens-services-roles-and-responsibilities" data-track-options='{"dimension28":"5","dimension29":"Directors of children’s services: roles and responsibilities"}' href="/government/publications/directors-of-childrens-services-roles-and-responsibilities">Directors of children’s services: roles and responsibilities</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-04-08T09:00:00+01:00">
+                     8 April 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.3" data-track-label="/government/publications/children-act-1989-transition-to-adulthood-for-care-leavers" data-track-options='{"dimension28":"5","dimension29":"Children Act 1989: transition to adulthood for care leavers"}' href="/government/publications/children-act-1989-transition-to-adulthood-for-care-leavers">Children Act 1989: transition to adulthood for care leavers</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-01-23T13:24:38+00:00">
+                    23 January 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.4" data-track-label="/government/publications/children-act-1989-fostering-services" data-track-options='{"dimension28":"5","dimension29":"Children Act 1989: fostering services"}' href="/government/publications/children-act-1989-fostering-services">Children Act 1989: fostering services</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-07-03T14:18:29+01:00">
+                     3 July 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.5" data-track-label="/government/publications/childrens-homes-regulations-including-quality-standards-guide" data-track-options='{"dimension28":"5","dimension29":"Children’s homes regulations, including quality standards: guide"}' href="/government/publications/childrens-homes-regulations-including-quality-standards-guide">Children’s homes regulations, including quality standards: guide</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-03-06T16:12:00+00:00">
+                     6 March 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="safeguarding-children-and-young-people">Safeguarding children and young people</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.1" data-track-label="/government/publications/keeping-children-safe-in-education--2" data-track-options='{"dimension28":"10","dimension29":"Keeping children safe in education"}' href="/government/publications/keeping-children-safe-in-education--2">Keeping children safe in education</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-05-17T11:40:45+01:00">
+                    17 May 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.2" data-track-label="/government/publications/working-together-to-safeguard-children--2" data-track-options='{"dimension28":"10","dimension29":"Working together to safeguard children"}' href="/government/publications/working-together-to-safeguard-children--2">Working together to safeguard children</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2017-02-16T10:00:32+00:00">
+                    16 February 2017
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.3" data-track-label="/government/publications/multi-agency-statutory-guidance-on-female-genital-mutilation" data-track-options='{"dimension28":"10","dimension29":"Multi-agency statutory guidance on female genital mutilation"}' href="/government/publications/multi-agency-statutory-guidance-on-female-genital-mutilation">Multi-agency statutory guidance on female genital mutilation</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-04-01T12:00:00+01:00">
+                     1 April 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.4" data-track-label="/government/publications/disqualification-under-the-childcare-act-2006" data-track-options='{"dimension28":"10","dimension29":"Disqualification under the Childcare Act 2006"}' href="/government/publications/disqualification-under-the-childcare-act-2006">Disqualification under the Childcare Act 2006</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-06-10T12:18:19+01:00">
+                    10 June 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.5" data-track-label="/government/publications/promoting-the-education-of-looked-after-children" data-track-options='{"dimension28":"10","dimension29":"Promoting the education of looked-after and previously looked-after children"}' href="/government/publications/promoting-the-education-of-looked-after-children">Promoting the education of looked-after and previously looked-after children</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-02-26T15:03:00+00:00">
+                    26 February 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.6" data-track-label="/government/publications/supervision-of-activity-with-children" data-track-options='{"dimension28":"10","dimension29":"Supervision of activity with children"}' href="/government/publications/supervision-of-activity-with-children">Supervision of activity with children</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2012-09-10T09:00:00+01:00">
+                    10 September 2012
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.7" data-track-label="/government/publications/children-act-1989-court-orders--2" data-track-options='{"dimension28":"10","dimension29":"Children Act 1989: court orders"}' href="/government/publications/children-act-1989-court-orders--2">Children Act 1989: court orders</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2014-04-17T16:42:00+01:00">
+                    17 April 2014
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.8" data-track-label="/government/publications/children-act-1989-care-planning-placement-and-case-review" data-track-options='{"dimension28":"10","dimension29":"Children Act 1989: care planning, placement and case review"}' href="/government/publications/children-act-1989-care-planning-placement-and-case-review">Children Act 1989: care planning, placement and case review</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-07-03T14:18:26+01:00">
+                     3 July 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.9" data-track-label="/government/publications/health-and-safety-advice-for-schools" data-track-options='{"dimension28":"10","dimension29":"Health and safety: advice for schools"}' href="/government/publications/health-and-safety-advice-for-schools">Health and safety: advice for schools</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2014-02-13T08:05:49+00:00">
+                    13 February 2014
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.10" data-track-label="/government/publications/standards-for-school-premises" data-track-options='{"dimension28":"10","dimension29":"Standards for school premises"}' href="/government/publications/standards-for-school-premises">Standards for school premises</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-03-09T14:11:11+00:00">
+                     9 March 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="special-educational-/-health-needs">Special educational / health needs</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.1" data-track-label="/government/publications/education-for-children-with-health-needs-who-cannot-attend-school" data-track-options='{"dimension28":"3","dimension29":"Education for children with health needs who cannot attend school"}' href="/government/publications/education-for-children-with-health-needs-who-cannot-attend-school">Education for children with health needs who cannot attend school</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-05-17T00:00:00+01:00">
+                    17 May 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.2" data-track-label="/government/publications/send-code-of-practice-0-to-25" data-track-options='{"dimension28":"3","dimension29":"SEND code of practice: 0 to 25 years"}' href="/government/publications/send-code-of-practice-0-to-25">SEND code of practice: 0 to 25 years</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2015-05-01T10:23:02+01:00">
+                     1 May 2015
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.3" data-track-label="/government/publications/supporting-pupils-at-school-with-medical-conditions--3" data-track-options='{"dimension28":"3","dimension29":"Supporting pupils with medical conditions at school"}' href="/government/publications/supporting-pupils-at-school-with-medical-conditions--3">Supporting pupils with medical conditions at school</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2017-08-16T14:10:24+01:00">
+                    16 August 2017
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="staff-employment-and-teachers-pay">Staff employment and teachers pay</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.1" data-track-label="/government/publications/induction-for-newly-qualified-teachers-nqts" data-track-options='{"dimension28":"5","dimension29":"Induction for newly qualified teachers (NQTs)"}' href="/government/publications/induction-for-newly-qualified-teachers-nqts">Induction for newly qualified teachers (NQTs)</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-04-01T00:15:09+01:00">
+                     1 April 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.2" data-track-label="/government/publications/initial-teacher-training-criteria" data-track-options='{"dimension28":"5","dimension29":"Initial teacher training (ITT): criteria and supporting advice"}' href="/government/publications/initial-teacher-training-criteria">Initial teacher training (ITT): criteria and supporting advice</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-02-28T11:26:05+00:00">
+                    28 February 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.3" data-track-label="/government/publications/school-teachers-pay-and-conditions" data-track-options="{&quot;dimension28&quot;:&quot;5&quot;,&quot;dimension29&quot;:&quot;School teachers' pay and conditions&quot;}" href="/government/publications/school-teachers-pay-and-conditions">School teachers' pay and conditions</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2017-08-24T12:43:43+01:00">
+                    24 August 2017
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.4" data-track-label="/government/publications/staffing-and-employment-advice-for-schools" data-track-options='{"dimension28":"5","dimension29":"Staffing and employment: advice for schools"}' href="/government/publications/staffing-and-employment-advice-for-schools">Staffing and employment: advice for schools</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-05-24T15:35:57+01:00">
+                    24 May 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.5" data-track-label="/government/publications/teacher-appraisal-and-capability-model-policy" data-track-options='{"dimension28":"5","dimension29":"Teacher appraisal and capability: model policy"}' href="/government/publications/teacher-appraisal-and-capability-model-policy">Teacher appraisal and capability: model policy</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2012-05-22T00:00:00+01:00">
+                    22 May 2012
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+  <h3 class="group-title" id="16-to-19-education-and-work-experience">16 to 19 education and work experience</h3>
+    
+<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+  <div class="govspeak">
+</div>
+</div>
+
+
+  <div data-module="track-click">
+      <ol class="gem-c-document-list ">
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="13.1" data-track-label="/government/publications/participation-of-young-people-education-employment-and-training" data-track-options='{"dimension28":"1","dimension29":"Participation of young people: education, employment and training"}' href="/government/publications/participation-of-young-people-education-employment-and-training">Participation of young people: education, employment and training</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-10-20T16:36:24+01:00">
+                    20 October 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+  </ol>
+
+  </div>
+
+      </div>
+      <div class="responsive-bottom-margin">
+        <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
+    Published 11 March 2014
+    <br>Last updated 7 June 2018
+      <a href="#full-history" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
+      <div class="app-c-published-dates__change-history js-hidden" id="full-history">
+        <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2018-06-07T14:51:59.000+01:00">7 June 2018</time>
+              Additional guidance added to help schools and local authorities comply with the law.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2017-08-10T10:15:31.000+01:00">10 August 2017</time>
+              Added 'School teachers' pay and conditions' statutory guidance for 2017.
+            </li>
+           <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2016-11-10T16:06:01.000+00:00">10 November 2016</time>
+              Added 2017 assessment and reporting arrangements for key stage 1, key stage 2 and the early years foundation stage.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2016-08-10T14:00:15.000+01:00">10 August 2016</time>
+              Added 'School teachers' pay and conditions 2016' under the 'Staff employment and teachers pay' heading. 
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2016-04-04T17:11:59.000+01:00">4 April 2016</time>
+              Added 'Multi-agency statutory guidance on female genital mutilation'.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2015-08-10T15:18:16.000+01:00">10 August 2015</time>
+              Added the 2015 school teachers' pay and conditions document and guidance. 
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2015-03-26T16:25:14.000+00:00">26 March 2015</time>
+              Added updated 'Keeping children safe in education' and 'Working together to safeguard children' guidance.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2015-02-26T18:04:39.000+00:00">26 February 2015</time>
+              Added statutory guidance on 'Disqualification under the Childcare Act 2006'.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2014-09-01T11:04:08.000+01:00">1 September 2014</time>
+              Added medical conditions statutory guidance.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2014-08-28T16:49:52.000+01:00">28 August 2014</time>
+              Added the 'SEND: managing changes to legislation from September 2014' document.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2014-08-08T14:09:01.000+01:00">8 August 2014</time>
+              Added the 2014 school teachers' pay and conditions document and guidance. 
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2014-07-23T14:50:26.000+01:00">23 July 2014</time>
+              Added 'Promoting the education of looked-after children' statutory guidance.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2014-07-18T12:12:29.000+01:00">18 July 2014</time>
+              Updated 'Home to school travel and transport' statutory guidance. 
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2014-07-16T10:53:08.000+01:00">16 July 2014</time>
+              Added link to 'P scales: attainment targets for pupils with SEN'.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2014-05-15T09:49:43.000+01:00">15 May 2014</time>
+              Added statutory guidance on the 'Constitution of governing bodies of maintained schools'.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2014-03-31T13:24:21.000+01:00">31 March 2014</time>
+              Added link to revised 'Early years foundation stage framework' which comes into force on 1 September 2014.
+            </li>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2014-03-11T10:24:00.000+00:00">11 March 2014</time>
+              First published.
+            </li>
+        </ol>
+      </div>
+</div>
+
+      </div>
+
+      <div data-sticky-element class="app-c-contents-list-with-body__link-wrapper">
+        <div class="app-c-contents-list-with-body__link-container">
+          <a class="app-c-back-to-top dont-print" href="#contents">
+    <svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
+      <path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+    </svg>
+    Contents
+</a>
+
+        </div>
+      </div>
+  </div>
+  </div>
+  <div class="column-one-third">
+  
+
+  <!-- Rendering taxonomy sidebar because the page is tagged to live taxons -->
+    <aside class="gem-c-taxonomy-navigation" data-module="track-click" role="complementary">
+    <h2 class="gem-c-taxonomy-navigation__heading">Related content</h2>
+      <div data-track-count="sidebarTaxonSection">
+        <h3 class="gem-c-taxonomy-navigation__heading">
+          <a class="gem-c-taxonomy-navigation__link" data-track-category="relatedLinkClicked" data-track-action="1" data-track-label="/education/running-and-managing-a-school" data-track-options='{"dimension28":"1","dimension29":"Running and managing a school"}' href="/education/running-and-managing-a-school">Running and managing a school</a>
+        </h3>
+
+        <p class="gem-c-taxonomy-navigation__taxon-description">
+          Governance, school admissions, premises, data collection and censuses, complaints, uniforms, setting up or changing a school's status.
+        </p>
+
+          <nav class="gem-c-taxonomy-navigation__navigation" role="navigation">
+            <ul class="gem-c-taxonomy-navigation__list">
+                <li class="gem-c-taxonomy-navigation__item">
+                  <a data-track-category="relatedLinkClicked" data-track-action="1.1" data-track-label="/government/publications/assess-young-offenders" data-track-options='{"dimension28":"3","dimension29":"Assess young offenders"}' class="related-link gem-c-taxonomy-navigation__link" href="/government/publications/assess-young-offenders">Assess young offenders</a>
+                </li>
+                <li class="gem-c-taxonomy-navigation__item">
+                  <a data-track-category="relatedLinkClicked" data-track-action="1.2" data-track-label="/government/publications/non-maintained-special-schools-regulations-2015" data-track-options='{"dimension28":"3","dimension29":"Non-Maintained Special Schools Regulations 2015"}' class="related-link gem-c-taxonomy-navigation__link" href="/government/publications/non-maintained-special-schools-regulations-2015">Non-Maintained Special Schools Regulations 2015</a>
+                </li>
+                <li class="gem-c-taxonomy-navigation__item">
+                  <a data-track-category="relatedLinkClicked" data-track-action="1.3" data-track-label="/government/publications/sce-school-governance" data-track-options='{"dimension28":"3","dimension29":"SCE school governance"}' class="related-link gem-c-taxonomy-navigation__link" href="/government/publications/sce-school-governance">SCE school governance</a>
+                </li>
+            </ul>
+          </nav>
+      </div>
+
+  </aside>
+
+
+</div>
+
+</div>
+
+    </main>
+    
+<div class="gem-c-feedback gem-c-feedback--top-margin" data-module="feedback">
+  <div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
+    <div class="js-prompt-questions">
+      <h3 class="gem-c-feedback__prompt-question">Is this page useful?</h3>
+
+      <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--useful js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" href="/contact/govuk">
+          Yes <span class="visually-hidden">this page is useful</span>
+</a>
+      <a class="gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffNoClick" aria-controls="page-is-not-useful" aria-expanded="false" role="button" href="/contact/govuk">
+          No <span class="visually-hidden">this page is not useful</span>
+</a>
+      <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--wrong js-toggle-form js-something-is-wrong" data-track-category="Onsite Feedback" data-track-action="GOV.UK Open Form" aria-controls="something-is-wrong" aria-expanded="false" role="button" href="/contact/govuk">
+          Is there anything wrong with this page?
+</a>    </div>
+
+    <div class="gem-c-feedback__prompt-success js-prompt-success js-hidden" tabindex="-1">
+      Thank you for your feedback
+    </div>
+  </div>
+
+  <form action="/contact/govuk/problem_reports" id="something-is-wrong" class="gem-c-feedback__form js-feedback-form js-hidden" data-track-category="Onsite Feedback" data-track-action="GOV.UK Send Form" method="post">
+    <a href="#" class="gem-c-feedback__close gem-c-feedback__js-show js-close-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Close Form" aria-controls="something-is-wrong" aria-expanded="true" role="button">Close</a>
+
+    <div class="gem-c-feedback__grid-row">
+      <div class="gem-c-feedback__column-two-thirds">
+        <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
+
+        <input type="hidden" name="url" value="https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools">
+        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko">
+
+        <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
+        <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
+
+        
+
+
+<div class="
+    gem-c-label
+    
+    
+  ">
+  <label class="
+      gem-c-label__text
+      
+    " for="input-50c6fee0">
+    What were you doing?
+  </label>
+</div>
+
+
+<input class="gem-c-input " id="input-50c6fee0" name="what_doing" type="text" aria-describedby="feedback_explanation">
+
+
+        
+
+
+<div class="
+    gem-c-label
+    
+    
+  ">
+  <label class="
+      gem-c-label__text
+      
+    " for="input-a720e2d7">
+    What went wrong?
+  </label>
+</div>
+
+
+<input class="gem-c-input " id="input-a720e2d7" name="what_wrong" type="text">
+
+
+        <input class="gem-c-feedback__submit" type="submit" value="Send">
+      </div>
+    </div>
+  </form>
+
+  <form action="/contact/govuk/email-survey-signup" id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form js-hidden" data-track-category="yesNoFeedbackForm" data-track-action="Send Form" method="post">
+    <a href="#" class="gem-c-feedback__close js-close-form" data-track-category="yesNoFeedbackForm" data-track-action="ffFormClose" aria-controls="page-is-not-useful" aria-expanded="true" role="button">Close</a>
+
+    <div class="gem-c-feedback__grid-row">
+      <div class="gem-c-feedback__column-two-thirds">
+        <div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
+
+        <input type="hidden" name="url" value="https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools">
+        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko">
+
+        <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
+        <input name="email_survey_signup[survey_source]" type="hidden" value="https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools">
+        <input name="email_survey_signup[ga_client_id]" type="hidden" value="1627485790.1515403243">
+
+        <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
+        <p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
+
+        
+
+
+<div class="
+    gem-c-label
+    
+    
+  ">
+  <label class="
+      gem-c-label__text
+      
+    " for="input-12623515">
+    Email address
+  </label>
+</div>
+
+
+<input class="gem-c-input " id="input-12623515" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation">
+
+
+        <input class="gem-c-feedback__submit" type="submit" value="Send me the survey">
+        <a href="https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/government/collections/statutory-guidance-schools&amp;gcl=1627485790.1515403243" class="gem-c-feedback__email-link" id="take-survey" target="_blank" rel="noopener noreferrer">Don’t have an email address?</a>
+      </div>
+    </div>
+  </form>
+
+</div>
+
+  </div>
+
+
+    <footer class="group js-footer" id="footer" role="contentinfo">
+
+      <div class="footer-wrapper">
+            <div class="footer-categories">
+      <div class="footer-explore">
+        <h2>Services and information</h2>
+
+        <ul>
+          <li><a href="/browse/benefits">Benefits</a></li>
+          <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
+          <li><a href="/browse/business">Business and self-employed</a></li>
+          <li><a href="/browse/childcare-parenting">Childcare and parenting</a></li>
+          <li><a href="/browse/citizenship">Citizenship and living in the UK</a></li>
+          <li><a href="/browse/justice">Crime, justice and the law</a></li>
+          <li><a href="/browse/disabilities">Disabled people</a></li>
+          <li><a href="/browse/driving">Driving and transport</a></li>
+        </ul>
+        <ul>
+          <li><a href="/browse/education">Education and learning</a></li>
+          <li><a href="/browse/employing-people">Employing people</a></li>
+          <li><a href="/browse/environment-countryside">Environment and countryside</a></li>
+          <li><a href="/browse/housing-local-services">Housing and local services</a></li>
+          <li><a href="/browse/tax">Money and tax</a></li>
+          <li><a href="/browse/abroad">Passports, travel and living abroad</a></li>
+          <li><a href="/browse/visas-immigration">Visas and immigration</a></li>
+          <li><a href="/browse/working">Working, jobs and pensions</a></li>
+        </ul>
+      </div>
+
+      <div class="footer-inside-government">
+        <h2>Departments and policy</h2>
+
+        <ul>
+          <li><a href="/government/how-government-works">How government works</a></li>
+          <li><a href="/government/organisations">Departments</a></li>
+          <li><a href="/world">Worldwide</a></li>
+          <li><a href="/government/policies">Policies</a></li>
+          <li><a href="/government/publications">Publications</a></li>
+          <li><a href="/government/announcements">Announcements</a></li>
+        </ul>
+      </div>
+      <hr>
+    </div>
+
+
+        <div class="footer-meta">
+          <div class="footer-meta-inner">
+              <h2 class="visuallyhidden">Support links</h2>
+<ul>
+  <li><a href="/help">Help</a></li>
+  <li><a href="/help/cookies">Cookies</a></li>
+  <li><a href="/contact">Contact</a></li>
+  <li><a href="/help/terms-conditions">Terms and conditions</a></li>
+  <li><a href="/cymraeg" lang="cy" hreflang="cy">Rhestr o Wasanaethau Cymraeg</a></li>
+  <li>Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service">Government Digital Service</a>
+</li>
+</ul>
+
+
+
+            <div class="open-government-licence">
+              <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
+                <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
+            </div>
+          </div>
+
+          <div class="copyright">
+            <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/">© Crown copyright</a>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+    <div id="global-app-error" class="app-error hidden"></div>
+
+    <script src="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-ae4c5d21c0a7cb5bc8926a9f491de4e410244403f66c72997210c281efb92d4f.js" crossorigin="anonymous" integrity="sha256-rkxdIcCny1vIkmqfSR3k5BAkRAP2bHKZchDCge+5LU8="></script>
+
+      <script src="https://assets-origin.integration.publishing.service.gov.uk/static/libs/jquery/jquery-1.12.4-e96d4c96760488af35a28ff21d294b318881ed912710e93bc6325a5fbeb0be27.js" crossorigin="anonymous" integrity="sha256-6W1MlnYEiK81oo/yHSlLMYiB7ZEnEOk7xjJaX76wvic="></script>
+<script src="https://assets-origin.integration.publishing.service.gov.uk/static/header-footer-only-5b6381dfbe828858e0ccde3d3f2bbae82840acf36fc73fe3122657d888bc427c.js" crossorigin="anonymous" integrity="sha256-W2OB376CiFjgzN49Pyu66ChArPNvxz/jEiZX2Ii8Qnw="></script>
+<script src="https://assets-origin.integration.publishing.service.gov.uk/static/surveys-fd667f8a535e11d93176cb176bb4fe4bc9473161430ed911ef080729d8b815ae.js" crossorigin="anonymous" integrity="sha256-/WZ/ilNeEdkxdssXa7T+S8lHMWFDDtkR7wgHKdi4Fa4="></script>
+
+
+
+    <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
+  <script src="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-2a3e177b1002a6ea6d9d00098ad6e653a49291f802fb1ad6608d9a6fac4a1272.js" crossorigin="anonymous" integrity="sha256-Kj4XexACpuptnQAJitbmU6SSkfgC+xrWYI2ab6xKEnI="></script><script type="application/ld+json">
+  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools"},"headline":"Schools: statutory guidance","datePublished":"2014-03-11T10:24:00.000+00:00","dateModified":"2018-06-07T13:51:59.000+00:00","description":"The Department for Education’s statutory guidance publications for schools and local authorities.","publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"author":{"@type":"Organization","name":"Department for Education","url":"https://www-origin.integration.publishing.service.gov.uk/government/organisations/department-for-education"},"articleBody":"\u003cdiv class=\"govspeak\"\u003e\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eStatutory guidance sets out what schools and local authorities must do to comply with the law. You should follow the guidance unless you have a very good reason not to.\n\u003cbr\u003e\u003cbr\u003e\nThere is some guidance that you must follow without exception. In these cases we make this clear in the guidance document itself.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eThere is supporting guidance to help you comply with the law.\u003c/p\u003e\n\n\u003cp\u003eThese publications reflect the current legal position (unless otherwise indicated), but may not reflect the current government’s policies.\u003c/p\u003e\n\n\u003c/div\u003e"}
+</script><script type="application/ld+json">
+  {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://www-origin.integration.publishing.service.gov.uk/"}},{"@type":"ListItem","position":2,"item":{"name":"Education, training and skills","@id":"https://www-origin.integration.publishing.service.gov.uk/education"}},{"@type":"ListItem","position":3,"item":{"name":"Running and managing a school","@id":"https://www-origin.integration.publishing.service.gov.uk/education/running-and-managing-a-school"}}]}
+</script>
+</body>
+</html>
