@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
 <!--<![endif]-->
@@ -24,7 +25,7 @@
 <meta name="govuk:user-journey-stage" content="finding">
 <meta name="govuk:schema-name" content="document_collection">
 <meta name="govuk:format" content="document_collection">
-<meta name="csrf-token" content="jVB/KYM/rgeA044U5qkFtLy5RQ4lTWbsEDwDBqZYJXYlrei7yhN3WmDVdi9ACchP3OLAQ5aZHrnfMEpvq3jM2w==">
+<meta name="csrf-token" content="tx73HnMvDEk1EiZYLbKxS3f0buezMiiBFFfoKMc+wRxLlysVTQ02/z6U9JDQCcv80GtSQUunaV5eS8iecv6zmQ==">
 <meta name="csrf-param" content="authenticity_token">
     <meta charset="utf-8">
     <title lang="en">
@@ -63,10 +64,10 @@
 
 
     <meta property="og:image" content="https://assets-origin.integration.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
-  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-8267827a8078b631cf5268e1527a0af6b251a8f11d4c317aadfde7d5bd5dabb0.css" crossorigin="anonymous" integrity="sha256-gmeCeoB4tjHPUmjhUnoK9rJRqPEdTDF6rf3n1b1dq7A=">
+  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-f952c317868b714dd2760feb874510a290f878bb99049887f50cf5d75c7fb7dd.css" crossorigin="anonymous" integrity="sha256-+VLDF4aLcU3Sdg/rh0UQopD4eLuZBJiH9Qz111x/t90=">
 <!--<![endif]--><link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/print-efa220c0a74eafee8fed663ec4061175f72a06371342f96e8a6ba4c67c25be35.css" crossorigin="anonymous" integrity="sha256-76IgwKdOr+6P7WY+xAYRdfcqBjcTQvluimukxnwlvjU=">
 <link rel="canonical" href="https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools">
-<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie6-5c6da18f5475416747b51c43bc9bcb3338a948887fdc18602ee2e588be12bb07.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie7-2589047b2b6ce5e48dd13e9d7b6495457afdcb030fc5fea207ee497e199980b9.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie8-041a83f316d9500620d6c90638f0ba0429cc9fa5c7a7c70908ec7c157ad322d0.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie6-3ccbdbe87f48bc603fc91d6ca0ddda283f5418105d5af3950b1d09c588598141.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie7-c220976b074d3771e14a5085ff3a700f4593c4194c59892170bdc3f20a4325c5.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie8-01e2829a6415f112287e1052024f630b3695524926cc510c905f0d2ed6dd3a04.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
 </head>
 
   <body>
@@ -195,13 +196,13 @@
       
 <div class="grid-row">
   <div class="column-two-thirds">
-    <div class="pub-c-title
+    <div class="gem-c-title
   
-  pub-c-title--bottom-margin">
-    <p class="pub-c-title__context">
+  gem-c-title--bottom-margin">
+    <p class="gem-c-title__context">
       Collection
     </p>
-  <h1 class="pub-c-title__text pub-c-title__text--long">
+  <h1 class="gem-c-title__text gem-c-title__text--long">
     Schools: statutory guidance
   </h1>
 </div>
@@ -225,7 +226,7 @@
         <div class="app-c-publisher-metadata">
     <div class="app-c-published-dates ">
     Published 11 March 2014
-    <br>Last updated 7 June 2018
+    <br>Last updated 11 June 2018
       — <a href="#history">see all updates</a>
 </div>
 
@@ -301,7 +302,7 @@
       <div class="responsive-bottom-margin">
           
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 <div class="call-to-action">
 <p>Statutory guidance sets out what schools and local authorities must do to comply with the law. You should follow the guidance unless you have a very good reason not to.
 <br><br>
@@ -319,7 +320,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="administration-and-finance">Administration and finance</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -328,7 +329,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/capital-transactions-sixth-form-colleges" data-track-options='{"dimension28":"10","dimension29":"Capital transactions: sixth-form colleges"}' href="/government/publications/capital-transactions-sixth-form-colleges">Capital transactions: sixth-form colleges</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/capital-transactions-sixth-form-colleges" data-track-options='{"dimension28":"10","dimension29":"Capital transactions: sixth-form colleges"}' class="gem-c-document-list__item-title  " href="/government/publications/capital-transactions-sixth-form-colleges">Capital transactions: sixth-form colleges</a>
           </h3>
 
 
@@ -346,7 +347,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.2" data-track-label="/government/publications/change-of-land-use-due-to-an-academy-conversion" data-track-options='{"dimension28":"10","dimension29":"Change of land use due to an academy conversion"}' href="/government/publications/change-of-land-use-due-to-an-academy-conversion">Change of land use due to an academy conversion</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.2" data-track-label="/government/publications/change-of-land-use-due-to-an-academy-conversion" data-track-options='{"dimension28":"10","dimension29":"Change of land use due to an academy conversion"}' class="gem-c-document-list__item-title  " href="/government/publications/change-of-land-use-due-to-an-academy-conversion">Change of land use due to an academy conversion</a>
           </h3>
 
 
@@ -364,7 +365,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.3" data-track-label="/government/publications/home-to-school-travel-and-transport-guidance" data-track-options='{"dimension28":"10","dimension29":"Home-to-school travel and transport"}' href="/government/publications/home-to-school-travel-and-transport-guidance">Home-to-school travel and transport</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.3" data-track-label="/government/publications/home-to-school-travel-and-transport-guidance" data-track-options='{"dimension28":"10","dimension29":"Home-to-school travel and transport"}' class="gem-c-document-list__item-title  " href="/government/publications/home-to-school-travel-and-transport-guidance">Home-to-school travel and transport</a>
           </h3>
 
 
@@ -382,7 +383,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.4" data-track-label="/government/publications/post-16-transport-to-education-and-training" data-track-options='{"dimension28":"10","dimension29":"Transport to education and training for people aged 16 to 18"}' href="/government/publications/post-16-transport-to-education-and-training">Transport to education and training for people aged 16 to 18</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.4" data-track-label="/government/publications/post-16-transport-to-education-and-training" data-track-options='{"dimension28":"10","dimension29":"Transport to education and training for people aged 16 to 18"}' class="gem-c-document-list__item-title  " href="/government/publications/post-16-transport-to-education-and-training">Transport to education and training for people aged 16 to 18</a>
           </h3>
 
 
@@ -400,7 +401,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.5" data-track-label="/government/publications/schemes-for-financing-schools" data-track-options='{"dimension28":"10","dimension29":"Schemes for financing schools"}' href="/government/publications/schemes-for-financing-schools">Schemes for financing schools</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.5" data-track-label="/government/publications/schemes-for-financing-schools" data-track-options='{"dimension28":"10","dimension29":"Schemes for financing schools"}' class="gem-c-document-list__item-title  " href="/government/publications/schemes-for-financing-schools">Schemes for financing schools</a>
           </h3>
 
 
@@ -418,7 +419,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.6" data-track-label="/government/publications/schools-causing-concern--2" data-track-options='{"dimension28":"10","dimension29":"Schools causing concern"}' href="/government/publications/schools-causing-concern--2">Schools causing concern</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.6" data-track-label="/government/publications/schools-causing-concern--2" data-track-options='{"dimension28":"10","dimension29":"Schools causing concern"}' class="gem-c-document-list__item-title  " href="/government/publications/schools-causing-concern--2">Schools causing concern</a>
           </h3>
 
 
@@ -436,7 +437,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.7" data-track-label="/government/publications/charging-for-school-activities" data-track-options='{"dimension28":"10","dimension29":"Charging for school activities"}' href="/government/publications/charging-for-school-activities">Charging for school activities</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.7" data-track-label="/government/publications/charging-for-school-activities" data-track-options='{"dimension28":"10","dimension29":"Charging for school activities"}' class="gem-c-document-list__item-title  " href="/government/publications/charging-for-school-activities">Charging for school activities</a>
           </h3>
 
 
@@ -454,7 +455,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.8" data-track-label="/government/publications/data-protection-and-privacy-privacy-notices" data-track-options='{"dimension28":"10","dimension29":"Data protection: privacy notice model documents"}' href="/government/publications/data-protection-and-privacy-privacy-notices">Data protection: privacy notice model documents</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.8" data-track-label="/government/publications/data-protection-and-privacy-privacy-notices" data-track-options='{"dimension28":"10","dimension29":"Data protection: privacy notice model documents"}' class="gem-c-document-list__item-title  " href="/government/publications/data-protection-and-privacy-privacy-notices">Data protection: privacy notice model documents</a>
           </h3>
 
 
@@ -472,7 +473,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.9" data-track-label="/guidance/what-maintained-schools-must-publish-online" data-track-options='{"dimension28":"10","dimension29":"What maintained schools must publish online"}' href="/guidance/what-maintained-schools-must-publish-online">What maintained schools must publish online</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.9" data-track-label="/guidance/what-maintained-schools-must-publish-online" data-track-options='{"dimension28":"10","dimension29":"What maintained schools must publish online"}' class="gem-c-document-list__item-title  " href="/guidance/what-maintained-schools-must-publish-online">What maintained schools must publish online</a>
           </h3>
 
 
@@ -490,7 +491,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.10" data-track-label="/guidance/what-academies-free-schools-and-colleges-should-publish-online" data-track-options='{"dimension28":"10","dimension29":"What academies, free schools and colleges should publish online"}' href="/guidance/what-academies-free-schools-and-colleges-should-publish-online">What academies, free schools and colleges should publish online</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.10" data-track-label="/guidance/what-academies-free-schools-and-colleges-should-publish-online" data-track-options='{"dimension28":"10","dimension29":"What academies, free schools and colleges should publish online"}' class="gem-c-document-list__item-title  " href="/guidance/what-academies-free-schools-and-colleges-should-publish-online">What academies, free schools and colleges should publish online</a>
           </h3>
 
 
@@ -512,7 +513,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="admissions">Admissions</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -521,7 +522,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/government/publications/school-admissions-code--2" data-track-options='{"dimension28":"2","dimension29":"School admissions code"}' href="/government/publications/school-admissions-code--2">School admissions code</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/government/publications/school-admissions-code--2" data-track-options='{"dimension28":"2","dimension29":"School admissions code"}' class="gem-c-document-list__item-title  " href="/government/publications/school-admissions-code--2">School admissions code</a>
           </h3>
 
 
@@ -539,7 +540,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.2" data-track-label="/government/publications/school-admissions-appeals-code" data-track-options='{"dimension28":"2","dimension29":"School admissions appeals code"}' href="/government/publications/school-admissions-appeals-code">School admissions appeals code</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.2" data-track-label="/government/publications/school-admissions-appeals-code" data-track-options='{"dimension28":"2","dimension29":"School admissions appeals code"}' class="gem-c-document-list__item-title  " href="/government/publications/school-admissions-appeals-code">School admissions appeals code</a>
           </h3>
 
 
@@ -561,7 +562,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="assessment">Assessment</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -570,7 +571,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/government/publications/p-scales-attainment-targets-for-pupils-with-sen" data-track-options='{"dimension28":"1","dimension29":"P scales: attainment targets for pupils with SEN"}' href="/government/publications/p-scales-attainment-targets-for-pupils-with-sen">P scales: attainment targets for pupils with SEN</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/government/publications/p-scales-attainment-targets-for-pupils-with-sen" data-track-options='{"dimension28":"1","dimension29":"P scales: attainment targets for pupils with SEN"}' class="gem-c-document-list__item-title  " href="/government/publications/p-scales-attainment-targets-for-pupils-with-sen">P scales: attainment targets for pupils with SEN</a>
           </h3>
 
 
@@ -592,7 +593,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="behaviour-and-attendance--">Behaviour and attendance  </h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -601,7 +602,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/government/publications/alternative-provision" data-track-options='{"dimension28":"5","dimension29":"Alternative provision"}' href="/government/publications/alternative-provision">Alternative provision</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/government/publications/alternative-provision" data-track-options='{"dimension28":"7","dimension29":"Alternative provision"}' class="gem-c-document-list__item-title  " href="/government/publications/alternative-provision">Alternative provision</a>
           </h3>
 
 
@@ -619,7 +620,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.2" data-track-label="/government/publications/behaviour-and-discipline-in-schools-guidance-for-governing-bodies" data-track-options='{"dimension28":"5","dimension29":"Behaviour and discipline in schools: guide for governing bodies"}' href="/government/publications/behaviour-and-discipline-in-schools-guidance-for-governing-bodies">Behaviour and discipline in schools: guide for governing bodies</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.2" data-track-label="/government/publications/behaviour-and-discipline-in-schools-guidance-for-governing-bodies" data-track-options='{"dimension28":"7","dimension29":"Behaviour and discipline in schools: guide for governing bodies"}' class="gem-c-document-list__item-title  " href="/government/publications/behaviour-and-discipline-in-schools-guidance-for-governing-bodies">Behaviour and discipline in schools: guide for governing bodies</a>
           </h3>
 
 
@@ -637,25 +638,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/children-missing-education" data-track-options='{"dimension28":"5","dimension29":"Children missing education"}' href="/government/publications/children-missing-education">Children missing education</a>
-          </h3>
-
-
-
-          <ul>
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2016-09-05T16:48:27+01:00">
-                     5 September 2016
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Statutory guidance
-              </li>
-          </ul>
-      </li>
-      <li class="gem-c-document-list__item">
-          <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.4" data-track-label="/government/publications/parental-responsibility-measures-for-behaviour-and-attendance" data-track-options='{"dimension28":"5","dimension29":"School behaviour and attendance: parental responsibility measures"}' href="/government/publications/parental-responsibility-measures-for-behaviour-and-attendance">School behaviour and attendance: parental responsibility measures</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/parental-responsibility-measures-for-behaviour-and-attendance" data-track-options='{"dimension28":"7","dimension29":"School behaviour and attendance: parental responsibility measures"}' class="gem-c-document-list__item-title  " href="/government/publications/parental-responsibility-measures-for-behaviour-and-attendance">School behaviour and attendance: parental responsibility measures</a>
           </h3>
 
 
@@ -673,7 +656,25 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.5" data-track-label="/government/publications/school-exclusion" data-track-options='{"dimension28":"5","dimension29":"School exclusion"}' href="/government/publications/school-exclusion">School exclusion</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.4" data-track-label="/government/publications/children-missing-education" data-track-options='{"dimension28":"7","dimension29":"Children missing education"}' class="gem-c-document-list__item-title  " href="/government/publications/children-missing-education">Children missing education</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-09-05T16:48:27+01:00">
+                     5 September 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.5" data-track-label="/government/publications/school-exclusion" data-track-options='{"dimension28":"7","dimension29":"School exclusion"}' class="gem-c-document-list__item-title  " href="/government/publications/school-exclusion">School exclusion</a>
           </h3>
 
 
@@ -689,13 +690,49 @@ There is some guidance that you must follow without exception. In these cases we
               </li>
           </ul>
       </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.6" data-track-label="/government/publications/behaviour-and-discipline-in-schools" data-track-options='{"dimension28":"7","dimension29":"Behaviour and discipline in schools"}' class="gem-c-document-list__item-title  " href="/government/publications/behaviour-and-discipline-in-schools">Behaviour and discipline in schools</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-01-04T11:16:19+00:00">
+                     4 January 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.7" data-track-label="/government/publications/school-attendance" data-track-options='{"dimension28":"7","dimension29":"School attendance: guidance for schools"}' class="gem-c-document-list__item-title  " href="/government/publications/school-attendance">School attendance: guidance for schools</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2016-11-02T15:55:10+00:00">
+                     2 November 2016
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
   </ol>
 
   </div>
   <h3 class="group-title" id="curriculum">Curriculum</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -704,7 +741,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.1" data-track-label="/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: framework for key stages 1 to 4"}' href="/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4">National curriculum in England: framework for key stages 1 to 4</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.1" data-track-label="/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: framework for key stages 1 to 4"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-framework-for-key-stages-1-to-4">National curriculum in England: framework for key stages 1 to 4</a>
           </h3>
 
 
@@ -722,7 +759,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.2" data-track-label="/government/publications/national-curriculum-in-england-primary-curriculum" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: primary curriculum"}' href="/government/publications/national-curriculum-in-england-primary-curriculum">National curriculum in England: primary curriculum</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.2" data-track-label="/government/publications/national-curriculum-in-england-primary-curriculum" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: primary curriculum"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-primary-curriculum">National curriculum in England: primary curriculum</a>
           </h3>
 
 
@@ -740,7 +777,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.3" data-track-label="/government/publications/national-curriculum-in-england-secondary-curriculum" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: secondary curriculum"}' href="/government/publications/national-curriculum-in-england-secondary-curriculum">National curriculum in England: secondary curriculum</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.3" data-track-label="/government/publications/national-curriculum-in-england-secondary-curriculum" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: secondary curriculum"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-secondary-curriculum">National curriculum in England: secondary curriculum</a>
           </h3>
 
 
@@ -758,7 +795,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.4" data-track-label="/government/publications/national-curriculum-in-england-english-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: English programmes of study"}' href="/government/publications/national-curriculum-in-england-english-programmes-of-study">National curriculum in England: English programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.4" data-track-label="/government/publications/national-curriculum-in-england-english-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: English programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-english-programmes-of-study">National curriculum in England: English programmes of study</a>
           </h3>
 
 
@@ -776,7 +813,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.5" data-track-label="/government/publications/national-curriculum-in-england-mathematics-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: mathematics programmes of study"}' href="/government/publications/national-curriculum-in-england-mathematics-programmes-of-study">National curriculum in England: mathematics programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.5" data-track-label="/government/publications/national-curriculum-in-england-mathematics-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: mathematics programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-mathematics-programmes-of-study">National curriculum in England: mathematics programmes of study</a>
           </h3>
 
 
@@ -794,7 +831,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.6" data-track-label="/government/publications/national-curriculum-in-england-science-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: science programmes of study"}' href="/government/publications/national-curriculum-in-england-science-programmes-of-study">National curriculum in England: science programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.6" data-track-label="/government/publications/national-curriculum-in-england-science-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: science programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-science-programmes-of-study">National curriculum in England: science programmes of study</a>
           </h3>
 
 
@@ -808,11 +845,11 @@ There is some guidance that you must follow without exception. In these cases we
               <li class="gem-c-document-list__attribute">
                   Statutory guidance
               </li>
-         </ul>
+          </ul>
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.7" data-track-label="/government/publications/national-curriculum-in-england-art-and-design-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: art and design programmes of study"}' href="/government/publications/national-curriculum-in-england-art-and-design-programmes-of-study">National curriculum in England: art and design programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.7" data-track-label="/government/publications/national-curriculum-in-england-art-and-design-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: art and design programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-art-and-design-programmes-of-study">National curriculum in England: art and design programmes of study</a>
           </h3>
 
 
@@ -830,7 +867,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.8" data-track-label="/government/publications/national-curriculum-in-england-citizenship-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: citizenship programmes of study"}' href="/government/publications/national-curriculum-in-england-citizenship-programmes-of-study">National curriculum in England: citizenship programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.8" data-track-label="/government/publications/national-curriculum-in-england-citizenship-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: citizenship programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-citizenship-programmes-of-study">National curriculum in England: citizenship programmes of study</a>
           </h3>
 
 
@@ -848,7 +885,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.9" data-track-label="/government/publications/national-curriculum-in-england-computing-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: computing programmes of study"}' href="/government/publications/national-curriculum-in-england-computing-programmes-of-study">National curriculum in England: computing programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.9" data-track-label="/government/publications/national-curriculum-in-england-computing-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: computing programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-computing-programmes-of-study">National curriculum in England: computing programmes of study</a>
           </h3>
 
 
@@ -866,25 +903,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.10" data-track-label="/government/publications/national-curriculum-in-england-design-and-technology-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: design and technology programmes of study"}' href="/government/publications/national-curriculum-in-england-design-and-technology-programmes-of-study">National curriculum in England: design and technology programmes of study</a>
-          </h3>
-
-
-
-          <ul>
-              <li class="gem-c-document-list__attribute">
-                 <time datetime="2013-09-11T16:00:00+01:00">
-                    11 September 2013
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Statutory guidance
-              </li>
-          </ul>
-      </li>
-      <li class="gem-c-document-list__item">
-          <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.11" data-track-label="/government/publications/national-curriculum-in-england-geography-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: geography programmes of study"}' href="/government/publications/national-curriculum-in-england-geography-programmes-of-study">National curriculum in England: geography programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.10" data-track-label="/government/publications/national-curriculum-in-england-design-and-technology-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: design and technology programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-design-and-technology-programmes-of-study">National curriculum in England: design and technology programmes of study</a>
           </h3>
 
 
@@ -902,7 +921,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.12" data-track-label="/government/publications/national-curriculum-in-england-history-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: history programmes of study"}' href="/government/publications/national-curriculum-in-england-history-programmes-of-study">National curriculum in England: history programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.11" data-track-label="/government/publications/national-curriculum-in-england-geography-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: geography programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-geography-programmes-of-study">National curriculum in England: geography programmes of study</a>
           </h3>
 
 
@@ -920,25 +939,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.13" data-track-label="/government/publications/national-curriculum-in-england-languages-progammes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: languages programmes of study"}' href="/government/publications/national-curriculum-in-england-languages-progammes-of-study">National curriculum in England: languages programmes of study</a>
-          </h3>
-
-
-
-          <ul>
-             <li class="gem-c-document-list__attribute">
-                  <time datetime="2013-09-11T16:00:00+01:00">
-                    11 September 2013
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Statutory guidance
-              </li>
-          </ul>
-      </li>
-      <li class="gem-c-document-list__item">
-          <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.14" data-track-label="/government/publications/national-curriculum-in-england-music-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: music programmes of study"}' href="/government/publications/national-curriculum-in-england-music-programmes-of-study">National curriculum in England: music programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.12" data-track-label="/government/publications/national-curriculum-in-england-history-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: history programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-history-programmes-of-study">National curriculum in England: history programmes of study</a>
           </h3>
 
 
@@ -956,7 +957,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.15" data-track-label="/government/publications/national-curriculum-in-england-physical-education-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: PE programmes of study"}' href="/government/publications/national-curriculum-in-england-physical-education-programmes-of-study">National curriculum in England: PE programmes of study</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.13" data-track-label="/government/publications/national-curriculum-in-england-languages-progammes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: languages programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-languages-progammes-of-study">National curriculum in England: languages programmes of study</a>
           </h3>
 
 
@@ -974,7 +975,43 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.16" data-track-label="/government/publications/sex-and-relationship-education" data-track-options='{"dimension28":"16","dimension29":"Sex and relationship education"}' href="/government/publications/sex-and-relationship-education">Sex and relationship education</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.14" data-track-label="/government/publications/national-curriculum-in-england-music-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: music programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-music-programmes-of-study">National curriculum in England: music programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.15" data-track-label="/government/publications/national-curriculum-in-england-physical-education-programmes-of-study" data-track-options='{"dimension28":"16","dimension29":"National curriculum in England: PE programmes of study"}' class="gem-c-document-list__item-title  " href="/government/publications/national-curriculum-in-england-physical-education-programmes-of-study">National curriculum in England: PE programmes of study</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2013-09-11T16:00:00+01:00">
+                    11 September 2013
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Statutory guidance
+              </li>
+          </ul>
+      </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="5.16" data-track-label="/government/publications/sex-and-relationship-education" data-track-options='{"dimension28":"16","dimension29":"Sex and relationship education"}' class="gem-c-document-list__item-title  " href="/government/publications/sex-and-relationship-education">Sex and relationship education</a>
           </h3>
 
 
@@ -996,7 +1033,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="early-years-foundation-stage">Early years foundation stage</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -1005,7 +1042,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/government/publications/early-years-foundation-stage-framework--2" data-track-options='{"dimension28":"1","dimension29":"Early years foundation stage statutory framework (EYFS)"}' href="/government/publications/early-years-foundation-stage-framework--2">Early years foundation stage statutory framework (EYFS)</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="6.1" data-track-label="/government/publications/early-years-foundation-stage-framework--2" data-track-options='{"dimension28":"1","dimension29":"Early years foundation stage statutory framework (EYFS)"}' class="gem-c-document-list__item-title  " href="/government/publications/early-years-foundation-stage-framework--2">Early years foundation stage statutory framework (EYFS)</a>
           </h3>
 
 
@@ -1027,7 +1064,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="governance">Governance</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -1036,7 +1073,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.1" data-track-label="/government/publications/constitution-of-governing-bodies-of-maintained-schools" data-track-options='{"dimension28":"3","dimension29":"Constitution of governing bodies of maintained schools"}' href="/government/publications/constitution-of-governing-bodies-of-maintained-schools">Constitution of governing bodies of maintained schools</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.1" data-track-label="/government/publications/constitution-of-governing-bodies-of-maintained-schools" data-track-options='{"dimension28":"4","dimension29":"Constitution of governing bodies of maintained schools"}' class="gem-c-document-list__item-title  " href="/government/publications/constitution-of-governing-bodies-of-maintained-schools">Constitution of governing bodies of maintained schools</a>
           </h3>
 
 
@@ -1054,7 +1091,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.2" data-track-label="/government/publications/school-governance-collaboration-regulations-2003" data-track-options='{"dimension28":"3","dimension29":"School Governance (Collaboration) Regulations 2003"}' href="/government/publications/school-governance-collaboration-regulations-2003">School Governance (Collaboration) Regulations 2003</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.2" data-track-label="/government/publications/school-governance-collaboration-regulations-2003" data-track-options='{"dimension28":"4","dimension29":"School Governance (Collaboration) Regulations 2003"}' class="gem-c-document-list__item-title  " href="/government/publications/school-governance-collaboration-regulations-2003">School Governance (Collaboration) Regulations 2003</a>
           </h3>
 
 
@@ -1072,7 +1109,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.3" data-track-label="/government/publications/school-complaints-procedures" data-track-options='{"dimension28":"3","dimension29":"School complaints procedures: guidance for schools"}' href="/government/publications/school-complaints-procedures">School complaints procedures: guidance for schools</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.3" data-track-label="/government/publications/school-complaints-procedures" data-track-options='{"dimension28":"4","dimension29":"School complaints procedures: guidance for schools"}' class="gem-c-document-list__item-title  " href="/government/publications/school-complaints-procedures">School complaints procedures: guidance for schools</a>
           </h3>
 
 
@@ -1088,13 +1125,31 @@ There is some guidance that you must follow without exception. In these cases we
               </li>
           </ul>
       </li>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="7.4" data-track-label="/government/publications/equality-act-2010-advice-for-schools" data-track-options='{"dimension28":"4","dimension29":"Equality Act 2010: advice for schools"}' class="gem-c-document-list__item-title  " href="/government/publications/equality-act-2010-advice-for-schools">Equality Act 2010: advice for schools</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2014-06-17T12:10:24+01:00">
+                    17 June 2014
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
   </ol>
 
   </div>
   <h3 class="group-title" id="involving-parents-and-pupils">Involving parents and pupils</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -1103,7 +1158,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="8.1" data-track-label="/government/publications/listening-to-and-involving-children-and-young-people" data-track-options='{"dimension28":"1","dimension29":"Listening to and involving children and young people"}' href="/government/publications/listening-to-and-involving-children-and-young-people">Listening to and involving children and young people</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="8.1" data-track-label="/government/publications/listening-to-and-involving-children-and-young-people" data-track-options='{"dimension28":"1","dimension29":"Listening to and involving children and young people"}' class="gem-c-document-list__item-title  " href="/government/publications/listening-to-and-involving-children-and-young-people">Listening to and involving children and young people</a>
           </h3>
 
 
@@ -1125,7 +1180,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="looked-after-children">Looked-after children</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -1134,7 +1189,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.1" data-track-label="/government/publications/designated-teacher-for-looked-after-children" data-track-options='{"dimension28":"5","dimension29":"Designated teacher for looked-after and previously looked-after children"}' href="/government/publications/designated-teacher-for-looked-after-children">Designated teacher for looked-after and previously looked-after children</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.1" data-track-label="/government/publications/designated-teacher-for-looked-after-children" data-track-options='{"dimension28":"5","dimension29":"Designated teacher for looked-after and previously looked-after children"}' class="gem-c-document-list__item-title  " href="/government/publications/designated-teacher-for-looked-after-children">Designated teacher for looked-after and previously looked-after children</a>
           </h3>
 
 
@@ -1152,7 +1207,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.2" data-track-label="/government/publications/directors-of-childrens-services-roles-and-responsibilities" data-track-options='{"dimension28":"5","dimension29":"Directors of children’s services: roles and responsibilities"}' href="/government/publications/directors-of-childrens-services-roles-and-responsibilities">Directors of children’s services: roles and responsibilities</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.2" data-track-label="/government/publications/directors-of-childrens-services-roles-and-responsibilities" data-track-options='{"dimension28":"5","dimension29":"Directors of children’s services: roles and responsibilities"}' class="gem-c-document-list__item-title  " href="/government/publications/directors-of-childrens-services-roles-and-responsibilities">Directors of children’s services: roles and responsibilities</a>
           </h3>
 
 
@@ -1170,7 +1225,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.3" data-track-label="/government/publications/children-act-1989-transition-to-adulthood-for-care-leavers" data-track-options='{"dimension28":"5","dimension29":"Children Act 1989: transition to adulthood for care leavers"}' href="/government/publications/children-act-1989-transition-to-adulthood-for-care-leavers">Children Act 1989: transition to adulthood for care leavers</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.3" data-track-label="/government/publications/children-act-1989-transition-to-adulthood-for-care-leavers" data-track-options='{"dimension28":"5","dimension29":"Children Act 1989: transition to adulthood for care leavers"}' class="gem-c-document-list__item-title  " href="/government/publications/children-act-1989-transition-to-adulthood-for-care-leavers">Children Act 1989: transition to adulthood for care leavers</a>
           </h3>
 
 
@@ -1188,7 +1243,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.4" data-track-label="/government/publications/children-act-1989-fostering-services" data-track-options='{"dimension28":"5","dimension29":"Children Act 1989: fostering services"}' href="/government/publications/children-act-1989-fostering-services">Children Act 1989: fostering services</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.4" data-track-label="/government/publications/children-act-1989-fostering-services" data-track-options='{"dimension28":"5","dimension29":"Children Act 1989: fostering services"}' class="gem-c-document-list__item-title  " href="/government/publications/children-act-1989-fostering-services">Children Act 1989: fostering services</a>
           </h3>
 
 
@@ -1206,7 +1261,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.5" data-track-label="/government/publications/childrens-homes-regulations-including-quality-standards-guide" data-track-options='{"dimension28":"5","dimension29":"Children’s homes regulations, including quality standards: guide"}' href="/government/publications/childrens-homes-regulations-including-quality-standards-guide">Children’s homes regulations, including quality standards: guide</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="9.5" data-track-label="/government/publications/childrens-homes-regulations-including-quality-standards-guide" data-track-options='{"dimension28":"5","dimension29":"Children’s homes regulations, including quality standards: guide"}' class="gem-c-document-list__item-title  " href="/government/publications/childrens-homes-regulations-including-quality-standards-guide">Children’s homes regulations, including quality standards: guide</a>
           </h3>
 
 
@@ -1228,7 +1283,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="safeguarding-children-and-young-people">Safeguarding children and young people</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -1237,7 +1292,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.1" data-track-label="/government/publications/keeping-children-safe-in-education--2" data-track-options='{"dimension28":"10","dimension29":"Keeping children safe in education"}' href="/government/publications/keeping-children-safe-in-education--2">Keeping children safe in education</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.1" data-track-label="/government/publications/keeping-children-safe-in-education--2" data-track-options='{"dimension28":"10","dimension29":"Keeping children safe in education"}' class="gem-c-document-list__item-title  " href="/government/publications/keeping-children-safe-in-education--2">Keeping children safe in education</a>
           </h3>
 
 
@@ -1255,7 +1310,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.2" data-track-label="/government/publications/working-together-to-safeguard-children--2" data-track-options='{"dimension28":"10","dimension29":"Working together to safeguard children"}' href="/government/publications/working-together-to-safeguard-children--2">Working together to safeguard children</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.2" data-track-label="/government/publications/working-together-to-safeguard-children--2" data-track-options='{"dimension28":"10","dimension29":"Working together to safeguard children"}' class="gem-c-document-list__item-title  " href="/government/publications/working-together-to-safeguard-children--2">Working together to safeguard children</a>
           </h3>
 
 
@@ -1273,7 +1328,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.3" data-track-label="/government/publications/multi-agency-statutory-guidance-on-female-genital-mutilation" data-track-options='{"dimension28":"10","dimension29":"Multi-agency statutory guidance on female genital mutilation"}' href="/government/publications/multi-agency-statutory-guidance-on-female-genital-mutilation">Multi-agency statutory guidance on female genital mutilation</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.3" data-track-label="/government/publications/multi-agency-statutory-guidance-on-female-genital-mutilation" data-track-options='{"dimension28":"10","dimension29":"Multi-agency statutory guidance on female genital mutilation"}' class="gem-c-document-list__item-title  " href="/government/publications/multi-agency-statutory-guidance-on-female-genital-mutilation">Multi-agency statutory guidance on female genital mutilation</a>
           </h3>
 
 
@@ -1291,7 +1346,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.4" data-track-label="/government/publications/disqualification-under-the-childcare-act-2006" data-track-options='{"dimension28":"10","dimension29":"Disqualification under the Childcare Act 2006"}' href="/government/publications/disqualification-under-the-childcare-act-2006">Disqualification under the Childcare Act 2006</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.4" data-track-label="/government/publications/disqualification-under-the-childcare-act-2006" data-track-options='{"dimension28":"10","dimension29":"Disqualification under the Childcare Act 2006"}' class="gem-c-document-list__item-title  " href="/government/publications/disqualification-under-the-childcare-act-2006">Disqualification under the Childcare Act 2006</a>
           </h3>
 
 
@@ -1309,7 +1364,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.5" data-track-label="/government/publications/promoting-the-education-of-looked-after-children" data-track-options='{"dimension28":"10","dimension29":"Promoting the education of looked-after and previously looked-after children"}' href="/government/publications/promoting-the-education-of-looked-after-children">Promoting the education of looked-after and previously looked-after children</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.5" data-track-label="/government/publications/promoting-the-education-of-looked-after-children" data-track-options='{"dimension28":"10","dimension29":"Promoting the education of looked-after and previously looked-after children"}' class="gem-c-document-list__item-title  " href="/government/publications/promoting-the-education-of-looked-after-children">Promoting the education of looked-after and previously looked-after children</a>
           </h3>
 
 
@@ -1327,7 +1382,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.6" data-track-label="/government/publications/supervision-of-activity-with-children" data-track-options='{"dimension28":"10","dimension29":"Supervision of activity with children"}' href="/government/publications/supervision-of-activity-with-children">Supervision of activity with children</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.6" data-track-label="/government/publications/supervision-of-activity-with-children" data-track-options='{"dimension28":"10","dimension29":"Supervision of activity with children"}' class="gem-c-document-list__item-title  " href="/government/publications/supervision-of-activity-with-children">Supervision of activity with children</a>
           </h3>
 
 
@@ -1345,7 +1400,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.7" data-track-label="/government/publications/children-act-1989-court-orders--2" data-track-options='{"dimension28":"10","dimension29":"Children Act 1989: court orders"}' href="/government/publications/children-act-1989-court-orders--2">Children Act 1989: court orders</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.7" data-track-label="/government/publications/children-act-1989-court-orders--2" data-track-options='{"dimension28":"10","dimension29":"Children Act 1989: court orders"}' class="gem-c-document-list__item-title  " href="/government/publications/children-act-1989-court-orders--2">Children Act 1989: court orders</a>
           </h3>
 
 
@@ -1363,7 +1418,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.8" data-track-label="/government/publications/children-act-1989-care-planning-placement-and-case-review" data-track-options='{"dimension28":"10","dimension29":"Children Act 1989: care planning, placement and case review"}' href="/government/publications/children-act-1989-care-planning-placement-and-case-review">Children Act 1989: care planning, placement and case review</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.8" data-track-label="/government/publications/children-act-1989-care-planning-placement-and-case-review" data-track-options='{"dimension28":"10","dimension29":"Children Act 1989: care planning, placement and case review"}' class="gem-c-document-list__item-title  " href="/government/publications/children-act-1989-care-planning-placement-and-case-review">Children Act 1989: care planning, placement and case review</a>
           </h3>
 
 
@@ -1381,7 +1436,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.9" data-track-label="/government/publications/health-and-safety-advice-for-schools" data-track-options='{"dimension28":"10","dimension29":"Health and safety: advice for schools"}' href="/government/publications/health-and-safety-advice-for-schools">Health and safety: advice for schools</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.9" data-track-label="/government/publications/health-and-safety-advice-for-schools" data-track-options='{"dimension28":"10","dimension29":"Health and safety: advice for schools"}' class="gem-c-document-list__item-title  " href="/government/publications/health-and-safety-advice-for-schools">Health and safety: advice for schools</a>
           </h3>
 
 
@@ -1399,7 +1454,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.10" data-track-label="/government/publications/standards-for-school-premises" data-track-options='{"dimension28":"10","dimension29":"Standards for school premises"}' href="/government/publications/standards-for-school-premises">Standards for school premises</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="10.10" data-track-label="/government/publications/standards-for-school-premises" data-track-options='{"dimension28":"10","dimension29":"Standards for school premises"}' class="gem-c-document-list__item-title  " href="/government/publications/standards-for-school-premises">Standards for school premises</a>
           </h3>
 
 
@@ -1421,7 +1476,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="special-educational-/-health-needs">Special educational / health needs</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -1430,7 +1485,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.1" data-track-label="/government/publications/education-for-children-with-health-needs-who-cannot-attend-school" data-track-options='{"dimension28":"3","dimension29":"Education for children with health needs who cannot attend school"}' href="/government/publications/education-for-children-with-health-needs-who-cannot-attend-school">Education for children with health needs who cannot attend school</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.1" data-track-label="/government/publications/education-for-children-with-health-needs-who-cannot-attend-school" data-track-options='{"dimension28":"3","dimension29":"Education for children with health needs who cannot attend school"}' class="gem-c-document-list__item-title  " href="/government/publications/education-for-children-with-health-needs-who-cannot-attend-school">Education for children with health needs who cannot attend school</a>
           </h3>
 
 
@@ -1448,7 +1503,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.2" data-track-label="/government/publications/send-code-of-practice-0-to-25" data-track-options='{"dimension28":"3","dimension29":"SEND code of practice: 0 to 25 years"}' href="/government/publications/send-code-of-practice-0-to-25">SEND code of practice: 0 to 25 years</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.2" data-track-label="/government/publications/send-code-of-practice-0-to-25" data-track-options='{"dimension28":"3","dimension29":"SEND code of practice: 0 to 25 years"}' class="gem-c-document-list__item-title  " href="/government/publications/send-code-of-practice-0-to-25">SEND code of practice: 0 to 25 years</a>
           </h3>
 
 
@@ -1466,7 +1521,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.3" data-track-label="/government/publications/supporting-pupils-at-school-with-medical-conditions--3" data-track-options='{"dimension28":"3","dimension29":"Supporting pupils with medical conditions at school"}' href="/government/publications/supporting-pupils-at-school-with-medical-conditions--3">Supporting pupils with medical conditions at school</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="11.3" data-track-label="/government/publications/supporting-pupils-at-school-with-medical-conditions--3" data-track-options='{"dimension28":"3","dimension29":"Supporting pupils with medical conditions at school"}' class="gem-c-document-list__item-title  " href="/government/publications/supporting-pupils-at-school-with-medical-conditions--3">Supporting pupils with medical conditions at school</a>
           </h3>
 
 
@@ -1488,7 +1543,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="staff-employment-and-teachers-pay">Staff employment and teachers pay</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -1497,7 +1552,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.1" data-track-label="/government/publications/induction-for-newly-qualified-teachers-nqts" data-track-options='{"dimension28":"5","dimension29":"Induction for newly qualified teachers (NQTs)"}' href="/government/publications/induction-for-newly-qualified-teachers-nqts">Induction for newly qualified teachers (NQTs)</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.1" data-track-label="/government/publications/induction-for-newly-qualified-teachers-nqts" data-track-options='{"dimension28":"5","dimension29":"Induction for newly qualified teachers (NQTs)"}' class="gem-c-document-list__item-title  " href="/government/publications/induction-for-newly-qualified-teachers-nqts">Induction for newly qualified teachers (NQTs)</a>
           </h3>
 
 
@@ -1515,7 +1570,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.2" data-track-label="/government/publications/initial-teacher-training-criteria" data-track-options='{"dimension28":"5","dimension29":"Initial teacher training (ITT): criteria and supporting advice"}' href="/government/publications/initial-teacher-training-criteria">Initial teacher training (ITT): criteria and supporting advice</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.2" data-track-label="/government/publications/initial-teacher-training-criteria" data-track-options='{"dimension28":"5","dimension29":"Initial teacher training (ITT): criteria and supporting advice"}' class="gem-c-document-list__item-title  " href="/government/publications/initial-teacher-training-criteria">Initial teacher training (ITT): criteria and supporting advice</a>
           </h3>
 
 
@@ -1533,7 +1588,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.3" data-track-label="/government/publications/school-teachers-pay-and-conditions" data-track-options="{&quot;dimension28&quot;:&quot;5&quot;,&quot;dimension29&quot;:&quot;School teachers' pay and conditions&quot;}" href="/government/publications/school-teachers-pay-and-conditions">School teachers' pay and conditions</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.3" data-track-label="/government/publications/school-teachers-pay-and-conditions" data-track-options="{&quot;dimension28&quot;:&quot;5&quot;,&quot;dimension29&quot;:&quot;School teachers' pay and conditions&quot;}" class="gem-c-document-list__item-title  " href="/government/publications/school-teachers-pay-and-conditions">School teachers' pay and conditions</a>
           </h3>
 
 
@@ -1551,7 +1606,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.4" data-track-label="/government/publications/staffing-and-employment-advice-for-schools" data-track-options='{"dimension28":"5","dimension29":"Staffing and employment: advice for schools"}' href="/government/publications/staffing-and-employment-advice-for-schools">Staffing and employment: advice for schools</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.4" data-track-label="/government/publications/staffing-and-employment-advice-for-schools" data-track-options='{"dimension28":"5","dimension29":"Staffing and employment: advice for schools"}' class="gem-c-document-list__item-title  " href="/government/publications/staffing-and-employment-advice-for-schools">Staffing and employment: advice for schools</a>
           </h3>
 
 
@@ -1569,7 +1624,7 @@ There is some guidance that you must follow without exception. In these cases we
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.5" data-track-label="/government/publications/teacher-appraisal-and-capability-model-policy" data-track-options='{"dimension28":"5","dimension29":"Teacher appraisal and capability: model policy"}' href="/government/publications/teacher-appraisal-and-capability-model-policy">Teacher appraisal and capability: model policy</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="12.5" data-track-label="/government/publications/teacher-appraisal-and-capability-model-policy" data-track-options='{"dimension28":"5","dimension29":"Teacher appraisal and capability: model policy"}' class="gem-c-document-list__item-title  " href="/government/publications/teacher-appraisal-and-capability-model-policy">Teacher appraisal and capability: model policy</a>
           </h3>
 
 
@@ -1591,7 +1646,7 @@ There is some guidance that you must follow without exception. In these cases we
   <h3 class="group-title" id="16-to-19-education-and-work-experience">16 to 19 education and work experience</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -1600,7 +1655,7 @@ There is some guidance that you must follow without exception. In these cases we
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="13.1" data-track-label="/government/publications/participation-of-young-people-education-employment-and-training" data-track-options='{"dimension28":"1","dimension29":"Participation of young people: education, employment and training"}' href="/government/publications/participation-of-young-people-education-employment-and-training">Participation of young people: education, employment and training</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="13.1" data-track-label="/government/publications/participation-of-young-people-education-employment-and-training" data-track-options='{"dimension28":"1","dimension29":"Participation of young people: education, employment and training"}' class="gem-c-document-list__item-title  " href="/government/publications/participation-of-young-people-education-employment-and-training">Participation of young people: education, employment and training</a>
           </h3>
 
 
@@ -1624,10 +1679,14 @@ There is some guidance that you must follow without exception. In these cases we
       <div class="responsive-bottom-margin">
         <div class="app-c-published-dates app-c-published-dates--history" id="history" data-module="toggle">
     Published 11 March 2014
-    <br>Last updated 7 June 2018
+    <br>Last updated 11 June 2018
       <a href="#full-history" data-controls="full-history" data-expanded="false" data-toggled-text="- hide all updates">+ show all updates</a>
       <div class="app-c-published-dates__change-history js-hidden" id="full-history">
         <ol>
+            <li class="app-c-published-dates__change-item">
+              <time class="app-c-published-dates__change-date timestamp" datetime="2018-06-11T11:33:39.000+01:00">11 June 2018</time>
+              Updated to include more guidance for school leaders to comply with the law.
+            </li>
             <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2018-06-07T14:51:59.000+01:00">7 June 2018</time>
               Additional guidance added to help schools and local authorities comply with the law.
@@ -1636,7 +1695,7 @@ There is some guidance that you must follow without exception. In these cases we
               <time class="app-c-published-dates__change-date timestamp" datetime="2017-08-10T10:15:31.000+01:00">10 August 2017</time>
               Added 'School teachers' pay and conditions' statutory guidance for 2017.
             </li>
-           <li class="app-c-published-dates__change-item">
+            <li class="app-c-published-dates__change-item">
               <time class="app-c-published-dates__change-date timestamp" datetime="2016-11-10T16:06:01.000+00:00">10 November 2016</time>
               Added 2017 assessment and reporting arrangements for key stage 1, key stage 2 and the early years foundation stage.
             </li>
@@ -1782,7 +1841,7 @@ There is some guidance that you must follow without exception. In these cases we
         <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
 
         <input type="hidden" name="url" value="https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools">
-        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko">
+        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36">
 
         <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
         <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
@@ -1798,13 +1857,13 @@ There is some guidance that you must follow without exception. In these cases we
   <label class="
       gem-c-label__text
       
-    " for="input-50c6fee0">
+    " for="input-e4615e19">
     What were you doing?
   </label>
 </div>
 
 
-<input class="gem-c-input " id="input-50c6fee0" name="what_doing" type="text" aria-describedby="feedback_explanation">
+<input class="gem-c-input " id="input-e4615e19" name="what_doing" type="text" aria-describedby="feedback_explanation">
 
 
         
@@ -1818,13 +1877,13 @@ There is some guidance that you must follow without exception. In these cases we
   <label class="
       gem-c-label__text
       
-    " for="input-a720e2d7">
+    " for="input-0689b760">
     What went wrong?
   </label>
 </div>
 
 
-<input class="gem-c-input " id="input-a720e2d7" name="what_wrong" type="text">
+<input class="gem-c-input " id="input-0689b760" name="what_wrong" type="text">
 
 
         <input class="gem-c-feedback__submit" type="submit" value="Send">
@@ -1840,7 +1899,7 @@ There is some guidance that you must follow without exception. In these cases we
         <div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
 
         <input type="hidden" name="url" value="https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools">
-        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko">
+        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36">
 
         <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
         <input name="email_survey_signup[survey_source]" type="hidden" value="https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools">
@@ -1860,13 +1919,13 @@ There is some guidance that you must follow without exception. In these cases we
   <label class="
       gem-c-label__text
       
-    " for="input-12623515">
+    " for="input-0c12a6ca">
     Email address
   </label>
 </div>
 
 
-<input class="gem-c-input " id="input-12623515" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation">
+<input class="gem-c-input " id="input-0c12a6ca" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation">
 
 
         <input class="gem-c-feedback__submit" type="submit" value="Send me the survey">
@@ -1965,7 +2024,7 @@ There is some guidance that you must follow without exception. In these cases we
 
     <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
   <script src="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-2a3e177b1002a6ea6d9d00098ad6e653a49291f802fb1ad6608d9a6fac4a1272.js" crossorigin="anonymous" integrity="sha256-Kj4XexACpuptnQAJitbmU6SSkfgC+xrWYI2ab6xKEnI="></script><script type="application/ld+json">
-  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools"},"headline":"Schools: statutory guidance","datePublished":"2014-03-11T10:24:00.000+00:00","dateModified":"2018-06-07T13:51:59.000+00:00","description":"The Department for Education’s statutory guidance publications for schools and local authorities.","publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"author":{"@type":"Organization","name":"Department for Education","url":"https://www-origin.integration.publishing.service.gov.uk/government/organisations/department-for-education"},"articleBody":"\u003cdiv class=\"govspeak\"\u003e\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eStatutory guidance sets out what schools and local authorities must do to comply with the law. You should follow the guidance unless you have a very good reason not to.\n\u003cbr\u003e\u003cbr\u003e\nThere is some guidance that you must follow without exception. In these cases we make this clear in the guidance document itself.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eThere is supporting guidance to help you comply with the law.\u003c/p\u003e\n\n\u003cp\u003eThese publications reflect the current legal position (unless otherwise indicated), but may not reflect the current government’s policies.\u003c/p\u003e\n\n\u003c/div\u003e"}
+  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www-origin.integration.publishing.service.gov.uk/government/collections/statutory-guidance-schools"},"headline":"Schools: statutory guidance","datePublished":"2014-03-11T10:24:00.000+00:00","dateModified":"2018-06-11T10:33:39.000+00:00","description":"The Department for Education’s statutory guidance publications for schools and local authorities.","publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"image":["https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-5ceffac04f7f6d4f421bd1d36dbb723ef48c15426d7f77f90be80a83af3c747e.png","https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-4x3-fcfe16abb1a015848e50d2ea797666a9eaf5158dca38ddfb1e52dc8c0543ab74.png","https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-16x9-fcf616879a7b37970df4d2117de962e08f7d057674ef1af6063dcdd529424eee.png"],"author":{"@type":"Organization","name":"Department for Education","url":"https://www-origin.integration.publishing.service.gov.uk/government/organisations/department-for-education"},"articleBody":"\u003cdiv class=\"govspeak\"\u003e\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eStatutory guidance sets out what schools and local authorities must do to comply with the law. You should follow the guidance unless you have a very good reason not to.\n\u003cbr\u003e\u003cbr\u003e\nThere is some guidance that you must follow without exception. In these cases we make this clear in the guidance document itself.\u003c/p\u003e\n\u003c/div\u003e\n\n\u003cp\u003eThere is supporting guidance to help you comply with the law.\u003c/p\u003e\n\n\u003cp\u003eThese publications reflect the current legal position (unless otherwise indicated), but may not reflect the current government’s policies.\u003c/p\u003e\n\n\u003c/div\u003e"}
 </script><script type="application/ld+json">
   {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://www-origin.integration.publishing.service.gov.uk/"}},{"@type":"ListItem","position":2,"item":{"name":"Education, training and skills","@id":"https://www-origin.integration.publishing.service.gov.uk/education"}},{"@type":"ListItem","position":3,"item":{"name":"Running and managing a school","@id":"https://www-origin.integration.publishing.service.gov.uk/education/running-and-managing-a-school"}}]}
 </script>
