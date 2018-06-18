@@ -15,7 +15,7 @@
 <meta name="govuk:user-journey-stage" content="thing">
 <meta name="govuk:schema-name" content="html_publication">
 <meta name="govuk:format" content="html_publication">
-<meta name="csrf-token" content="OU46cQlTqiwyCEEvEWL+L3oXiU7gsZMxcduUvf03YiJjGmNlv0OXNXzULD6VyDl6+sGqu4F9rIq145cjRcN2Dw==">
+<meta name="csrf-token" content="WJ1bgStA9irWpI8rDconqO4Z4DYkwMEYZLpFXGOJGX2IGo57QNBRIGEl09Q1dz7g7J5RhGZOqpobucKUi3Ratw==">
 <meta name="csrf-param" content="authenticity_token">
     <meta charset="utf-8">
     <title lang="en">
@@ -43,21 +43,21 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-b37ca3541387eea09fc1a3730209f5a1c75376749a764ca1d4e4dbc3f7ce13b1.css" crossorigin="anonymous" integrity="sha256-s3yjVBOH7qCfwaNzAgn1ocdTdnSadkyh1OTbw/fOE7E=">
+      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-3d0b91a47edcee49a578d46f8ce40689affb196378754b0fe0879999ff5d7200.css" crossorigin="anonymous" integrity="sha256-PQuRpH7c7kmleNRvjOQGia/7GWN4dUsP4IeZmf9dcgA=">
 <!--<![endif]-->
-<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie6-e9746117083783428f3f975114f8834b01821ecee68b5e662dea2bfcb57999cb.css" /><script>var ieVersion = 6;</script><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie7-ad510cae741911e2e619e3857fc0ca933bc7b8dfcab6d7773755c9189586bdeb.css" /><script>var ieVersion = 7;</script><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie8-9b4924d5736d93ef21246bbe4b5ac9e68fd16d4645519d11536522710ac06634.css" /><script>var ieVersion = 8;</script><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie6-bfc951a328cae9cac5ef2d5e991a10783e8df3f6b086348e4fa40d5f32e78026.css" /><script>var ieVersion = 6;</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie7-218333e87c18eea7c2ac551b56dc48aa798319a087e483bcca0f548ab65dba73.css" /><script>var ieVersion = 7;</script><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie8-04417d2c634bb087658290b6d736f6c9826f73e691f825216463455fc688c420.css" /><script>var ieVersion = 8;</script><![endif]-->
 
 <link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-print-07d9f2ae45b9bf761acf17c7ec414a9493f1a7cf1c8278b7ad5497cdd73eee84.css" crossorigin="anonymous" integrity="sha256-B9nyrkW5v3YazxfH7EFKlJPxp88cgni3rVSXzdc+7oQ=">
 
 
 
     <meta property="og:image" content="https://assets-origin.integration.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
-  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-8267827a8078b631cf5268e1527a0af6b251a8f11d4c317aadfde7d5bd5dabb0.css" crossorigin="anonymous" integrity="sha256-gmeCeoB4tjHPUmjhUnoK9rJRqPEdTDF6rf3n1b1dq7A=">
-<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/print-efa220c0a74eafee8fed663ec4061175f72a06371342f96e8a6ba4c67c25be35.css" crossorigin="anonymous" integrity="sha256-76IgwKdOr+6P7WY+xAYRdfcqBjcTQvluimukxnwlvjU=">
+  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-2de8ae64f79c48671e63cd5a3db2e8091dab131e597e3fc63d34ad3226677490.css" crossorigin="anonymous" integrity="sha256-LeiuZPecSGceY81aPbLoCR2rEx5Zfj/GPTStMiZndJA=">
+<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/print-a9af06f0e0ff57a3916f6700715b87afc2f8c596fc6b03aa7b8ef4cbb8bdbb58.css" crossorigin="anonymous" integrity="sha256-qa8G8OD/V6ORb2cAcVuHr8L4xZb8awOqe470y7i9u1g=">
 <link rel="canonical" href="https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures/understanding-school-performance-measures">
-<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie6-5c6da18f5475416747b51c43bc9bcb3338a948887fdc18602ee2e588be12bb07.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie7-2589047b2b6ce5e48dd13e9d7b6495457afdcb030fc5fea207ee497e199980b9.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie8-041a83f316d9500620d6c90638f0ba0429cc9fa5c7a7c70908ec7c157ad322d0.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie6-c8b92791171e4e5c196569f88d85d651637bf74ebe79d7f11bbe51264a7afb31.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie7-cf2d77cc6b8a377f8c5001e591aa1a70cf35edfa86f91c33eb2d2fac62d81263.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie8-7520dce3459a489f8c9d67e4082e9e6c54752d5c8c95c39e90e03a7aa9768f2c.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
 </head>
 
   <body>
@@ -127,19 +127,18 @@
     <main role="main" id="content" class="html-publication" lang="en">
       
 
-<div class="publication-external">
-  <ol class="organisation-logos">
-      <li class="organisation-logo">
-        <div class="govuk-organisation-logo department-for-education">
-    <a class="logo-container logo-link logo-with-crest crest-single-identity" href="/government/organisations/department-for-education">
-        <span>Department <br>for Education</span>
-
+  <div class="publication-external">
+    <ol class="organisation-logos">
+        <li class="organisation-logo">
+          <div class="gem-c-organisation-logo brand--department-for-education">
+    <a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--single-identity brand__border-color" href="/government/organisations/department-for-education">
+      <span class="gem-c-organisation-logo__name">Department <br>for Education</span>
 </a>
 </div>
 
-      </li>
-  </ol>
-</div>
+        </li>
+    </ol>
+  </div>
 
   <header class="gem-c-inverse-header  gem-c-inverse-header--padding-top ">
     
@@ -154,7 +153,7 @@
   </h1>
 </div>
 
-  <p class="publication-header__last-changed">Published 7 June 2018</p>
+  <p class="publication-header__last-changed">Updated 18 June 2018</p>
 
   </header>
 
@@ -167,28 +166,25 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#how-we-get-the-data" data-track-options='{"dimension29":"\n1. How we get the data"}' href="#how-we-get-the-data"><span class="gem-c-contents-list__number">1. </span><span class="gem-c-contents-list__numbered-text">How we get the data</span></a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#data-collection" data-track-options='{"dimension29":"\n1. Data collection"}' href="#data-collection"><span class="gem-c-contents-list__number">1. </span><span class="gem-c-contents-list__numbered-text">Data collection</span></a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#how-we-calculate-the-performance-measures" data-track-options='{"dimension29":"\n2. How we calculate the performance measures"}' href="#how-we-calculate-the-performance-measures"><span class="gem-c-contents-list__number">2. </span><span class="gem-c-contents-list__numbered-text">How we calculate the performance measures</span></a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#accurate-and-reliable-data" data-track-options='{"dimension29":"\n2. Accurate and reliable data"}' href="#accurate-and-reliable-data"><span class="gem-c-contents-list__number">2. </span><span class="gem-c-contents-list__numbered-text">Accurate and reliable data</span></a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#how-we-make-sure-the-data-is-reliable" data-track-options='{"dimension29":"\n3. How we make sure the data is reliable"}' href="#how-we-make-sure-the-data-is-reliable"><span class="gem-c-contents-list__number">3. </span><span class="gem-c-contents-list__numbered-text">How we make sure the data is reliable</span></a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#updating-the-data" data-track-options='{"dimension29":"\n3. Updating the data"}' href="#updating-the-data"><span class="gem-c-contents-list__number">3. </span><span class="gem-c-contents-list__numbered-text">Updating the data</span></a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#factors-that-can-affect-performance-results" data-track-options='{"dimension29":"\n4. Factors that can affect performance results"}' href="#factors-that-can-affect-performance-results"><span class="gem-c-contents-list__number">4. </span><span class="gem-c-contents-list__numbered-text">Factors that can affect performance results</span></a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#data-that-we-dont-report" data-track-options='{"dimension29":"\n4. Data that we don’t report"}' href="#data-that-we-dont-report"><span class="gem-c-contents-list__number">4. </span><span class="gem-c-contents-list__numbered-text">Data that we don’t report</span></a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#how-we-make-sure-the-data-is-reliable-1" data-track-options='{"dimension29":"\n5. How we make sure the data is reliable"}' href="#how-we-make-sure-the-data-is-reliable-1"><span class="gem-c-contents-list__number">5. </span><span class="gem-c-contents-list__numbered-text">How we make sure the data is reliable</span></a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#calculating-the-performance-measures" data-track-options='{"dimension29":"\n5. Calculating the performance measures"}' href="#calculating-the-performance-measures"><span class="gem-c-contents-list__number">5. </span><span class="gem-c-contents-list__numbered-text">Calculating the performance measures</span></a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#consider-both-attainment-and-progress" data-track-options='{"dimension29":"\n6. Consider both attainment and progress"}' href="#consider-both-attainment-and-progress"><span class="gem-c-contents-list__number">6. </span><span class="gem-c-contents-list__numbered-text">Consider both attainment and progress</span></a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#factors-that-can-affect-performance-results" data-track-options='{"dimension29":"\n6. Factors that can affect performance results"}' href="#factors-that-can-affect-performance-results"><span class="gem-c-contents-list__number">6. </span><span class="gem-c-contents-list__numbered-text">Factors that can affect performance results</span></a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#how-we-update-the-data" data-track-options='{"dimension29":"\n7. How we update the data"}' href="#how-we-update-the-data"><span class="gem-c-contents-list__number">7. </span><span class="gem-c-contents-list__numbered-text">How we update the data</span></a>
-        </li>
-        <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#data-that-we-dont-report" data-track-options='{"dimension29":"\n8. Data that we don’t report"}' href="#data-that-we-dont-report"><span class="gem-c-contents-list__number">8. </span><span class="gem-c-contents-list__numbered-text">Data that we don’t report</span></a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#consider-both-attainment-and-progress" data-track-options='{"dimension29":"\n7. Consider both attainment and progress"}' href="#consider-both-attainment-and-progress"><span class="gem-c-contents-list__number">7. </span><span class="gem-c-contents-list__numbered-text">Consider both attainment and progress</span></a>
         </li>
     </ol>
   </nav>
@@ -222,9 +218,9 @@
     <div class="gem-c-govspeak-html-publication">
   
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
-<h2 id="how-we-get-the-data">
-<span class="number">1. </span>How we get the data</h2>
+      <div class="govspeak">
+<h2 id="data-collection">
+<span class="number">1. </span>Data collection</h2>
 
 <p>We get school and college attainment data from:</p>
 
@@ -265,8 +261,141 @@
 
 <p>To find out about pupil and student ‘destinations’ (what a student does after finishing key stage 4 or 16 to 18 study), read <a rel="external" href="https://www.gov.uk/government/publications/destination-measures-for-key-stage-4-and-16-to-18-students-2017">Destination measures for key stage 4 and 16 to 18 students</a></p>
 
-<h2 id="how-we-calculate-the-performance-measures">
-<span class="number">2. </span>How we calculate the performance measures</h2>
+<h2 id="accurate-and-reliable-data">
+<span class="number">2. </span>Accurate and reliable data</h2>
+
+<p>We make sure the data is accurate and reliable in the following ways:</p>
+
+<ul>
+  <li>the <a rel="external" href="https://www.gov.uk/government/organisations/standards-and-testing-agency">Standards and Testing Agency</a> asks local authorities to check a sample of key stage 2 teacher assessments to make sure they meet national standards</li>
+  <li>we perform an annual run-through of the performance tables data production process using test data to identify any miscalculations and fix them before we process the real data</li>
+  <li>we ask schools and colleges to check their performance tables results and ask for the necessary amendments (for example grade changes as a result of re-sits) before we publish final data</li>
+  <li>qualification awarding organisations offer a review service to schools, so that they can challenge the marks or grades awarded by markers</li>
+</ul>
+
+<h2 id="updating-the-data">
+<span class="number">3. </span>Updating the data</h2>
+
+<p>We regularly update information we have on schools if, for example, a school:</p>
+
+<ul>
+  <li>changes type, for example it becomes an academy</li>
+  <li>closes or reopens</li>
+  <li>gets a new headteacher or principal</li>
+</ul>
+
+<p>We also publish the latest Ofsted inspection outcome on the school’s page and show when we added the latest inspection judgement.</p>
+
+<h3 id="changes-to-data">
+<span class="number">3.1 </span>Changes to data</h3>
+
+<p>After we publish performance table data there’s a 4 week time period known as errata when schools and colleges can ask for amendments.  For example, grade changes due to enquiries about results.</p>
+
+<p>If we approve an amendment, we will update the data at the end of the amendment process. We won’t make further updates to the data after this period has closed.  At this point, the data will be marked as ‘final’.</p>
+
+<p>Any changes received during this period will not be used to update the amended Level 3 Value Added measures published in January.</p>
+
+<p>The full datasets available in the <a rel="external" href="https://www.compare-school-performance.service.gov.uk/download-data">download data section of the school performance tables</a> are updated after the amendment period has closed.</p>
+
+<h2 id="data-that-we-dont-report">
+<span class="number">4. </span>Data that we don’t report</h2>
+
+<h3 id="unapproved-qualifications">
+<span class="number">4.1 </span>Unapproved qualifications</h3>
+
+<p>We don’t include data on</p>
+
+<ul>
+  <li>all key stage 4 qualifications in secondary performance tables</li>
+  <li>qualifications taken by 16 to 18 year olds in schools and colleges</li>
+</ul>
+
+<p>This is due to <a rel="external" href="https://www.gov.uk/government/publications/wolf-recommendations-progress-report">policy reforms</a>, which means that only approved qualifications count <a rel="external" href="https://www.gov.uk/government/publications/2018-performance-tables-discount-codes">approved qualifications</a>.</p>
+
+<p>Schools that offer unapproved qualifications (for example unregulated international GCSEs) may find that their performance is recorded as 0% against the headline measures (for example English Baccalaureate entry and achievement). This has an effect on the national figures.</p>
+
+<p>There are other reasons why a school may have a score of 0% in threshold measures, for example attainment below C grade or equivalent for qualifications that count towards performance at key stage 4.</p>
+
+<p>To see a list of the qualifications we count for key stage 4, read <a rel="external" href="https://www.gov.uk/government/publications/2018-performance-tables-discount-codes">Key stage 4 qualifications and discount codes for 2014 to 2019 performance tables</a>.</p>
+
+<p>To see a list of the qualifications we count for 16 to 18, read <a rel="external" href="https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">Performance points for qualifications counting in the 16 to 18 performance tables 2017</a>.</p>
+
+<h3 id="overseas-pupils">
+<span class="number">4.2 </span>Overseas pupils</h3>
+
+<p>Pupils who have joined a school or college from overseas won’t be included in progress measures, because there won’t be previous attainment data available to measure their current progress. We’ll still include these pupils in the attainment measures for the school, college, England and the local authority (unless the school requested to remove the pupil on the grounds of exceptional circumstances).</p>
+
+<h3 id="schools-that-become-academies">
+<span class="number">4.3 </span>Schools that become academies</h3>
+
+<p>We show academies as either ‘converter academies’ or ‘sponsored academies’.</p>
+
+<p>A converter academy is a school that voluntarily becomes an academy and does not have a sponsor.</p>
+
+<p>A sponsored academy is a school that becomes an academy supported by a ‘sponsor’ - to help it improve and with new governance arrangements.</p>
+
+<p>In most cases, we treat a converter academy as a continuing school and a sponsored academy as a new school. This affects how we report results for these schools.</p>
+
+<p>If a school becomes an academy before 12 September of that academic year, we’ll publish the results for this academy under the new school name.</p>
+
+<p>If a school becomes an academy on or after 12 September, we’ll:</p>
+
+<ul>
+  <li>
+    <p>publish the results for that academic year under the old school name</p>
+  </li>
+  <li>
+    <p>link to the new school page which will provide background information only</p>
+  </li>
+</ul>
+
+<h3 id="independent-schools">
+<span class="number">4.4 </span>Independent schools</h3>
+
+<p>We don’t publish key stage 2 data for independent schools because they don’t have to follow the national curriculum or enter pupils for key stage 2 tests.</p>
+
+<p>We don’t publish Progress 8 data for independent schools at key stage 4. This is because the majority of pupils at independent schools do not have prior attainment data, which is needed to calculate progress. They’ll still be included for attainment at key stage 4.</p>
+
+<p>We don’t publish disadvantaged measures, retention measures or completion and attainment for independent schools in the 16 to 18 performance data. This is because the information is either not available to calculate these measures or does not apply to the students at independent schools.</p>
+
+<p>We don’t publish destination measures at key stage 4 or 16 to 18 for independent schools.</p>
+
+<h3 id="some-16-to-18-data">
+<span class="number">4.5 </span>Some 16 to 18 data</h3>
+
+<p>We don’t include performance data on:</p>
+
+<ul>
+  <li>work-based learning, for example apprenticeships and traineeships</li>
+  <li>16 to 18 institutions that aren’t schools or colleges, for example training providers</li>
+  <li>special schools - we only include those that have opted in</li>
+</ul>
+
+<h3 id="similar-qualifications-discounting">
+<span class="number">4.6 </span>Similar qualifications (‘discounting’)</h3>
+
+<p>We use <a rel="external" href="https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">key stage 4 discount codes and 16 to 18 discount codes</a> to group qualifications with similar content together, so that we only credit schools or colleges for a single course of study if there is an overlap in curriculum. This means that if a pupil has taken 2 or more very similar subjects, we’ll only credit the school or college for 1 qualification.</p>
+
+<p>We may need to use discounting if, for example:</p>
+
+<ul>
+  <li>a pupil re-sits a qualification before the end of key stage 4 or 16-to-18 study with a different awarding organisation</li>
+  <li>the school or college provides a single course of study but then enters the pupil for 2 or more very similar qualifications</li>
+</ul>
+
+<p>For more information, read <a rel="external" href="https://www.gov.uk/government/publications/key-stage-4-qualifications-discount-codes-and-point-scores">Key stage 4 discounting and early entry guidance</a> or <a rel="external" href="https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">16 to 18 discounting guidance (2017)</a>.</p>
+
+<h3 id="data-that-could-identify-pupils-suppressed-data">
+<span class="number">4.7 </span>Data that could identify pupils (‘suppressed’ data)</h3>
+
+<p>We don’t publish attainment figures if there are 5 or fewer pupils with certain characteristics (backgrounds or needs) in a particular school. This is to reduce the risk of individual pupils being identified.</p>
+
+<p>We apply extra suppression to destination measures because it contains employment data. We don’t publish figures if there are 10 or fewer pupils in a particular school or figures referring to outcomes for 1 or 2 individuals.</p>
+
+<p>If we’ve suppressed the data, a field will show as ‘SUPP’ in the performance tables results.Data in the school and college performance tables can only show part of the picture of a school or college and its pupils’ or students’ achievements.</p>
+
+<h2 id="calculating-the-performance-measures">
+<span class="number">5. </span>Calculating the performance measures</h2>
 
 <p>We match data we get from schools and colleges with the relevant test, teacher assessment or exam results we gather from local authorities and qualification awarding organisations.</p>
 
@@ -297,7 +426,7 @@
 </ul>
 
 <h3 id="key-stage-2---measuring-performance">
-<span class="number">2.1 </span>Key stage 2 - measuring performance</h3>
+<span class="number">5.1 </span>Key stage 2 - measuring performance</h3>
 
 <p>A new curriculum introduced in 2014 changed the key stage 2 assessments and primary accountability policy. The expected standard has been raised and as a result since 2016, we have new key stage 2 performance measures, which should not be compared with the previous measures.</p>
 
@@ -314,13 +443,16 @@
 
 <p>The percentage of pupils who achieve at a higher standard in English reading, English writing and mathematics.</p>
 
-<p>The pupils’ average progress:
-* in English reading
-* in English writing
-* in mathematics</p>
+<p>The pupils’ average progress in:</p>
+
+<ul>
+  <li>English reading</li>
+  <li>English writing</li>
+  <li>Mathematics</li>
+</ul>
 
 <h3 id="key-stage-4---performance-measures">
-<span class="number">2.2 </span>Key stage 4 - performance measures</h3>
+<span class="number">5.2 </span>Key stage 4 - performance measures</h3>
 
 <p>Key stage 4 performance measures have been amended to reflect <a rel="external" href="https://www.gov.uk/government/consultations/secondary-school-accountability-consultation">policy reforms</a>. A new secondary school accountability system was introduced in 2016.</p>
 
@@ -331,14 +463,14 @@
 <ul>
   <li>progress across 8 qualifications (Progress 8)</li>
   <li>attainment across the same 8 qualifications (Attainment 8)</li>
-  <li>percentage of pupils achieving a grade 5 or above in English and maths</li>
+  <li>percentage of pupils achieving a grade 5 or above in English and mathematics</li>
   <li>percentage of pupils entering the English Baccalaureate</li>
-  <li>percentage of pupils at the school achieving the English Baccalaureate at a grade 5 or above in English and maths, and at a grade C or above in other subjects</li>
+  <li>percentage of pupils at the school achieving the English Baccalaureate at a grade 5 or above in English and mathematics, and at a grade C or above in other subjects</li>
   <li>percentage of students staying in education or going into employment after key stage 4 (pupil destinations)</li>
 </ul>
 
 <h3 id="to-18---performance-measures">
-<span class="number">2.3 </span>16 to 18 - performance measures</h3>
+<span class="number">5.3 </span>16 to 18 - performance measures</h3>
 
 <p>Policy reforms have changed the way we report performance for 16 to 18 year olds. Therefore you can’t compare the most recent data with data prior to 2016.</p>
 
@@ -366,20 +498,8 @@
 
 <p>Read more about changes to <a rel="external" href="https://www.gov.uk/government/publications/16-to-19-accountability-headline-measures-technical-guide">accountability measures</a>.</p>
 
-<h2 id="how-we-make-sure-the-data-is-reliable">
-<span class="number">3. </span>How we make sure the data is reliable</h2>
-
-<p>We make sure the data is accurate and reliable in the following ways:</p>
-
-<ul>
-  <li>the <a rel="external" href="https://www.gov.uk/government/organisations/standards-and-testing-agency">Standards and Testing Agency</a> asks local authorities to check a sample of key stage 2 teacher assessments to make sure they meet national standards</li>
-  <li>we perform an annual run-through of the performance tables data production process using test data to identify any miscalculations and fix them before we process the real data</li>
-  <li>we ask schools and colleges to check their performance tables results and ask for the necessary amendments (for example grade changes as a result of re-sits) before we publish final data</li>
-  <li>qualification awarding organisations offer a review service to schools, so that they can challenge the marks or grades awarded by markers</li>
-</ul>
-
 <h2 id="factors-that-can-affect-performance-results">
-<span class="number">4. </span>Factors that can affect performance results</h2>
+<span class="number">6. </span>Factors that can affect performance results</h2>
 
 <p>When measuring a school or college’s effectiveness, you should consider the context of the school, as there may be factors that can help explain its performance.</p>
 
@@ -397,7 +517,7 @@
 <p>You should also consider how the school or college’s performance compares to local and national results.</p>
 
 <h3 id="comparing-schools-with-small-pupil-numbers">
-<span class="number">4.1 </span>Comparing schools with small pupil numbers</h3>
+<span class="number">6.1 </span>Comparing schools with small pupil numbers</h3>
 
 <p>When comparing schools or colleges, you should consider that differences may not be significant if you’re looking at a small year group. For example, in a group of 10 pupils, 1 pupil would represent 10% and in a group of 30 pupils, 1 pupil would represent 3%.</p>
 
@@ -406,7 +526,7 @@
 <p>Where the numbers of pupils or students are very small, we show the related performance measures as ‘suppressed’ (not published and labelled ‘SUPP’ in the table) to make sure the pupils or students can’t be identified.</p>
 
 <h3 id="comparing-data-year-on-year">
-<span class="number">4.2 </span>Comparing data year-on-year</h3>
+<span class="number">6.2 </span>Comparing data year-on-year</h3>
 
 <p>In 2016, there were policy changes at key stage 2, key stage 4 and 16 to 18 which mean it is not always possible to compare year-on-year results over time.</p>
 
@@ -414,164 +534,25 @@
 
 <p>Read more about <a rel="external" href="https://www.gov.uk/government/publications/school-performance-tables-how-we-report-the-data">changes to qualifications and the way we calculate performance</a>.</p>
 
-<h2 id="how-we-make-sure-the-data-is-reliable-1">
-<span class="number">5. </span>How we make sure the data is reliable</h2>
-
-<p>We make sure the data is accurate and reliable in the following ways:</p>
-
-<ul>
-  <li>the <a rel="external" href="https://www.gov.uk/government/organisations/standards-and-testing-agency">Standards and Testing Agency</a> asks local authorities to check a sample of key stage 2 teacher assessments to make sure they meet national standards</li>
-  <li>we perform an annual run-through of the performance tables data production process using test data to identify any miscalculations and fix them before we process the real data</li>
-  <li>we ask schools and colleges to check their performance tables results and ask for the necessary amendments (for example grade changes as a result of re-sits) before we publish final data</li>
-  <li>qualification awarding organisations offer a review service to schools, so that they can challenge the marks or grades awarded by markers</li>
-</ul>
-
 <h2 id="consider-both-attainment-and-progress">
-<span class="number">6. </span>Consider both attainment and progress</h2>
+<span class="number">7. </span>Consider both attainment and progress</h2>
 
 <p>While attainment figures tell you about the performance of a school’s pupils at the end of a key stage, it’s important to consider that pupils have varying levels of ability and many different starting points.</p>
 
 <p>Some pupils may seem to be achieving low results based on their overall attainment at the end of a key stage. However, a pupil’s progress score will take into account their attainment at the end of the previous key stage, and the progress they have made since that point compared to pupils with similar starting points. When this is taken into account schools may in fact be helping pupils achieve better results than similar pupils nationally.</p>
 
 <h3 id="low-middle-or-high-attainers">
-<span class="number">6.1 </span>Low, middle or high attainers</h3>
+<span class="number">7.1 </span>Low, middle or high attainers</h3>
 
 <p>In the performance data, we group pupils at key stage 2 and key stage 4 as low, middle or high attainers depending on their attainment at the end of key stage 1 and key stage 2.</p>
 
 <p>You should consider how well a school’s low, middle or high attainers are progressing. This is an indication of whether a school is equally effective at helping all of its pupils meet their potential rather than, for example, just high attainers.</p>
-
-<h2 id="how-we-update-the-data">
-<span class="number">7. </span>How we update the data</h2>
-
-<p>We regularly update information we have on schools if, for example, a school:</p>
-
-<ul>
-  <li>changes type, for example it becomes an academy</li>
-  <li>closes or reopens</li>
-  <li>gets a new headteacher or principal</li>
-</ul>
-
-<p>We also publish the latest Ofsted inspection outcome on the school’s page and show when we added the latest inspection judgement.</p>
-
-<h3 id="changes-to-data">
-<span class="number">7.1 </span>Changes to data</h3>
-
-<p>After we publish performance table data there’s a 4 week time period known as errata when schools and colleges can ask for amendments.  For example, grade changes due to enquiries about results.</p>
-
-<p>If we approve an amendment, we will update the data at the end of the amendment process. We won’t make further updates to the data after this period has closed.  At this point, the data will be marked as ‘final’.</p>
-
-<p>Any changes received during this period will not be used to update the amended Level 3 Value Added measures published in January.</p>
-
-<p>The full datasets available in the <a rel="external" href="https://www.compare-school-performance.service.gov.uk/download-data">download data section of the school performance tables</a> are updated after the amendment period has closed.</p>
-
-<h2 id="data-that-we-dont-report">
-<span class="number">8. </span>Data that we don’t report</h2>
-
-<h3 id="unapproved-qualifications">
-<span class="number">8.1 </span>Unapproved qualifications</h3>
-
-<p>We don’t include data on all key stage 4 qualifications in secondary performance tables. Since the 2014 <a rel="external" href="https://www.gov.uk/government/publications/wolf-recommendations-progress-report">policy reforms</a>, we only count <a rel="external" href="https://www.gov.uk/government/publications/2018-performance-tables-discount-codes">approved qualifications</a>.</p>
-
-<p>Schools that offer unapproved qualifications (for example unregulated international GCSEs) may find that their performance is recorded as 0% against the headline measures (for example English Baccalaureate entry and achievement). This has an effect on the national figures.</p>
-
-<p>There are other reasons why a school may have a score of 0% in threshold measures, for example attainment below C grade or equivalent for qualifications that count towards performance at key stage 4.</p>
-
-<p>Since 2016, the 16 to 18 performance tables have only counted <a rel="external" href="https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">16 to 19 qualifications, discount codes and point scores</a>. These include academic, applied general and tech level qualifications at level 2 and level 3 vocational qualifications.</p>
-
-<h3 id="overseas-pupils">
-<span class="number">8.2 </span>Overseas pupils</h3>
-
-<p>Pupils who have joined a school or college from overseas won’t be included in progress measures, because there won’t be previous attainment data available to measure their current progress. We’ll still include these pupils in the attainment measures for the school, college, England and the local authority (unless the school requested to remove the pupil on the grounds of exceptional circumstances).</p>
-
-<h3 id="schools-that-become-academies">
-<span class="number">8.3 </span>Schools that become academies</h3>
-
-<p>We show academies as either ‘converter academies’ or ‘sponsored academies’.</p>
-
-<p>A converter academy is a school that voluntarily becomes an academy and does not have a sponsor.</p>
-
-<p>A sponsored academy is a school that becomes an academy supported by a ‘sponsor’ - to help it improve and with new governance arrangements.</p>
-
-<p>In most cases, we treat a converter academy as a continuing school and a sponsored academy as a new school. This affects how we report results for these schools.</p>
-
-<p>If a school becomes an academy before 12 September of that academic year, we’ll publish the results for this academy under the new school name.</p>
-
-<p>If a school becomes an academy on or after 12 September, we’ll:</p>
-
-<ul>
-  <li>publish the results for that academic year under the old school name</li>
-  <li>link to the new school page which will provide background information only</li>
-</ul>
-
-<h3 id="independent-schools">
-<span class="number">8.4 </span>Independent schools</h3>
-
-<p>We don’t publish key stage 2 data for independent schools because they don’t have to follow the national curriculum or enter pupils for key stage 2 tests.</p>
-
-<p>We don’t publish Progress 8 data for independent schools at key stage 4. This is because the majority of pupils at independent schools do not have prior attainment data, which is needed to calculate progress. They’ll still be included for attainment at key stage 4.</p>
-
-<p>We don’t publish disadvantaged measures, retention measures or completion and attainment for independent schools in the 16 to 18 performance data. This is because the information is either not available to calculate these measures or does not apply to the students at independent schools.</p>
-
-<p>We don’t publish destination measures at key stage 4 or 16 to 18 for independent schools.</p>
-
-<h3 id="some-16-to-18-data">
-<span class="number">8.5 </span>Some 16 to 18 data</h3>
-
-<p>We don’t include performance data on:</p>
-
-<ul>
-  <li>work-based learning, for example apprenticeships and traineeships</li>
-  <li>16 to 18 institutions that aren’t schools or colleges, for example training providers</li>
-  <li>special schools - we only include those that have opted in</li>
-</ul>
-
-<h3 id="unapproved-qualifications-1">
-<span class="number">8.6 </span>Unapproved qualifications</h3>
-
-<p>We don’t include data on all:</p>
-
-<ul>
-  <li>key stage 4 qualifications in secondary performance tables</li>
-  <li>qualifications taken by 16- to 18-year-olds in schools and colleges</li>
-</ul>
-
-<p>This is due to <a rel="external" href="https://www.gov.uk/government/publications/wolf-recommendations-progress-report">policy reforms</a>, which mean that only approved qualifications count.</p>
-
-<p>Schools that offer unapproved qualifications, for example unregulated international GCSEs, may find that these affect their performance against the headline measures. For example, the proportion of pupils achieving grades 9 to 5  in English and maths may be recorded as 0% if pupils took unregulated qualifications in these subjects.</p>
-
-<p>To see a list of the qualifications we count for key stage 4, read <a rel="external" href="https://www.gov.uk/government/publications/2018-performance-tables-discount-codes">Key stage 4 qualifications and discount codes for 2014 to 2019 performance tables</a>.</p>
-
-<p>To see a list of the qualifications we count for 16 to 18, read <a rel="external" href="https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">Performance points for qualifications counting in the 16 to 18 performance tables 2017</a>.</p>
-
-<h3 id="how-we-count-similar-qualifications-discounting">
-<span class="number">8.7 </span>How we count similar qualifications (‘discounting’)</h3>
-
-<p>We use <a rel="external" href="https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">key stage 4 discount codes and 16 to 18 discount codes</a> to group qualifications with similar content together, so that we only credit schools or colleges for a single course of study if there is an overlap in curriculum. This means that if a pupil has taken 2 or more very similar subjects, we’ll only credit the school or college for 1 qualification.</p>
-
-<p>We may need to use discounting if, for example:</p>
-
-<ul>
-  <li>a pupil re-sits a qualification before the end of key stage 4 or 16-to-18 study with a different awarding organisation</li>
-  <li>the school or college provides a single course of study but then enters the pupil for 2 or more very similar qualifications</li>
-</ul>
-
-<p>For more information, read <a rel="external" href="https://www.gov.uk/government/publications/key-stage-4-qualifications-discount-codes-and-point-scores">Key stage 4 discounting and early entry guidance</a> or <a rel="external" href="https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">16 to 18 discounting guidance (2017)</a>.</p>
-
-<h3 id="data-that-could-identify-pupils-suppressed-data">
-<span class="number">8.8 </span>Data that could identify pupils (‘suppressed’ data)</h3>
-
-<p>We don’t publish attainment figures if there are 5 or fewer pupils with certain characteristics (backgrounds or needs) in a particular school. This is to reduce the risk of individual pupils being identified.</p>
-
-<p>We apply extra suppression to destination measures because it contains employment data. We don’t publish figures if there are 10 or fewer pupils in a particular school or figures referring to outcomes for 1 or 2 individuals.</p>
-
-<p>If we’ve suppressed the data, a field will show as ‘SUPP’ in the performance tables results.Data in the school and college performance tables can only show part of the picture of a school or college and its pupils’ or students’ achievements.</p>
 
 <div class="call-to-action">
 <p>Read the <a href="https://www.gov.uk/government/publications/school-performance-tables-methodology-and-technical-documents">school and college performance tables supporting documents</a> for information on how we calculate performance measures in more depth.</p>
 </div>
 </div>
 </div>
-
 </div>
 
   </div>
@@ -633,13 +614,13 @@
   <label class="
       gem-c-label__text
       
-    " for="input-0ad8c653">
+    " for="input-21205668">
     What were you doing?
   </label>
 </div>
 
 
-<input class="gem-c-input " id="input-0ad8c653" name="what_doing" type="text" aria-describedby="feedback_explanation">
+<input class="gem-c-input " id="input-21205668" name="what_doing" type="text" aria-describedby="feedback_explanation">
 
 
         
@@ -653,13 +634,13 @@
   <label class="
       gem-c-label__text
       
-    " for="input-1a40205b">
+    " for="input-bd2ce6d4">
     What went wrong?
   </label>
 </div>
 
 
-<input class="gem-c-input " id="input-1a40205b" name="what_wrong" type="text">
+<input class="gem-c-input " id="input-bd2ce6d4" name="what_wrong" type="text">
 
 
         <input class="gem-c-feedback__submit" type="submit" value="Send">
@@ -695,13 +676,13 @@
   <label class="
       gem-c-label__text
       
-    " for="input-dbad74da">
+    " for="input-f0f37de9">
     Email address
   </label>
 </div>
 
 
-<input class="gem-c-input " id="input-dbad74da" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation">
+<input class="gem-c-input " id="input-f0f37de9" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation">
 
 
         <input class="gem-c-feedback__submit" type="submit" value="Send me the survey">
@@ -719,7 +700,7 @@
 
       <div class="footer-wrapper">
             <div class="footer-categories">
-      <div class="footer-explore">
+     <div class="footer-explore">
         <h2>Services and information</h2>
 
         <ul>
@@ -800,644 +781,9 @@
 
     <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
   <script src="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-2a3e177b1002a6ea6d9d00098ad6e653a49291f802fb1ad6608d9a6fac4a1272.js" crossorigin="anonymous" integrity="sha256-Kj4XexACpuptnQAJitbmU6SSkfgC+xrWYI2ab6xKEnI="></script><script type="application/ld+json">
-  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures/understanding-school-performance-measures"},"headline":"Understanding school performance measures","datePublished":"2018-06-07T13:52:20.000+00:00","dateModified":"2018-06-07T12:56:56.000+00:00","description":null,"publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"articleBody":"\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"how-we-get-the-data\"\u003e\n\u003cspan class=\"number\"\u003e1. \u003c/span\u003eHow we get the data\u003c/h2\u003e\n\n\u003cp\u003eWe get school and college attainment data from:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003estate-funded schools and colleges\u003c/li\u003e\n  \u003cli\u003elocal authorities\u003c/li\u003e\n  \u003cli\u003equalification awarding organisations (exam boards)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eState-funded schools tell us via the \u003ca rel=\"external\" href=\"https://www.gov.uk/guidance/school-census\"\u003eschool census\u003c/a\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe number of pupils at the school\u003c/li\u003e\n  \u003cli\u003ewhat the pupils’ characteristics are, for example whether they’re eligible for free school meals\u003c/li\u003e\n  \u003cli\u003ewhat courses students are studying post-16 (‘learning aims’)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eColleges tell us via the individualised learner record (ILR):\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe number of students at the college\u003c/li\u003e\n  \u003cli\u003ewhat courses students are studying post-16 (‘learning aims’)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eLocal authorities tell us:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eresults from key stage 1 (school years 1 and 2) - we don’t publish these, but use them to measure progress between the end of key stage 1 and the end of key stage 2 (school years 3 to 6)\u003c/li\u003e\n  \u003cli\u003eteacher assessments and \u003ca rel=\"external\" href=\"https://www.gov.uk/national-curriculum/key-stage-1-and-2\"\u003etest results from key stage 2\u003c/a\u003e - we can also get these from schools\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eQualification awarding organisations tell us exam results for pupils:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eat the end of key stage 4 (years 10 and 11)\u003c/li\u003e\n  \u003cli\u003eaged 16 to 18 (sixth form and college)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTo find out about pupil and student ‘destinations’ (what a student does after finishing key stage 4 or 16 to 18 study), read \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/destination-measures-for-key-stage-4-and-16-to-18-students-2017\"\u003eDestination measures for key stage 4 and 16 to 18 students\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"how-we-calculate-the-performance-measures\"\u003e\n\u003cspan class=\"number\"\u003e2. \u003c/span\u003eHow we calculate the performance measures\u003c/h2\u003e\n\n\u003cp\u003eWe match data we get from schools and colleges with the relevant test, teacher assessment or exam results we gather from local authorities and qualification awarding organisations.\u003c/p\u003e\n\n\u003cp\u003eThis gives a single record of attainment and characteristics (for example a pupil’s ethnicity or whether they have special educational needs) for each pupil/student at the end of each key stage.\u003c/p\u003e\n\n\u003cp\u003eWe then match information about what the pupil/student goes on to do after finishing the key stage to their record, to calculate their  destinations.\u003c/p\u003e\n\n\u003cp\u003eWe use these records to calculate performance measures for each pupil/student. For example, we analyse each key stage 4 pupil’s qualifications and results to see whether they’ve achieved a grade 5 or above in English and maths.\u003c/p\u003e\n\n\u003cp\u003eWe then aggregate pupil/student-level performance measures to give the overall results for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eschools\u003c/li\u003e\n  \u003cli\u003ecolleges\u003c/li\u003e\n  \u003cli\u003elocal authorities\u003c/li\u003e\n  \u003cli\u003eEngland as a whole\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRead about the methodology we use to calculate results for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.gov.uk/government/collections/statistics-key-stage-2\"\u003eStatistics: key stage 2 - GOV.UK\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.gov.uk/government/collections/statistics-gcses-key-stage-4\"\u003eGCSE and equivalent results\u003c/a\u003e (key stage 4)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.gov.uk/government/collections/statistics-attainment-at-19-years\"\u003eA level and other 16 to 18 results\u003c/a\u003e (16 to 18)\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.gov.uk/government/collections/statistics-destinations\"\u003edestinations of key stage 4 and key stage 5 pupils\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"key-stage-2---measuring-performance\"\u003e\n\u003cspan class=\"number\"\u003e2.1 \u003c/span\u003eKey stage 2 - measuring performance\u003c/h3\u003e\n\n\u003cp\u003eA new curriculum introduced in 2014 changed the key stage 2 assessments and primary accountability policy. The expected standard has been raised and as a result since 2016, we have new key stage 2 performance measures, which should not be compared with the previous measures.\u003c/p\u003e\n\n\u003cp\u003eThe 2017 headline measures that include attainment and progress measures are:\u003c/p\u003e\n\n\u003cp\u003eThe percentage of pupils achieving the ‘expected standard’ in English reading, English writing and mathematics at the end of key stage 2.\u003c/p\u003e\n\n\u003cp\u003eThe pupils’ \u003ca rel=\"external\" href=\"https://www.gov.uk/guidance/scaled-scores-at-key-stage-2\"\u003eaverage scaled score\u003c/a\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ein English reading at the end of key stage 2\u003c/li\u003e\n  \u003cli\u003ein mathematics at the end of key stage 2\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe percentage of pupils who achieve at a higher standard in English reading, English writing and mathematics.\u003c/p\u003e\n\n\u003cp\u003eThe pupils’ average progress:\n* in English reading\n* in English writing\n* in mathematics\u003c/p\u003e\n\n\u003ch3 id=\"key-stage-4---performance-measures\"\u003e\n\u003cspan class=\"number\"\u003e2.2 \u003c/span\u003eKey stage 4 - performance measures\u003c/h3\u003e\n\n\u003cp\u003eKey stage 4 performance measures have been amended to reflect \u003ca rel=\"external\" href=\"https://www.gov.uk/government/consultations/secondary-school-accountability-consultation\"\u003epolicy reforms\u003c/a\u003e. A new secondary school accountability system was introduced in 2016.\u003c/p\u003e\n\n\u003cp\u003eThe \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/progress-8-school-performance-measure\"\u003esecondary accountability measures guidance\u003c/a\u003e explains how these measures have been calculated in 2017. It also gives more information about recently announced reforms that will apply in 2018 and 2019.\u003c/p\u003e\n\n\u003cp\u003eThe headline measures which appear in the 2017 performance tables are:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprogress across 8 qualifications (Progress 8)\u003c/li\u003e\n  \u003cli\u003eattainment across the same 8 qualifications (Attainment 8)\u003c/li\u003e\n  \u003cli\u003epercentage of pupils achieving a grade 5 or above in English and maths\u003c/li\u003e\n  \u003cli\u003epercentage of pupils entering the English Baccalaureate\u003c/li\u003e\n  \u003cli\u003epercentage of pupils at the school achieving the English Baccalaureate at a grade 5 or above in English and maths, and at a grade C or above in other subjects\u003c/li\u003e\n  \u003cli\u003epercentage of students staying in education or going into employment after key stage 4 (pupil destinations)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"to-18---performance-measures\"\u003e\n\u003cspan class=\"number\"\u003e2.3 \u003c/span\u003e16 to 18 - performance measures\u003c/h3\u003e\n\n\u003cp\u003ePolicy reforms have changed the way we report performance for 16 to 18 year olds. Therefore you can’t compare the most recent data with data prior to 2016.\u003c/p\u003e\n\n\u003cp\u003eThe 16 to 18 performance tables count both academic and high value technical and applied qualifications at level 3. We only count vocational qualifications that lead to employment or further study.\u003c/p\u003e\n\n\u003cp\u003eWe include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eA levels and other level 3 academic qualifications\u003c/li\u003e\n  \u003cli\u003etech levels, qualifications leading to recognised occupations such as engineering or professional cookery\u003c/li\u003e\n  \u003cli\u003eapplied general qualifications, which provide broad study of a vocational area, for example performing arts or health and social care\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFrom 2017, we have extended the qualifications reported to include technical certificates and other vocational qualifications at level 2.\u003c/p\u003e\n\n\u003cp\u003eThe main headline measures show:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprogress since key stage 4, which is the main focus of the 16 to18 accountability system\u003c/li\u003e\n  \u003cli\u003eattainment measures, for example the average grades achieved in qualifications for students at a school or college\u003c/li\u003e\n  \u003cli\u003eretention measures, which report on the proportion of students that complete their studies at the school or college\u003c/li\u003e\n  \u003cli\u003edestination measures, for example students going into higher education or employment\u003c/li\u003e\n  \u003cli\u003eEnglish and maths progress measures in qualifications below level 3, for example GCSE, for students that did not achieve a grade C at key stage 4\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRead more about changes to \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/16-to-19-accountability-headline-measures-technical-guide\"\u003eaccountability measures\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"how-we-make-sure-the-data-is-reliable\"\u003e\n\u003cspan class=\"number\"\u003e3. \u003c/span\u003eHow we make sure the data is reliable\u003c/h2\u003e\n\n\u003cp\u003eWe make sure the data is accurate and reliable in the following ways:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe \u003ca rel=\"external\" href=\"https://www.gov.uk/government/organisations/standards-and-testing-agency\"\u003eStandards and Testing Agency\u003c/a\u003e asks local authorities to check a sample of key stage 2 teacher assessments to make sure they meet national standards\u003c/li\u003e\n  \u003cli\u003ewe perform an annual run-through of the performance tables data production process using test data to identify any miscalculations and fix them before we process the real data\u003c/li\u003e\n  \u003cli\u003ewe ask schools and colleges to check their performance tables results and ask for the necessary amendments (for example grade changes as a result of re-sits) before we publish final data\u003c/li\u003e\n  \u003cli\u003equalification awarding organisations offer a review service to schools, so that they can challenge the marks or grades awarded by markers\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"factors-that-can-affect-performance-results\"\u003e\n\u003cspan class=\"number\"\u003e4. \u003c/span\u003eFactors that can affect performance results\u003c/h2\u003e\n\n\u003cp\u003eWhen measuring a school or college’s effectiveness, you should consider the context of the school, as there may be factors that can help explain its performance.\u003c/p\u003e\n\n\u003cp\u003eFor example, you should consider:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003ethe school type, for example pupils at a special school (for children with special educational needs or disabilities) may have lower prior attainment than those in a mainstream school\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ethe pupils’ characteristics, for example how many are considered disadvantaged (eligible for free school meals in the last 6 years, or have been looked after by their local authority) or who have English as an additional language\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should also consider how the school or college’s performance compares to local and national results.\u003c/p\u003e\n\n\u003ch3 id=\"comparing-schools-with-small-pupil-numbers\"\u003e\n\u003cspan class=\"number\"\u003e4.1 \u003c/span\u003eComparing schools with small pupil numbers\u003c/h3\u003e\n\n\u003cp\u003eWhen comparing schools or colleges, you should consider that differences may not be significant if you’re looking at a small year group. For example, in a group of 10 pupils, 1 pupil would represent 10% and in a group of 30 pupils, 1 pupil would represent 3%.\u003c/p\u003e\n\n\u003cp\u003eSmall schools may see a lot of variation in their results over time due to the effect that 1 or 2 pupils’ results can have on the school average.\u003c/p\u003e\n\n\u003cp\u003eWhere the numbers of pupils or students are very small, we show the related performance measures as ‘suppressed’ (not published and labelled ‘SUPP’ in the table) to make sure the pupils or students can’t be identified.\u003c/p\u003e\n\n\u003ch3 id=\"comparing-data-year-on-year\"\u003e\n\u003cspan class=\"number\"\u003e4.2 \u003c/span\u003eComparing data year-on-year\u003c/h3\u003e\n\n\u003cp\u003eIn 2016, there were policy changes at key stage 2, key stage 4 and 16 to 18 which mean it is not always possible to compare year-on-year results over time.\u003c/p\u003e\n\n\u003cp\u003eIn 2017, reformed (9 to 1) GCSEs were introduced in English and maths. This has affected the way key stage 4 measures are calculated compared to previous years.\u003c/p\u003e\n\n\u003cp\u003eRead more about \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/school-performance-tables-how-we-report-the-data\"\u003echanges to qualifications and the way we calculate performance\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"how-we-make-sure-the-data-is-reliable-1\"\u003e\n\u003cspan class=\"number\"\u003e5. \u003c/span\u003eHow we make sure the data is reliable\u003c/h2\u003e\n\n\u003cp\u003eWe make sure the data is accurate and reliable in the following ways:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe \u003ca rel=\"external\" href=\"https://www.gov.uk/government/organisations/standards-and-testing-agency\"\u003eStandards and Testing Agency\u003c/a\u003e asks local authorities to check a sample of key stage 2 teacher assessments to make sure they meet national standards\u003c/li\u003e\n  \u003cli\u003ewe perform an annual run-through of the performance tables data production process using test data to identify any miscalculations and fix them before we process the real data\u003c/li\u003e\n  \u003cli\u003ewe ask schools and colleges to check their performance tables results and ask for the necessary amendments (for example grade changes as a result of re-sits) before we publish final data\u003c/li\u003e\n  \u003cli\u003equalification awarding organisations offer a review service to schools, so that they can challenge the marks or grades awarded by markers\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"consider-both-attainment-and-progress\"\u003e\n\u003cspan class=\"number\"\u003e6. \u003c/span\u003eConsider both attainment and progress\u003c/h2\u003e\n\n\u003cp\u003eWhile attainment figures tell you about the performance of a school’s pupils at the end of a key stage, it’s important to consider that pupils have varying levels of ability and many different starting points.\u003c/p\u003e\n\n\u003cp\u003eSome pupils may seem to be achieving low results based on their overall attainment at the end of a key stage. However, a pupil’s progress score will take into account their attainment at the end of the previous key stage, and the progress they have made since that point compared to pupils with similar starting points. When this is taken into account schools may in fact be helping pupils achieve better results than similar pupils nationally.\u003c/p\u003e\n\n\u003ch3 id=\"low-middle-or-high-attainers\"\u003e\n\u003cspan class=\"number\"\u003e6.1 \u003c/span\u003eLow, middle or high attainers\u003c/h3\u003e\n\n\u003cp\u003eIn the performance data, we group pupils at key stage 2 and key stage 4 as low, middle or high attainers depending on their attainment at the end of key stage 1 and key stage 2.\u003c/p\u003e\n\n\u003cp\u003eYou should consider how well a school’s low, middle or high attainers are progressing. This is an indication of whether a school is equally effective at helping all of its pupils meet their potential rather than, for example, just high attainers.\u003c/p\u003e\n\n\u003ch2 id=\"how-we-update-the-data\"\u003e\n\u003cspan class=\"number\"\u003e7. \u003c/span\u003eHow we update the data\u003c/h2\u003e\n\n\u003cp\u003eWe regularly update information we have on schools if, for example, a school:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003echanges type, for example it becomes an academy\u003c/li\u003e\n  \u003cli\u003ecloses or reopens\u003c/li\u003e\n  \u003cli\u003egets a new headteacher or principal\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWe also publish the latest Ofsted inspection outcome on the school’s page and show when we added the latest inspection judgement.\u003c/p\u003e\n\n\u003ch3 id=\"changes-to-data\"\u003e\n\u003cspan class=\"number\"\u003e7.1 \u003c/span\u003eChanges to data\u003c/h3\u003e\n\n\u003cp\u003eAfter we publish performance table data there’s a 4 week time period known as errata when schools and colleges can ask for amendments.  For example, grade changes due to enquiries about results.\u003c/p\u003e\n\n\u003cp\u003eIf we approve an amendment, we will update the data at the end of the amendment process. We won’t make further updates to the data after this period has closed.  At this point, the data will be marked as ‘final’.\u003c/p\u003e\n\n\u003cp\u003eAny changes received during this period will not be used to update the amended Level 3 Value Added measures published in January.\u003c/p\u003e\n\n\u003cp\u003eThe full datasets available in the \u003ca rel=\"external\" href=\"https://www.compare-school-performance.service.gov.uk/download-data\"\u003edownload data section of the school performance tables\u003c/a\u003e are updated after the amendment period has closed.\u003c/p\u003e\n\n\u003ch2 id=\"data-that-we-dont-report\"\u003e\n\u003cspan class=\"number\"\u003e8. \u003c/span\u003eData that we don’t report\u003c/h2\u003e\n\n\u003ch3 id=\"unapproved-qualifications\"\u003e\n\u003cspan class=\"number\"\u003e8.1 \u003c/span\u003eUnapproved qualifications\u003c/h3\u003e\n\n\u003cp\u003eWe don’t include data on all key stage 4 qualifications in secondary performance tables. Since the 2014 \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/wolf-recommendations-progress-report\"\u003epolicy reforms\u003c/a\u003e, we only count \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/2018-performance-tables-discount-codes\"\u003eapproved qualifications\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eSchools that offer unapproved qualifications (for example unregulated international GCSEs) may find that their performance is recorded as 0% against the headline measures (for example English Baccalaureate entry and achievement). This has an effect on the national figures.\u003c/p\u003e\n\n\u003cp\u003eThere are other reasons why a school may have a score of 0% in threshold measures, for example attainment below C grade or equivalent for qualifications that count towards performance at key stage 4.\u003c/p\u003e\n\n\u003cp\u003eSince 2016, the 16 to 18 performance tables have only counted \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores\"\u003e16 to 19 qualifications, discount codes and point scores\u003c/a\u003e. These include academic, applied general and tech level qualifications at level 2 and level 3 vocational qualifications.\u003c/p\u003e\n\n\u003ch3 id=\"overseas-pupils\"\u003e\n\u003cspan class=\"number\"\u003e8.2 \u003c/span\u003eOverseas pupils\u003c/h3\u003e\n\n\u003cp\u003ePupils who have joined a school or college from overseas won’t be included in progress measures, because there won’t be previous attainment data available to measure their current progress. We’ll still include these pupils in the attainment measures for the school, college, England and the local authority (unless the school requested to remove the pupil on the grounds of exceptional circumstances).\u003c/p\u003e\n\n\u003ch3 id=\"schools-that-become-academies\"\u003e\n\u003cspan class=\"number\"\u003e8.3 \u003c/span\u003eSchools that become academies\u003c/h3\u003e\n\n\u003cp\u003eWe show academies as either ‘converter academies’ or ‘sponsored academies’.\u003c/p\u003e\n\n\u003cp\u003eA converter academy is a school that voluntarily becomes an academy and does not have a sponsor.\u003c/p\u003e\n\n\u003cp\u003eA sponsored academy is a school that becomes an academy supported by a ‘sponsor’ - to help it improve and with new governance arrangements.\u003c/p\u003e\n\n\u003cp\u003eIn most cases, we treat a converter academy as a continuing school and a sponsored academy as a new school. This affects how we report results for these schools.\u003c/p\u003e\n\n\u003cp\u003eIf a school becomes an academy before 12 September of that academic year, we’ll publish the results for this academy under the new school name.\u003c/p\u003e\n\n\u003cp\u003eIf a school becomes an academy on or after 12 September, we’ll:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003epublish the results for that academic year under the old school name\u003c/li\u003e\n  \u003cli\u003elink to the new school page which will provide background information only\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"independent-schools\"\u003e\n\u003cspan class=\"number\"\u003e8.4 \u003c/span\u003eIndependent schools\u003c/h3\u003e\n\n\u003cp\u003eWe don’t publish key stage 2 data for independent schools because they don’t have to follow the national curriculum or enter pupils for key stage 2 tests.\u003c/p\u003e\n\n\u003cp\u003eWe don’t publish Progress 8 data for independent schools at key stage 4. This is because the majority of pupils at independent schools do not have prior attainment data, which is needed to calculate progress. They’ll still be included for attainment at key stage 4.\u003c/p\u003e\n\n\u003cp\u003eWe don’t publish disadvantaged measures, retention measures or completion and attainment for independent schools in the 16 to 18 performance data. This is because the information is either not available to calculate these measures or does not apply to the students at independent schools.\u003c/p\u003e\n\n\u003cp\u003eWe don’t publish destination measures at key stage 4 or 16 to 18 for independent schools.\u003c/p\u003e\n\n\u003ch3 id=\"some-16-to-18-data\"\u003e\n\u003cspan class=\"number\"\u003e8.5 \u003c/span\u003eSome 16 to 18 data\u003c/h3\u003e\n\n\u003cp\u003eWe don’t include performance data on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ework-based learning, for example apprenticeships and traineeships\u003c/li\u003e\n  \u003cli\u003e16 to 18 institutions that aren’t schools or colleges, for example training providers\u003c/li\u003e\n  \u003cli\u003especial schools - we only include those that have opted in\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"unapproved-qualifications-1\"\u003e\n\u003cspan class=\"number\"\u003e8.6 \u003c/span\u003eUnapproved qualifications\u003c/h3\u003e\n\n\u003cp\u003eWe don’t include data on all:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ekey stage 4 qualifications in secondary performance tables\u003c/li\u003e\n  \u003cli\u003equalifications taken by 16- to 18-year-olds in schools and colleges\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThis is due to \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/wolf-recommendations-progress-report\"\u003epolicy reforms\u003c/a\u003e, which mean that only approved qualifications count.\u003c/p\u003e\n\n\u003cp\u003eSchools that offer unapproved qualifications, for example unregulated international GCSEs, may find that these affect their performance against the headline measures. For example, the proportion of pupils achieving grades 9 to 5  in English and maths may be recorded as 0% if pupils took unregulated qualifications in these subjects.\u003c/p\u003e\n\n\u003cp\u003eTo see a list of the qualifications we count for key stage 4, read \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/2018-performance-tables-discount-codes\"\u003eKey stage 4 qualifications and discount codes for 2014 to 2019 performance tables\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eTo see a list of the qualifications we count for 16 to 18, read \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores\"\u003ePerformance points for qualifications counting in the 16 to 18 performance tables 2017\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"how-we-count-similar-qualifications-discounting\"\u003e\n\u003cspan class=\"number\"\u003e8.7 \u003c/span\u003eHow we count similar qualifications (‘discounting’)\u003c/h3\u003e\n\n\u003cp\u003eWe use \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores\"\u003ekey stage 4 discount codes and 16 to 18 discount codes\u003c/a\u003e to group qualifications with similar content together, so that we only credit schools or colleges for a single course of study if there is an overlap in curriculum. This means that if a pupil has taken 2 or more very similar subjects, we’ll only credit the school or college for 1 qualification.\u003c/p\u003e\n\n\u003cp\u003eWe may need to use discounting if, for example:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea pupil re-sits a qualification before the end of key stage 4 or 16-to-18 study with a different awarding organisation\u003c/li\u003e\n  \u003cli\u003ethe school or college provides a single course of study but then enters the pupil for 2 or more very similar qualifications\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more information, read \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/key-stage-4-qualifications-discount-codes-and-point-scores\"\u003eKey stage 4 discounting and early entry guidance\u003c/a\u003e or \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores\"\u003e16 to 18 discounting guidance (2017)\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"data-that-could-identify-pupils-suppressed-data\"\u003e\n\u003cspan class=\"number\"\u003e8.8 \u003c/span\u003eData that could identify pupils (‘suppressed’ data)\u003c/h3\u003e\n\n\u003cp\u003eWe don’t publish attainment figures if there are 5 or fewer pupils with certain characteristics (backgrounds or needs) in a particular school. This is to reduce the risk of individual pupils being identified.\u003c/p\u003e\n\n\u003cp\u003eWe apply extra suppression to destination measures because it contains employment data. We don’t publish figures if there are 10 or fewer pupils in a particular school or figures referring to outcomes for 1 or 2 individuals.\u003c/p\u003e\n\n\u003cp\u003eIf we’ve suppressed the data, a field will show as ‘SUPP’ in the performance tables results.Data in the school and college performance tables can only show part of the picture of a school or college and its pupils’ or students’ achievements.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eRead the \u003ca href=\"https://www.gov.uk/government/publications/school-performance-tables-methodology-and-technical-documents\"\u003eschool and college performance tables supporting documents\u003c/a\u003e for information on how we calculate performance measures in more depth.\u003c/p\u003e\n\u003c/div\u003e\n\u003c/div\u003e"}
+  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures/understanding-school-performance-measures"},"headline":"Understanding school performance measures","datePublished":"2018-06-18T11:19:39.000+00:00","dateModified":"2018-06-18T12:16:32.000+00:00","description":null,"publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"image":["https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-5ceffac04f7f6d4f421bd1d36dbb723ef48c15426d7f77f90be80a83af3c747e.png","https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-4x3-fcfe16abb1a015848e50d2ea797666a9eaf5158dca38ddfb1e52dc8c0543ab74.png","https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-16x9-fcf616879a7b37970df4d2117de962e08f7d057674ef1af6063dcdd529424eee.png"],"articleBody":"\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"data-collection\"\u003e\n\u003cspan class=\"number\"\u003e1. \u003c/span\u003eData collection\u003c/h2\u003e\n\n\u003cp\u003eWe get school and college attainment data from:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003estate-funded schools and colleges\u003c/li\u003e\n  \u003cli\u003elocal authorities\u003c/li\u003e\n  \u003cli\u003equalification awarding organisations (exam boards)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eState-funded schools tell us via the \u003ca rel=\"external\" href=\"https://www.gov.uk/guidance/school-census\"\u003eschool census\u003c/a\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe number of pupils at the school\u003c/li\u003e\n  \u003cli\u003ewhat the pupils’ characteristics are, for example whether they’re eligible for free school meals\u003c/li\u003e\n  \u003cli\u003ewhat courses students are studying post-16 (‘learning aims’)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eColleges tell us via the individualised learner record (ILR):\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe number of students at the college\u003c/li\u003e\n  \u003cli\u003ewhat courses students are studying post-16 (‘learning aims’)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eLocal authorities tell us:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eresults from key stage 1 (school years 1 and 2) - we don’t publish these, but use them to measure progress between the end of key stage 1 and the end of key stage 2 (school years 3 to 6)\u003c/li\u003e\n  \u003cli\u003eteacher assessments and \u003ca rel=\"external\" href=\"https://www.gov.uk/national-curriculum/key-stage-1-and-2\"\u003etest results from key stage 2\u003c/a\u003e - we can also get these from schools\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eQualification awarding organisations tell us exam results for pupils:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eat the end of key stage 4 (years 10 and 11)\u003c/li\u003e\n  \u003cli\u003eaged 16 to 18 (sixth form and college)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eTo find out about pupil and student ‘destinations’ (what a student does after finishing key stage 4 or 16 to 18 study), read \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/destination-measures-for-key-stage-4-and-16-to-18-students-2017\"\u003eDestination measures for key stage 4 and 16 to 18 students\u003c/a\u003e\u003c/p\u003e\n\n\u003ch2 id=\"accurate-and-reliable-data\"\u003e\n\u003cspan class=\"number\"\u003e2. \u003c/span\u003eAccurate and reliable data\u003c/h2\u003e\n\n\u003cp\u003eWe make sure the data is accurate and reliable in the following ways:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ethe \u003ca rel=\"external\" href=\"https://www.gov.uk/government/organisations/standards-and-testing-agency\"\u003eStandards and Testing Agency\u003c/a\u003e asks local authorities to check a sample of key stage 2 teacher assessments to make sure they meet national standards\u003c/li\u003e\n  \u003cli\u003ewe perform an annual run-through of the performance tables data production process using test data to identify any miscalculations and fix them before we process the real data\u003c/li\u003e\n  \u003cli\u003ewe ask schools and colleges to check their performance tables results and ask for the necessary amendments (for example grade changes as a result of re-sits) before we publish final data\u003c/li\u003e\n  \u003cli\u003equalification awarding organisations offer a review service to schools, so that they can challenge the marks or grades awarded by markers\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"updating-the-data\"\u003e\n\u003cspan class=\"number\"\u003e3. \u003c/span\u003eUpdating the data\u003c/h2\u003e\n\n\u003cp\u003eWe regularly update information we have on schools if, for example, a school:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003echanges type, for example it becomes an academy\u003c/li\u003e\n  \u003cli\u003ecloses or reopens\u003c/li\u003e\n  \u003cli\u003egets a new headteacher or principal\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWe also publish the latest Ofsted inspection outcome on the school’s page and show when we added the latest inspection judgement.\u003c/p\u003e\n\n\u003ch3 id=\"changes-to-data\"\u003e\n\u003cspan class=\"number\"\u003e3.1 \u003c/span\u003eChanges to data\u003c/h3\u003e\n\n\u003cp\u003eAfter we publish performance table data there’s a 4 week time period known as errata when schools and colleges can ask for amendments.  For example, grade changes due to enquiries about results.\u003c/p\u003e\n\n\u003cp\u003eIf we approve an amendment, we will update the data at the end of the amendment process. We won’t make further updates to the data after this period has closed.  At this point, the data will be marked as ‘final’.\u003c/p\u003e\n\n\u003cp\u003eAny changes received during this period will not be used to update the amended Level 3 Value Added measures published in January.\u003c/p\u003e\n\n\u003cp\u003eThe full datasets available in the \u003ca rel=\"external\" href=\"https://www.compare-school-performance.service.gov.uk/download-data\"\u003edownload data section of the school performance tables\u003c/a\u003e are updated after the amendment period has closed.\u003c/p\u003e\n\n\u003ch2 id=\"data-that-we-dont-report\"\u003e\n\u003cspan class=\"number\"\u003e4. \u003c/span\u003eData that we don’t report\u003c/h2\u003e\n\n\u003ch3 id=\"unapproved-qualifications\"\u003e\n\u003cspan class=\"number\"\u003e4.1 \u003c/span\u003eUnapproved qualifications\u003c/h3\u003e\n\n\u003cp\u003eWe don’t include data on\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eall key stage 4 qualifications in secondary performance tables\u003c/li\u003e\n  \u003cli\u003equalifications taken by 16 to 18 year olds in schools and colleges\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThis is due to \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/wolf-recommendations-progress-report\"\u003epolicy reforms\u003c/a\u003e, which means that only approved qualifications count \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/2018-performance-tables-discount-codes\"\u003eapproved qualifications\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eSchools that offer unapproved qualifications (for example unregulated international GCSEs) may find that their performance is recorded as 0% against the headline measures (for example English Baccalaureate entry and achievement). This has an effect on the national figures.\u003c/p\u003e\n\n\u003cp\u003eThere are other reasons why a school may have a score of 0% in threshold measures, for example attainment below C grade or equivalent for qualifications that count towards performance at key stage 4.\u003c/p\u003e\n\n\u003cp\u003eTo see a list of the qualifications we count for key stage 4, read \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/2018-performance-tables-discount-codes\"\u003eKey stage 4 qualifications and discount codes for 2014 to 2019 performance tables\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eTo see a list of the qualifications we count for 16 to 18, read \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores\"\u003ePerformance points for qualifications counting in the 16 to 18 performance tables 2017\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"overseas-pupils\"\u003e\n\u003cspan class=\"number\"\u003e4.2 \u003c/span\u003eOverseas pupils\u003c/h3\u003e\n\n\u003cp\u003ePupils who have joined a school or college from overseas won’t be included in progress measures, because there won’t be previous attainment data available to measure their current progress. We’ll still include these pupils in the attainment measures for the school, college, England and the local authority (unless the school requested to remove the pupil on the grounds of exceptional circumstances).\u003c/p\u003e\n\n\u003ch3 id=\"schools-that-become-academies\"\u003e\n\u003cspan class=\"number\"\u003e4.3 \u003c/span\u003eSchools that become academies\u003c/h3\u003e\n\n\u003cp\u003eWe show academies as either ‘converter academies’ or ‘sponsored academies’.\u003c/p\u003e\n\n\u003cp\u003eA converter academy is a school that voluntarily becomes an academy and does not have a sponsor.\u003c/p\u003e\n\n\u003cp\u003eA sponsored academy is a school that becomes an academy supported by a ‘sponsor’ - to help it improve and with new governance arrangements.\u003c/p\u003e\n\n\u003cp\u003eIn most cases, we treat a converter academy as a continuing school and a sponsored academy as a new school. This affects how we report results for these schools.\u003c/p\u003e\n\n\u003cp\u003eIf a school becomes an academy before 12 September of that academic year, we’ll publish the results for this academy under the new school name.\u003c/p\u003e\n\n\u003cp\u003eIf a school becomes an academy on or after 12 September, we’ll:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003epublish the results for that academic year under the old school name\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003elink to the new school page which will provide background information only\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"independent-schools\"\u003e\n\u003cspan class=\"number\"\u003e4.4 \u003c/span\u003eIndependent schools\u003c/h3\u003e\n\n\u003cp\u003eWe don’t publish key stage 2 data for independent schools because they don’t have to follow the national curriculum or enter pupils for key stage 2 tests.\u003c/p\u003e\n\n\u003cp\u003eWe don’t publish Progress 8 data for independent schools at key stage 4. This is because the majority of pupils at independent schools do not have prior attainment data, which is needed to calculate progress. They’ll still be included for attainment at key stage 4.\u003c/p\u003e\n\n\u003cp\u003eWe don’t publish disadvantaged measures, retention measures or completion and attainment for independent schools in the 16 to 18 performance data. This is because the information is either not available to calculate these measures or does not apply to the students at independent schools.\u003c/p\u003e\n\n\u003cp\u003eWe don’t publish destination measures at key stage 4 or 16 to 18 for independent schools.\u003c/p\u003e\n\n\u003ch3 id=\"some-16-to-18-data\"\u003e\n\u003cspan class=\"number\"\u003e4.5 \u003c/span\u003eSome 16 to 18 data\u003c/h3\u003e\n\n\u003cp\u003eWe don’t include performance data on:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ework-based learning, for example apprenticeships and traineeships\u003c/li\u003e\n  \u003cli\u003e16 to 18 institutions that aren’t schools or colleges, for example training providers\u003c/li\u003e\n  \u003cli\u003especial schools - we only include those that have opted in\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"similar-qualifications-discounting\"\u003e\n\u003cspan class=\"number\"\u003e4.6 \u003c/span\u003eSimilar qualifications (‘discounting’)\u003c/h3\u003e\n\n\u003cp\u003eWe use \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores\"\u003ekey stage 4 discount codes and 16 to 18 discount codes\u003c/a\u003e to group qualifications with similar content together, so that we only credit schools or colleges for a single course of study if there is an overlap in curriculum. This means that if a pupil has taken 2 or more very similar subjects, we’ll only credit the school or college for 1 qualification.\u003c/p\u003e\n\n\u003cp\u003eWe may need to use discounting if, for example:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea pupil re-sits a qualification before the end of key stage 4 or 16-to-18 study with a different awarding organisation\u003c/li\u003e\n  \u003cli\u003ethe school or college provides a single course of study but then enters the pupil for 2 or more very similar qualifications\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFor more information, read \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/key-stage-4-qualifications-discount-codes-and-point-scores\"\u003eKey stage 4 discounting and early entry guidance\u003c/a\u003e or \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores\"\u003e16 to 18 discounting guidance (2017)\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"data-that-could-identify-pupils-suppressed-data\"\u003e\n\u003cspan class=\"number\"\u003e4.7 \u003c/span\u003eData that could identify pupils (‘suppressed’ data)\u003c/h3\u003e\n\n\u003cp\u003eWe don’t publish attainment figures if there are 5 or fewer pupils with certain characteristics (backgrounds or needs) in a particular school. This is to reduce the risk of individual pupils being identified.\u003c/p\u003e\n\n\u003cp\u003eWe apply extra suppression to destination measures because it contains employment data. We don’t publish figures if there are 10 or fewer pupils in a particular school or figures referring to outcomes for 1 or 2 individuals.\u003c/p\u003e\n\n\u003cp\u003eIf we’ve suppressed the data, a field will show as ‘SUPP’ in the performance tables results.Data in the school and college performance tables can only show part of the picture of a school or college and its pupils’ or students’ achievements.\u003c/p\u003e\n\n\u003ch2 id=\"calculating-the-performance-measures\"\u003e\n\u003cspan class=\"number\"\u003e5. \u003c/span\u003eCalculating the performance measures\u003c/h2\u003e\n\n\u003cp\u003eWe match data we get from schools and colleges with the relevant test, teacher assessment or exam results we gather from local authorities and qualification awarding organisations.\u003c/p\u003e\n\n\u003cp\u003eThis gives a single record of attainment and characteristics (for example a pupil’s ethnicity or whether they have special educational needs) for each pupil/student at the end of each key stage.\u003c/p\u003e\n\n\u003cp\u003eWe then match information about what the pupil/student goes on to do after finishing the key stage to their record, to calculate their  destinations.\u003c/p\u003e\n\n\u003cp\u003eWe use these records to calculate performance measures for each pupil/student. For example, we analyse each key stage 4 pupil’s qualifications and results to see whether they’ve achieved a grade 5 or above in English and maths.\u003c/p\u003e\n\n\u003cp\u003eWe then aggregate pupil/student-level performance measures to give the overall results for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eschools\u003c/li\u003e\n  \u003cli\u003ecolleges\u003c/li\u003e\n  \u003cli\u003elocal authorities\u003c/li\u003e\n  \u003cli\u003eEngland as a whole\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRead about the methodology we use to calculate results for:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.gov.uk/government/collections/statistics-key-stage-2\"\u003eStatistics: key stage 2 - GOV.UK\u003c/a\u003e\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.gov.uk/government/collections/statistics-gcses-key-stage-4\"\u003eGCSE and equivalent results\u003c/a\u003e (key stage 4)\u003c/li\u003e\n  \u003cli\u003e\n\u003ca rel=\"external\" href=\"https://www.gov.uk/government/collections/statistics-attainment-at-19-years\"\u003eA level and other 16 to 18 results\u003c/a\u003e (16 to 18)\u003c/li\u003e\n  \u003cli\u003e\u003ca rel=\"external\" href=\"https://www.gov.uk/government/collections/statistics-destinations\"\u003edestinations of key stage 4 and key stage 5 pupils\u003c/a\u003e\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"key-stage-2---measuring-performance\"\u003e\n\u003cspan class=\"number\"\u003e5.1 \u003c/span\u003eKey stage 2 - measuring performance\u003c/h3\u003e\n\n\u003cp\u003eA new curriculum introduced in 2014 changed the key stage 2 assessments and primary accountability policy. The expected standard has been raised and as a result since 2016, we have new key stage 2 performance measures, which should not be compared with the previous measures.\u003c/p\u003e\n\n\u003cp\u003eThe 2017 headline measures that include attainment and progress measures are:\u003c/p\u003e\n\n\u003cp\u003eThe percentage of pupils achieving the ‘expected standard’ in English reading, English writing and mathematics at the end of key stage 2.\u003c/p\u003e\n\n\u003cp\u003eThe pupils’ \u003ca rel=\"external\" href=\"https://www.gov.uk/guidance/scaled-scores-at-key-stage-2\"\u003eaverage scaled score\u003c/a\u003e:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ein English reading at the end of key stage 2\u003c/li\u003e\n  \u003cli\u003ein mathematics at the end of key stage 2\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThe percentage of pupils who achieve at a higher standard in English reading, English writing and mathematics.\u003c/p\u003e\n\n\u003cp\u003eThe pupils’ average progress in:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eEnglish reading\u003c/li\u003e\n  \u003cli\u003eEnglish writing\u003c/li\u003e\n  \u003cli\u003eMathematics\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"key-stage-4---performance-measures\"\u003e\n\u003cspan class=\"number\"\u003e5.2 \u003c/span\u003eKey stage 4 - performance measures\u003c/h3\u003e\n\n\u003cp\u003eKey stage 4 performance measures have been amended to reflect \u003ca rel=\"external\" href=\"https://www.gov.uk/government/consultations/secondary-school-accountability-consultation\"\u003epolicy reforms\u003c/a\u003e. A new secondary school accountability system was introduced in 2016.\u003c/p\u003e\n\n\u003cp\u003eThe \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/progress-8-school-performance-measure\"\u003esecondary accountability measures guidance\u003c/a\u003e explains how these measures have been calculated in 2017. It also gives more information about recently announced reforms that will apply in 2018 and 2019.\u003c/p\u003e\n\n\u003cp\u003eThe headline measures which appear in the 2017 performance tables are:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprogress across 8 qualifications (Progress 8)\u003c/li\u003e\n  \u003cli\u003eattainment across the same 8 qualifications (Attainment 8)\u003c/li\u003e\n  \u003cli\u003epercentage of pupils achieving a grade 5 or above in English and mathematics\u003c/li\u003e\n  \u003cli\u003epercentage of pupils entering the English Baccalaureate\u003c/li\u003e\n  \u003cli\u003epercentage of pupils at the school achieving the English Baccalaureate at a grade 5 or above in English and mathematics, and at a grade C or above in other subjects\u003c/li\u003e\n  \u003cli\u003epercentage of students staying in education or going into employment after key stage 4 (pupil destinations)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"to-18---performance-measures\"\u003e\n\u003cspan class=\"number\"\u003e5.3 \u003c/span\u003e16 to 18 - performance measures\u003c/h3\u003e\n\n\u003cp\u003ePolicy reforms have changed the way we report performance for 16 to 18 year olds. Therefore you can’t compare the most recent data with data prior to 2016.\u003c/p\u003e\n\n\u003cp\u003eThe 16 to 18 performance tables count both academic and high value technical and applied qualifications at level 3. We only count vocational qualifications that lead to employment or further study.\u003c/p\u003e\n\n\u003cp\u003eWe include:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eA levels and other level 3 academic qualifications\u003c/li\u003e\n  \u003cli\u003etech levels, qualifications leading to recognised occupations such as engineering or professional cookery\u003c/li\u003e\n  \u003cli\u003eapplied general qualifications, which provide broad study of a vocational area, for example performing arts or health and social care\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eFrom 2017, we have extended the qualifications reported to include technical certificates and other vocational qualifications at level 2.\u003c/p\u003e\n\n\u003cp\u003eThe main headline measures show:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003eprogress since key stage 4, which is the main focus of the 16 to18 accountability system\u003c/li\u003e\n  \u003cli\u003eattainment measures, for example the average grades achieved in qualifications for students at a school or college\u003c/li\u003e\n  \u003cli\u003eretention measures, which report on the proportion of students that complete their studies at the school or college\u003c/li\u003e\n  \u003cli\u003edestination measures, for example students going into higher education or employment\u003c/li\u003e\n  \u003cli\u003eEnglish and maths progress measures in qualifications below level 3, for example GCSE, for students that did not achieve a grade C at key stage 4\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRead more about changes to \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/16-to-19-accountability-headline-measures-technical-guide\"\u003eaccountability measures\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"factors-that-can-affect-performance-results\"\u003e\n\u003cspan class=\"number\"\u003e6. \u003c/span\u003eFactors that can affect performance results\u003c/h2\u003e\n\n\u003cp\u003eWhen measuring a school or college’s effectiveness, you should consider the context of the school, as there may be factors that can help explain its performance.\u003c/p\u003e\n\n\u003cp\u003eFor example, you should consider:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003e\n    \u003cp\u003ethe school type, for example pupils at a special school (for children with special educational needs or disabilities) may have lower prior attainment than those in a mainstream school\u003c/p\u003e\n  \u003c/li\u003e\n  \u003cli\u003e\n    \u003cp\u003ethe pupils’ characteristics, for example how many are considered disadvantaged (eligible for free school meals in the last 6 years, or have been looked after by their local authority) or who have English as an additional language\u003c/p\u003e\n  \u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou should also consider how the school or college’s performance compares to local and national results.\u003c/p\u003e\n\n\u003ch3 id=\"comparing-schools-with-small-pupil-numbers\"\u003e\n\u003cspan class=\"number\"\u003e6.1 \u003c/span\u003eComparing schools with small pupil numbers\u003c/h3\u003e\n\n\u003cp\u003eWhen comparing schools or colleges, you should consider that differences may not be significant if you’re looking at a small year group. For example, in a group of 10 pupils, 1 pupil would represent 10% and in a group of 30 pupils, 1 pupil would represent 3%.\u003c/p\u003e\n\n\u003cp\u003eSmall schools may see a lot of variation in their results over time due to the effect that 1 or 2 pupils’ results can have on the school average.\u003c/p\u003e\n\n\u003cp\u003eWhere the numbers of pupils or students are very small, we show the related performance measures as ‘suppressed’ (not published and labelled ‘SUPP’ in the table) to make sure the pupils or students can’t be identified.\u003c/p\u003e\n\n\u003ch3 id=\"comparing-data-year-on-year\"\u003e\n\u003cspan class=\"number\"\u003e6.2 \u003c/span\u003eComparing data year-on-year\u003c/h3\u003e\n\n\u003cp\u003eIn 2016, there were policy changes at key stage 2, key stage 4 and 16 to 18 which mean it is not always possible to compare year-on-year results over time.\u003c/p\u003e\n\n\u003cp\u003eIn 2017, reformed (9 to 1) GCSEs were introduced in English and maths. This has affected the way key stage 4 measures are calculated compared to previous years.\u003c/p\u003e\n\n\u003cp\u003eRead more about \u003ca rel=\"external\" href=\"https://www.gov.uk/government/publications/school-performance-tables-how-we-report-the-data\"\u003echanges to qualifications and the way we calculate performance\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch2 id=\"consider-both-attainment-and-progress\"\u003e\n\u003cspan class=\"number\"\u003e7. \u003c/span\u003eConsider both attainment and progress\u003c/h2\u003e\n\n\u003cp\u003eWhile attainment figures tell you about the performance of a school’s pupils at the end of a key stage, it’s important to consider that pupils have varying levels of ability and many different starting points.\u003c/p\u003e\n\n\u003cp\u003eSome pupils may seem to be achieving low results based on their overall attainment at the end of a key stage. However, a pupil’s progress score will take into account their attainment at the end of the previous key stage, and the progress they have made since that point compared to pupils with similar starting points. When this is taken into account schools may in fact be helping pupils achieve better results than similar pupils nationally.\u003c/p\u003e\n\n\u003ch3 id=\"low-middle-or-high-attainers\"\u003e\n\u003cspan class=\"number\"\u003e7.1 \u003c/span\u003eLow, middle or high attainers\u003c/h3\u003e\n\n\u003cp\u003eIn the performance data, we group pupils at key stage 2 and key stage 4 as low, middle or high attainers depending on their attainment at the end of key stage 1 and key stage 2.\u003c/p\u003e\n\n\u003cp\u003eYou should consider how well a school’s low, middle or high attainers are progressing. This is an indication of whether a school is equally effective at helping all of its pupils meet their potential rather than, for example, just high attainers.\u003c/p\u003e\n\n\u003cdiv class=\"call-to-action\"\u003e\n\u003cp\u003eRead the \u003ca href=\"https://www.gov.uk/government/publications/school-performance-tables-methodology-and-technical-documents\"\u003eschool and college performance tables supporting documents\u003c/a\u003e for information on how we calculate performance measures in more depth.\u003c/p\u003e\n\u003c/div\u003e\n\u003c/div\u003e"}
 </script><script type="application/ld+json">
   {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://www-origin.integration.publishing.service.gov.uk/"}},{"@type":"ListItem","position":2,"item":{"name":"Understanding school performance measures","@id":"https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures"}}]}
-</script>
-</body>
-</html>
-
-From: TAYLOR, Patrick 
-Sent: 07 June 2018 15:42
-To: CROFT, Laura <Laura.CROFT@education.gov.uk>
-Subject: RE: Understanding school performance measures 
-
-Here is link 3. Are we showing them the HTML page as well? If so I’ll need the HTM for that too
-
-https://patricktaylordfe.github.io/govproject/understandingschoolperformancemeasures
-
-Cheers
-
-Patrick
-
-Patrick Taylor | Senior Content Designer 
-Digital Communications | MPCD | SCME
-E: patrick.taylor@education.gov.uk | T: 0161 600 1681
-gov.uk | Twitter | Facebook 
-2nd Floor, Piccadilly Gate, Store Street, Manchester, M1 2WD
-
-Communicating directly with the public, parliament and professionals
-
-From: CROFT, Laura 
-Sent: 07 June 2018 15:04
-To: TAYLOR, Patrick <Patrick.TAYLOR@education.gov.uk>
-Subject: Understanding school performance measures 
-
-<!DOCTYPE html>
-<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
-<!--<![endif]-->
-  <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta property="og:description" content="A guide to how we interpret school performance data and report school performance measures.">
-<meta property="og:title" content="Understanding school performance measures">
-<meta property="og:url" content="https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures">
-<meta property="og:type" content="article">
-<meta property="og:site_name" content="GOV.UK">
-<meta name="twitter:card" content="summary">
-<meta name="description" content="A guide to how we interpret school performance data and report school performance measures.">
-<meta name="govuk:taxon-slugs" content="pupil-performance-in-schools,school-performance-measures,school-performance-tables-and-ofsted-reports">
-<meta name="govuk:taxon-slug" content="pupil-performance-in-schools">
-<meta name="govuk:taxon-ids" content="ada85ef4-a2b5-446d-a8cf-92da2573b86f,dbb52b1a-55ba-498c-9097-80787ee74e24,49322f0a-04e1-4d08-9e18-e096cfa3301c">
-<meta name="govuk:taxon-id" content="ada85ef4-a2b5-446d-a8cf-92da2573b86f">
-<meta name="govuk:themes" content="education">
-<meta name="govuk:publishing-government" content="2015-conservative-government">
-<meta name="govuk:political-status" content="non-political">
-<meta name="govuk:analytics:organisations" content="&lt;D6&gt;">
-<meta name="govuk:content-has-history" content="true">
-<meta name="govuk:content-id" content="585fe851-8d63-4b89-9a82-9b9f9b280f2f">
-<meta name="govuk:navigation-document-type" content="guidance">
-<meta name="govuk:user-journey-stage" content="thing">
-<meta name="govuk:schema-name" content="publication">
-<meta name="govuk:format" content="guidance">
-<meta name="csrf-token" content="gc/+5deeYg0boLn95iCmjj2txudRsgzEcum5w+jyVq8cYh2hFQV1xmVemwTBDdHWI0oadBmRpNgIaoCS2nosuA==">
-<meta name="csrf-param" content="authenticity_token">
-    <meta charset="utf-8">
-    <title lang="en">
-      Understanding school performance measures - GOV.UK
-  </title>
-
-    <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-460e090f2ead97f3ec511a45a38fa904f864580ddcd9e252158946ba97ca632b.css" crossorigin="anonymous" integrity="sha256-Rg4JDy6tl/PsURpFo4+pBPhkWA3c2eJSFYlGupfKYys=">
-<!--<![endif]-->
-    <!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-ie6-29be9c332a8b3abc85a6dbda46b1240f56db0ae97199c9746f499c37a926b241.css" /><![endif]-->
-    <!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-ie7-3fdede6944700ccc1661c90ae2a2581414ccecd1f79c1c524e641d62eb022b2d.css" /><![endif]-->
-    <!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-ie8-5c60a2ac7cd8a4f48b090a7a40abeea696c10a4675f83edaf6fbd47b73be1c60.css" /><![endif]-->
-    <link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css" crossorigin="anonymous" integrity="sha256-EHZRlSHC//u/das7DTsy7i2WrH6XePHN+sF3Hu/RocA=">
-
-    <link rel="stylesheet" media="all" href="https://assets-origin.integration.publishing.service.gov.uk/static/fonts-ca10ee5d23041fa6da7a63ac3ebc7b5df1601f7a9c60d401f29840fa237b3aba.css" crossorigin="anonymous" integrity="sha256-yhDuXSMEH6baemOsPrx7XfFgH3qcYNQB8phA+iN7Oro=">
-    <!--[if lt IE 9]><script src="https://assets-origin.integration.publishing.service.gov.uk/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js" crossorigin="anonymous" integrity="sha256-pFJFRKU9V6fiWbS7lmucMlV8mMkgt35S0JMEZCtoQBo="></script><![endif]-->
-
-    <link rel="shortcut icon" href="https://assets-origin.integration.publishing.service.gov.uk/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
-    <link rel="mask-icon" href="https://assets-origin.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c">
-    <link rel="apple-touch-icon" sizes="180x180" href="https://assets-origin.integration.publishing.service.gov.uk/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png">
-    <link rel="apple-touch-icon" sizes="167x167" href="https://assets-origin.integration.publishing.service.gov.uk/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="https://assets-origin.integration.publishing.service.gov.uk/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png">
-    <link rel="apple-touch-icon" href="https://assets-origin.integration.publishing.service.gov.uk/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png">
-
-    <meta name="theme-color" content="#0b0c0c">
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-b37ca3541387eea09fc1a3730209f5a1c75376749a764ca1d4e4dbc3f7ce13b1.css" crossorigin="anonymous" integrity="sha256-s3yjVBOH7qCfwaNzAgn1ocdTdnSadkyh1OTbw/fOE7E=">
-<!--<![endif]-->
-<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie6-e9746117083783428f3f975114f8834b01821ecee68b5e662dea2bfcb57999cb.css" /><script>var ieVersion = 6;</script><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie7-ad510cae741911e2e619e3857fc0ca933bc7b8dfcab6d7773755c9189586bdeb.css" /><script>var ieVersion = 7;</script><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie8-9b4924d5736d93ef21246bbe4b5ac9e68fd16d4645519d11536522710ac06634.css" /><script>var ieVersion = 8;</script><![endif]-->
-
-<link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-print-07d9f2ae45b9bf761acf17c7ec414a9493f1a7cf1c8278b7ad5497cdd73eee84.css" crossorigin="anonymous" integrity="sha256-B9nyrkW5v3YazxfH7EFKlJPxp88cgni3rVSXzdc+7oQ=">
-
-
-
-    <meta property="og:image" content="https://assets-origin.integration.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
-  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-8267827a8078b631cf5268e1527a0af6b251a8f11d4c317aadfde7d5bd5dabb0.css" crossorigin="anonymous" integrity="sha256-gmeCeoB4tjHPUmjhUnoK9rJRqPEdTDF6rf3n1b1dq7A=">
-<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/print-efa220c0a74eafee8fed663ec4061175f72a06371342f96e8a6ba4c67c25be35.css" crossorigin="anonymous" integrity="sha256-76IgwKdOr+6P7WY+xAYRdfcqBjcTQvluimukxnwlvjU=">
-<link rel="canonical" href="https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures">
-<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie6-5c6da18f5475416747b51c43bc9bcb3338a948887fdc18602ee2e588be12bb07.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie7-2589047b2b6ce5e48dd13e9d7b6495457afdcb030fc5fea207ee497e199980b9.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie8-041a83f316d9500620d6c90638f0ba0429cc9fa5c7a7c70908ec7c157ad322d0.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
-</head>
-
-  <body>
-    <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
-
-    
-
-    <div id="skiplink-container">
-      <div>
-        <a href="#content" class="skiplink">Skip to main content</a>
-      </div>
-    </div>
-
-    <div id="global-cookie-message">
-        <p>GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a></p>
-    </div>
-
-    <header role="banner" id="global-header" class=" with-proposition">
-      <div class="header-wrapper">
-        <div class="header-global">
-          <div class="header-logo">
-            <a href="https://www-origin.integration.publishing.service.gov.uk" title="Go to the GOV.UK homepage" id="logo" class="content">
-              <img src="https://assets-origin.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> GOV.UK
-            </a>
-          </div>
-            <a href="#search" class="search-toggle js-header-toggle">Search</a>
-
-  <form id="search" class="site-search" action="/search" method="get" role="search">
-    <div class="content">
-      <label for="site-search-text">Search</label>
-      <input type="search" name="q" id="site-search-text" title="Search" class="js-search-focus">
-      <input class="submit" type="submit" value="Search">
-    </div>
-  </form>
-
-        </div>
-        
-      <div class="header-proposition">
-  <div class="content">
-    <a href="#proposition-links" class="js-header-toggle menu">Menu</a>
-  <nav id="proposition-menu" class="no-proposition-name">
-  <ul id="proposition-links">
-    <li>
-      <a class="" href="/government/organisations">
-        Departments
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/world">
-        Worldwide
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/how-government-works">
-        How government works
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/get-involved">
-        Get involved
-      </a>
-    </li>
-    <li class="clear-child">
-      <a class="" href="/government/policies">
-        Policies
-      </a>
-    </li>
-    <li>
-      <a class="active" href="/government/publications">
-        Publications
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/publications?publication_filter_option=consultations">
-        Consultations
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/statistics">
-        Statistics
-      </a>
-    </li>
-    <li>
-      <a class="" href="/government/announcements">
-        Announcements
-      </a>
-    </li>
-  </ul>
-</nav>
-</div>
-</div>
-</div>
-    </header>
-
-      <div id="user-satisfaction-survey-container"></div>
-
-
-    <div id="global-header-bar"></div>
-
-      <div id="wrapper" class="direction-ltr">
-    
-    
-  <!-- Rendering taxonomy breadcrumbs because the page is tagged to live taxons -->
-  
-
-
-<div class="gem-c-breadcrumbs gem-c-breadcrumbs--collapse-on-mobile" data-module="track-click">
-  <ol>
-
-    <li class="gem-c-breadcrumbs--item ">
-        <a data-track-category="breadcrumbClicked" data-track-action="1" data-track-label="/" data-track-options='{"dimension28":"5","dimension29":"Home"}' class="" aria-current="false" href="/">Home</a>
-    </li>
-
-    <li class="gem-c-breadcrumbs--item ">
-        <a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/education" data-track-options='{"dimension28":"5","dimension29":"Education, training and skills"}' class="" aria-current="false" href="/education">Education, training and skills</a>
-    </li>
-
-    <li class="gem-c-breadcrumbs--item ">
-        <a data-track-category="breadcrumbClicked" data-track-action="3" data-track-label="/education/inspections-and-performance-of-education-providers" data-track-options='{"dimension28":"5","dimension29":"Inspections and performance of education providers"}' class="" aria-current="false" href="/education/inspections-and-performance-of-education-providers">Inspections and performance of education providers</a>
-    </li>
-
-    <li class="gem-c-breadcrumbs--item ">
-        <a data-track-category="breadcrumbClicked" data-track-action="4" data-track-label="/education/inspection-and-performance-of-schools" data-track-options='{"dimension28":"5","dimension29":"Inspection and performance of schools"}' class="" aria-current="false" href="/education/inspection-and-performance-of-schools">Inspection and performance of schools</a>
-    </li>
-
-    <li class="gem-c-breadcrumbs--item gem-c-breadcrumbs--parent">
-        <a data-track-category="breadcrumbClicked" data-track-action="5" data-track-label="/education/pupil-performance-in-schools" data-track-options='{"dimension28":"5","dimension29":"Pupil performance in schools"}' class="" aria-current="false" href="/education/pupil-performance-in-schools">Pupil performance in schools</a>
-    </li>
-  </ol>
-</div>
-
-
-    <main role="main" id="content" class="publication" lang="en">
-      
-<div class="grid-row">
-  <div class="column-two-thirds">
-    <div class="pub-c-title
-  
-  pub-c-title--bottom-margin">
-    <p class="pub-c-title__context">
-      Guidance
-    </p>
-  <h1 class="pub-c-title__text pub-c-title__text--long">
-    Understanding school performance measures
-  </h1>
-</div>
-
-  </div>
-  
-
-  <div class="column-two-thirds">
-    
-  <p class="gem-c-lead-paragraph ">
-    A guide to how we interpret school performance data and report school performance measures.
-  </p>
-
-  </div>
-</div>
-
-<div class="grid-row">
-  <div class="metadata-logo-wrapper">
-    <div class="column-two-thirds metadata-column">
-        <div class="app-c-publisher-metadata">
-    <div class="app-c-published-dates ">
-    Published 7 June 2018
-</div>
-
-      <div class="app-c-publisher-metadata__other">
-        <dl data-module="track-click">
-            <dt class="app-c-publisher-metadata__term">From: </dt>
-            <dd class="app-c-publisher-metadata__definition"><a href="/government/organisations/department-for-education">Department for Education</a></dd>
-        </dl>
-      </div>
-  </div>
-
-    </div>
-    <div class="column-one-third">
-    </div>
-  </div>
-</div>
-
-
-
-
-<div class="grid-row">
-  <div class="column-two-thirds responsive-bottom-margin">
-      <div class="app-c-important-metadata app-c-important-metadata--bottom-margin">
-    <dl data-module="track-click">
-      <dt class="app-c-important-metadata__term">Applies to: </dt>
-      <dd class="app-c-important-metadata__definition">England</dd>
-    </dl>
-  </div>
-
-    <div class="responsive-bottom-margin">
-       <h1 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="documents-title">Documents</h1>
-
-
-<div aria-labelledby="documents-title">
-  
-<div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <section class="attachment embedded" id="attachment_2486438">
-  <div class="attachment-thumb">
-      <a aria-hidden="true" class="thumbnail" href="/government/publications/understanding-school-performance-measures/understanding-school-performance-measures"><img alt="" src="/government/assets/pub-cover-html-b0465911e56983d98c70f0e25fba24bc206d37e8c83d4addf6421dcf6022c6cd.png"></a>
-  </div>
-  <div class="attachment-details">
-    <h2 class="title"><a href="/government/publications/understanding-school-performance-measures/understanding-school-performance-measures">Understanding school performance measures</a></h2>
-    <p class="metadata">
-        <span class="type">HTML</span>
-    </p>
-
-
-  </div>
-</section>
-</div>
-
-</div>
-
-<h1 class="gem-c-heading  gem-c-heading--mobile-top-margin  " id="details-title">Details</h1>
-
-
-<div aria-labelledby="details-title">
-  
-<div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
-<p>This guide explains how we use data in the school performance tables to compare schools’ and colleges’ performance over time and to national averages.It also covers factors that can affect data in the <a rel="external" href="https://www.compare-school-performance.service.gov.uk/">school performance tables</a>.</p>
-
-<p>Use the guide if you’re:</p>
-
-<ul>
-  <li>a parent, to compare your child’s performance and achievements to others in the school, college, local authority or England as a whole</li>
-  <li>a school governor, to improve school performance</li>
-  <li>in <abbr title="Department for Education">DfE</abbr> or a government body, monitoring educational standards in England</li>
-  <li>in Ofsted, assessing school or college standards</li>
-  <li>in Ofqual, looking for evidence as part of a review to set and maintain standards</li>
-  <li>a local authority looking for evidence to hold a school to account</li>
-  <li>a school:
-    <ul>
-      <li>looking for data to evaluate your school’s performance against national standards</li>
-      <li>carrying out analysis or self-evaluation</li>
-    </ul>
-  </li>
-  <li>a researcher analysing school data results</li>
-</ul>
-
-</div>
-</div>
-
-</div>
-
-    </div>
-
-    <div class="app-c-published-dates ">
-    Published 7 June 2018
-</div>
-
-  </div>
-  <div class="column-one-third">
-  
-
-  <!-- Rendering taxonomy sidebar because the page is tagged to live taxons -->
-    <aside class="gem-c-taxonomy-navigation" data-module="track-click" role="complementary">
-    <h2 class="gem-c-taxonomy-navigation__heading">Related content</h2>
-      <div data-track-count="sidebarTaxonSection">
-        <h3 class="gem-c-taxonomy-navigation__heading">
-          <a class="gem-c-taxonomy-navigation__link" data-track-category="relatedLinkClicked" data-track-action="1" data-track-label="/education/pupil-performance-in-schools" data-track-options='{"dimension28":"3","dimension29":"Pupil performance in schools"}' href="/education/pupil-performance-in-schools">Pupil performance in schools</a>
-        </h3>
-
-        <p class="gem-c-taxonomy-navigation__taxon-description">
-          Research and evaluation of teaching methods and strategies for increasing children's attainment in education.
-        </p>
-
-          <nav class="gem-c-taxonomy-navigation__navigation" role="navigation">
-            <ul class="gem-c-taxonomy-navigation__list">
-                <li class="gem-c-taxonomy-navigation__item">
-                  <a data-track-category="relatedLinkClicked" data-track-action="1.1" data-track-label="/guidance/lord-glenamara-memorial-prize-nominate-outstanding-pupils" data-track-options='{"dimension28":"2","dimension29":"Lord Glenamara Memorial Prize: nominate outstanding pupils"}' class="related-link gem-c-taxonomy-navigation__link" href="/guidance/lord-glenamara-memorial-prize-nominate-outstanding-pupils">Lord Glenamara Memorial Prize: nominate outstanding pupils</a>
-                </li>
-                <li class="gem-c-taxonomy-navigation__item">
-                  <a data-track-category="relatedLinkClicked" data-track-action="1.2" data-track-label="/guidance/school-reports-on-pupil-performance-guide-for-headteachers" data-track-options='{"dimension28":"2","dimension29":"School reports on pupil performance: guide for headteachers"}' class="related-link gem-c-taxonomy-navigation__link" href="/guidance/school-reports-on-pupil-performance-guide-for-headteachers">School reports on pupil performance: guide for headteachers</a>
-                </li>
-            </ul>
-          </nav>
-      </div>
-      <div data-track-count="sidebarTaxonSection">
-        <h3 class="gem-c-taxonomy-navigation__heading">
-          <a class="gem-c-taxonomy-navigation__link" data-track-category="relatedLinkClicked" data-track-action="2" data-track-label="/education/school-performance-measures" data-track-options='{"dimension28":"3","dimension29":"School performance measures"}' href="/education/school-performance-measures">School performance measures</a>
-        </h3>
-
-        <p class="gem-c-taxonomy-navigation__taxon-description">
-          Performance tables: approved qualifications, discount codes, interpreting data. Primary school accountability, Progress 8 and Attainment 8.
-        </p>
-
-          <nav class="gem-c-taxonomy-navigation__navigation" role="navigation">
-            <ul class="gem-c-taxonomy-navigation__list">
-                <li class="gem-c-taxonomy-navigation__item">
-                  <a data-track-category="relatedLinkClicked" data-track-action="2.1" data-track-label="/government/publications/school-performance-tables-how-to-interpret-the-data" data-track-options='{"dimension28":"2","dimension29":"School performance tables: how to interpret the data"}' class="related-link gem-c-taxonomy-navigation__link" href="/government/publications/school-performance-tables-how-to-interpret-the-data">School performance tables: how to interpret the data</a>
-                </li>
-                <li class="gem-c-taxonomy-navigation__item">
-                  <a data-track-category="relatedLinkClicked" data-track-action="2.2" data-track-label="/government/publications/school-performance-tables-how-we-report-the-data" data-track-options='{"dimension28":"2","dimension29":"School performance tables: how we report the data"}' class="related-link gem-c-taxonomy-navigation__link" href="/government/publications/school-performance-tables-how-we-report-the-data">School performance tables: how we report the data</a>
-                </li>
-            </ul>
-          </nav>
-      </div>
-      <div data-track-count="sidebarTaxonSection">
-        <h3 class="gem-c-taxonomy-navigation__heading">
-          <a class="gem-c-taxonomy-navigation__link" data-track-category="relatedLinkClicked" data-track-action="3" data-track-label="/education/school-performance-tables-and-ofsted-reports" data-track-options='{"dimension28":"3","dimension29":"School performance tables and Ofsted reports"}' href="/education/school-performance-tables-and-ofsted-reports">School performance tables and Ofsted reports</a>
-        </h3>
-
-        <p class="gem-c-taxonomy-navigation__taxon-description">
-          Research and compare the quality of teaching in schools. Reporting data, calculations, analysis, raw data.
-        </p>
-
-      </div>
-
-  </aside>
-
-
-</div>
-
-</div>
-
-    </main>
-    
-<div class="gem-c-feedback gem-c-feedback--top-margin" data-module="feedback">
-  <div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
-    <div class="js-prompt-questions">
-      <h3 class="gem-c-feedback__prompt-question">Is this page useful?</h3>
-
-      <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--useful js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" href="/contact/govuk">
-          Yes <span class="visually-hidden">this page is useful</span>
-</a>
-      <a class="gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffNoClick" aria-controls="page-is-not-useful" aria-expanded="false" role="button" href="/contact/govuk">
-          No <span class="visually-hidden">this page is not useful</span>
-</a>
-      <a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--wrong js-toggle-form js-something-is-wrong" data-track-category="Onsite Feedback" data-track-action="GOV.UK Open Form" aria-controls="something-is-wrong" aria-expanded="false" role="button" href="/contact/govuk">
-          Is there anything wrong with this page?
-</a>    </div>
-
-    <div class="gem-c-feedback__prompt-success js-prompt-success js-hidden" tabindex="-1">
-      Thank you for your feedback
-    </div>
-  </div>
-
-  <form action="/contact/govuk/problem_reports" id="something-is-wrong" class="gem-c-feedback__form js-feedback-form js-hidden" data-track-category="Onsite Feedback" data-track-action="GOV.UK Send Form" method="post">
-    <a href="#" class="gem-c-feedback__close gem-c-feedback__js-show js-close-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Close Form" aria-controls="something-is-wrong" aria-expanded="true" role="button">Close</a>
-
-    <div class="gem-c-feedback__grid-row">
-      <div class="gem-c-feedback__column-two-thirds">
-        <div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
-
-        <input type="hidden" name="url" value="https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures">
-        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko">
-
-        <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
-        <p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
-
-        
-
-
-<div class="
-    gem-c-label
-    
-    
-  ">
-  <label class="
-      gem-c-label__text
-      
-    " for="input-c5989be3">
-    What were you doing?
-  </label>
-</div>
-
-
-<input class="gem-c-input " id="input-c5989be3" name="what_doing" type="text" aria-describedby="feedback_explanation">
-
-
-        
-
-
-<div class="
-    gem-c-label
-    
-    
-  ">
-  <label class="
-      gem-c-label__text
-      
-    " for="input-c97e9c2d">
-    What went wrong?
-  </label>
-</div>
-
-
-<input class="gem-c-input " id="input-c97e9c2d" name="what_wrong" type="text">
-
-
-        <input class="gem-c-feedback__submit" type="submit" value="Send">
-      </div>
-    </div>
-  </form>
-
-  <form action="/contact/govuk/email-survey-signup" id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form js-hidden" data-track-category="yesNoFeedbackForm" data-track-action="Send Form" method="post">
-    <a href="#" class="gem-c-feedback__close js-close-form" data-track-category="yesNoFeedbackForm" data-track-action="ffFormClose" aria-controls="page-is-not-useful" aria-expanded="true" role="button">Close</a>
-
-    <div class="gem-c-feedback__grid-row">
-      <div class="gem-c-feedback__column-two-thirds">
-        <div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
-
-        <input type="hidden" name="url" value="https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures">
-        <input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko">
-
-        <input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
-        <input name="email_survey_signup[survey_source]" type="hidden" value="https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures">
-        <input name="email_survey_signup[ga_client_id]" type="hidden" value="1627485790.1515403243">
-
-        <h2 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h2>
-        <p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
-
-        
-
-
-<div class="
-    gem-c-label
-    
-    
-  ">
-  <label class="
-      gem-c-label__text
-      
-    " for="input-19279424">
-    Email address
-  </label>
-</div>
-
-
-<input class="gem-c-input " id="input-19279424" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation">
-
-
-        <input class="gem-c-feedback__submit" type="submit" value="Send me the survey">
-        <a href="https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/government/publications/understanding-school-performance-measures&amp;gcl=1627485790.1515403243" class="gem-c-feedback__email-link" id="take-survey" target="_blank" rel="noopener noreferrer">Don’t have an email address?</a>
-      </div>
-    </div>
-  </form>
-
-</div>
-
-  </div>
-
-
-    <footer class="group js-footer" id="footer" role="contentinfo">
-
-      <div class="footer-wrapper">
-            <div class="footer-categories">
-      <div class="footer-explore">
-        <h2>Services and information</h2>
-
-        <ul>
-          <li><a href="/browse/benefits">Benefits</a></li>
-          <li><a href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
-          <li><a href="/browse/business">Business and self-employed</a></li>
-          <li><a href="/browse/childcare-parenting">Childcare and parenting</a></li>
-          <li><a href="/browse/citizenship">Citizenship and living in the UK</a></li>
-          <li><a href="/browse/justice">Crime, justice and the law</a></li>
-          <li><a href="/browse/disabilities">Disabled people</a></li>
-          <li><a href="/browse/driving">Driving and transport</a></li>
-        </ul>
-        <ul>
-          <li><a href="/browse/education">Education and learning</a></li>
-          <li><a href="/browse/employing-people">Employing people</a></li>
-          <li><a href="/browse/environment-countryside">Environment and countryside</a></li>
-          <li><a href="/browse/housing-local-services">Housing and local services</a></li>
-          <li><a href="/browse/tax">Money and tax</a></li>
-          <li><a href="/browse/abroad">Passports, travel and living abroad</a></li>
-          <li><a href="/browse/visas-immigration">Visas and immigration</a></li>
-          <li><a href="/browse/working">Working, jobs and pensions</a></li>
-        </ul>
-      </div>
-
-      <div class="footer-inside-government">
-        <h2>Departments and policy</h2>
-
-        <ul>
-          <li><a href="/government/how-government-works">How government works</a></li>
-          <li><a href="/government/organisations">Departments</a></li>
-          <li><a href="/world">Worldwide</a></li>
-          <li><a href="/government/policies">Policies</a></li>
-          <li><a href="/government/publications">Publications</a></li>
-          <li><a href="/government/announcements">Announcements</a></li>
-        </ul>
-      </div>
-      <hr>
-    </div>
-
-
-        <div class="footer-meta">
-          <div class="footer-meta-inner">
-              <h2 class="visuallyhidden">Support links</h2>
-<ul>
-  <li><a href="/help">Help</a></li>
-  <li><a href="/help/cookies">Cookies</a></li>
-  <li><a href="/contact">Contact</a></li>
-  <li><a href="/help/terms-conditions">Terms and conditions</a></li>
-  <li><a href="/cymraeg" lang="cy" hreflang="cy">Rhestr o Wasanaethau Cymraeg</a></li>
-  <li>Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service">Government Digital Service</a>
-</li>
-</ul>
-
-
-
-            <div class="open-government-licence">
-              <p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
-                <p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
-            </div>
-          </div>
-
-          <div class="copyright">
-            <a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/copyright-and-re-use/crown-copyright/">© Crown copyright</a>
-          </div>
-        </div>
-      </div>
-    </footer>
-
-    <div id="global-app-error" class="app-error hidden"></div>
-
-    <script src="https://assets-origin.integration.publishing.service.gov.uk/static/govuk-template-ae4c5d21c0a7cb5bc8926a9f491de4e410244403f66c72997210c281efb92d4f.js" crossorigin="anonymous" integrity="sha256-rkxdIcCny1vIkmqfSR3k5BAkRAP2bHKZchDCge+5LU8="></script>
-
-      <script src="https://assets-origin.integration.publishing.service.gov.uk/static/libs/jquery/jquery-1.12.4-e96d4c96760488af35a28ff21d294b318881ed912710e93bc6325a5fbeb0be27.js" crossorigin="anonymous" integrity="sha256-6W1MlnYEiK81oo/yHSlLMYiB7ZEnEOk7xjJaX76wvic="></script>
-<script src="https://assets-origin.integration.publishing.service.gov.uk/static/header-footer-only-5b6381dfbe828858e0ccde3d3f2bbae82840acf36fc73fe3122657d888bc427c.js" crossorigin="anonymous" integrity="sha256-W2OB376CiFjgzN49Pyu66ChArPNvxz/jEiZX2Ii8Qnw="></script>
-<script src="https://assets-origin.integration.publishing.service.gov.uk/static/surveys-fd667f8a535e11d93176cb176bb4fe4bc9473161430ed911ef080729d8b815ae.js" crossorigin="anonymous" integrity="sha256-/WZ/ilNeEdkxdssXa7T+S8lHMWFDDtkR7wgHKdi4Fa4="></script>
-
-
-
-    <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
-  <script src="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-2a3e177b1002a6ea6d9d00098ad6e653a49291f802fb1ad6608d9a6fac4a1272.js" crossorigin="anonymous" integrity="sha256-Kj4XexACpuptnQAJitbmU6SSkfgC+xrWYI2ab6xKEnI="></script><script type="application/ld+json">
-  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www-origin.integration.publishing.service.gov.uk/government/publications/understanding-school-performance-measures"},"headline":"Understanding school performance measures","datePublished":"2018-06-07T13:52:18.000+00:00","dateModified":"2018-06-07T13:52:18.000+00:00","description":"A guide to how we interpret school performance data and report school performance measures.","publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"author":{"@type":"Organization","name":"Department for Education","url":"https://www-origin.integration.publishing.service.gov.uk/government/organisations/department-for-education"},"articleBody":"\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThis guide explains how we use data in the school performance tables to compare schools’ and colleges’ performance over time and to national averages.It also covers factors that can affect data in the \u003ca rel=\"external\" href=\"https://www.compare-school-performance.service.gov.uk/\"\u003eschool performance tables\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eUse the guide if you’re:\u003c/p\u003e\n\n\u003cul\u003e\n  \u003cli\u003ea parent, to compare your child’s performance and achievements to others in the school, college, local authority or England as a whole\u003c/li\u003e\n  \u003cli\u003ea school governor, to improve school performance\u003c/li\u003e\n  \u003cli\u003ein \u003cabbr title=\"Department for Education\"\u003eDfE\u003c/abbr\u003e or a government body, monitoring educational standards in England\u003c/li\u003e\n  \u003cli\u003ein Ofsted, assessing school or college standards\u003c/li\u003e\n  \u003cli\u003ein Ofqual, looking for evidence as part of a review to set and maintain standards\u003c/li\u003e\n  \u003cli\u003ea local authority looking for evidence to hold a school to account\u003c/li\u003e\n  \u003cli\u003ea school:\n    \u003cul\u003e\n      \u003cli\u003elooking for data to evaluate your school’s performance against national standards\u003c/li\u003e\n      \u003cli\u003ecarrying out analysis or self-evaluation\u003c/li\u003e\n    \u003c/ul\u003e\n  \u003c/li\u003e\n  \u003cli\u003ea researcher analysing school data results\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003c/div\u003e"}
-</script><script type="application/ld+json">
-  {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://www-origin.integration.publishing.service.gov.uk/"}},{"@type":"ListItem","position":2,"item":{"name":"Education, training and skills","@id":"https://www-origin.integration.publishing.service.gov.uk/education"}},{"@type":"ListItem","position":3,"item":{"name":"Inspections and performance of education providers","@id":"https://www-origin.integration.publishing.service.gov.uk/education/inspections-and-performance-of-education-providers"}},{"@type":"ListItem","position":4,"item":{"name":"Inspection and performance of schools","@id":"https://www-origin.integration.publishing.service.gov.uk/education/inspection-and-performance-of-schools"}},{"@type":"ListItem","position":5,"item":{"name":"Pupil performance in schools","@id":"https://www-origin.integration.publishing.service.gov.uk/education/pupil-performance-in-schools"}}]}
 </script>
 </body>
 </html>
