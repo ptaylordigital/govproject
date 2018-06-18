@@ -24,7 +24,7 @@
 <meta name="govuk:user-journey-stage" content="finding">
 <meta name="govuk:schema-name" content="document_collection">
 <meta name="govuk:format" content="document_collection">
-<meta name="csrf-token" content="lyJXKbv872siqieHiDixXKzAZWCZsnQjmO1RHIlff021Kj9dECKXgwJG1PBezws/Bn0d0cN52+i1VwZF1jPfUA==">
+<meta name="csrf-token" content="so3Io2HTmV5UpDIxuCgVMUTrOKOGQIOb+SI0UT1HbnQFxQr+llPmwIRIMtLZ2dnfxQifPtuprA3m6LrroWLPDw==">
 <meta name="csrf-param" content="authenticity_token">
     <meta charset="utf-8">
     <title lang="en">
@@ -52,21 +52,21 @@
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-b37ca3541387eea09fc1a3730209f5a1c75376749a764ca1d4e4dbc3f7ce13b1.css" crossorigin="anonymous" integrity="sha256-s3yjVBOH7qCfwaNzAgn1ocdTdnSadkyh1OTbw/fOE7E=">
+      <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-3d0b91a47edcee49a578d46f8ce40689affb196378754b0fe0879999ff5d7200.css" crossorigin="anonymous" integrity="sha256-PQuRpH7c7kmleNRvjOQGia/7GWN4dUsP4IeZmf9dcgA=">
 <!--<![endif]-->
-<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie6-e9746117083783428f3f975114f8834b01821ecee68b5e662dea2bfcb57999cb.css" /><script>var ieVersion = 6;</script><![endif]-->
-<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie7-ad510cae741911e2e619e3857fc0ca933bc7b8dfcab6d7773755c9189586bdeb.css" /><script>var ieVersion = 7;</script><![endif]-->
-<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie8-9b4924d5736d93ef21246bbe4b5ac9e68fd16d4645519d11536522710ac06634.css" /><script>var ieVersion = 8;</script><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie6-bfc951a328cae9cac5ef2d5e991a10783e8df3f6b086348e4fa40d5f32e78026.css" /><script>var ieVersion = 6;</script><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie7-218333e87c18eea7c2ac551b56dc48aa798319a087e483bcca0f548ab65dba73.css" /><script>var ieVersion = 7;</script><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-ie8-04417d2c634bb087658290b6d736f6c9826f73e691f825216463455fc688c420.css" /><script>var ieVersion = 8;</script><![endif]-->
 
 <link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/static/core-layout-print-07d9f2ae45b9bf761acf17c7ec414a9493f1a7cf1c8278b7ad5497cdd73eee84.css" crossorigin="anonymous" integrity="sha256-B9nyrkW5v3YazxfH7EFKlJPxp88cgni3rVSXzdc+7oQ=">
 
 
 
     <meta property="og:image" content="https://assets-origin.integration.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
-  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-8267827a8078b631cf5268e1527a0af6b251a8f11d4c317aadfde7d5bd5dabb0.css" crossorigin="anonymous" integrity="sha256-gmeCeoB4tjHPUmjhUnoK9rJRqPEdTDF6rf3n1b1dq7A=">
-<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/print-efa220c0a74eafee8fed663ec4061175f72a06371342f96e8a6ba4c67c25be35.css" crossorigin="anonymous" integrity="sha256-76IgwKdOr+6P7WY+xAYRdfcqBjcTQvluimukxnwlvjU=">
+  <!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-2de8ae64f79c48671e63cd5a3db2e8091dab131e597e3fc63d34ad3226677490.css" crossorigin="anonymous" integrity="sha256-LeiuZPecSGceY81aPbLoCR2rEx5Zfj/GPTStMiZndJA=">
+<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/print-a9af06f0e0ff57a3916f6700715b87afc2f8c596fc6b03aa7b8ef4cbb8bdbb58.css" crossorigin="anonymous" integrity="sha256-qa8G8OD/V6ORb2cAcVuHr8L4xZb8awOqe470y7i9u1g=">
 <link rel="canonical" href="https://www-origin.integration.publishing.service.gov.uk/government/collections/school-performance-tables-about-the-data">
-<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie6-5c6da18f5475416747b51c43bc9bcb3338a948887fdc18602ee2e588be12bb07.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie7-2589047b2b6ce5e48dd13e9d7b6495457afdcb030fc5fea207ee497e199980b9.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie8-041a83f316d9500620d6c90638f0ba0429cc9fa5c7a7c70908ec7c157ad322d0.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
+<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie6-c8b92791171e4e5c196569f88d85d651637bf74ebe79d7f11bbe51264a7afb31.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie7-cf2d77cc6b8a377f8c5001e591aa1a70cf35edfa86f91c33eb2d2fac62d81263.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-ie8-7520dce3459a489f8c9d67e4082e9e6c54752d5c8c95c39e90e03a7aa9768f2c.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
 </head>
 
   <body>
@@ -89,7 +89,7 @@
         <div class="header-global">
           <div class="header-logo">
             <a href="https://www-origin.integration.publishing.service.gov.uk" title="Go to the GOV.UK homepage" id="logo" class="content">
-              <img src="https://assets-origin.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> This is not GOV.UK
+              <img src="https://assets-origin.integration.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> This in not GOV.UK
             </a>
           </div>
             <a href="#search" class="search-toggle js-header-toggle">Search</a>
@@ -203,13 +203,13 @@
       
 <div class="grid-row">
   <div class="column-two-thirds">
-    <div class="pub-c-title
+    <div class="gem-c-title
   
-  pub-c-title--bottom-margin">
-    <p class="pub-c-title__context">
+  gem-c-title--bottom-margin">
+    <p class="gem-c-title__context">
       Collection
     </p>
-  <h1 class="pub-c-title__text pub-c-title__text--long">
+  <h1 class="gem-c-title__text gem-c-title__text--long">
     School performance measures: about the data
   </h1>
 </div>
@@ -263,7 +263,7 @@
 
     <ol class="gem-c-contents-list__list">
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
-          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#understanding-school-performance-tables" data-track-options='{"dimension29":"Understanding school performance tables"}' href="#understanding-school-performance-tables">Understanding school performance tables</a>
+          <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#understanding-the-school-performance-tables" data-track-options='{"dimension29":"Understanding the school performance tables"}' href="#understanding-the-school-performance-tables">Understanding the school performance tables</a>
         </li>
         <li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--dashed ">
           <a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#key-stage-2-performance-measures" data-track-options='{"dimension29":"Key stage 2 performance measures"}' href="#key-stage-2-performance-measures">Key stage 2 performance measures</a>
@@ -282,7 +282,7 @@
       <div class="responsive-bottom-margin">
           
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 <p>These guides will help school and college leaders understand the data in the <a rel="external" href="https://www.gov.uk/school-performance-tables">school and college performance tables</a> and in the analyse school performance service.</p>
 
 <p>You can use the tools (ready reckoners) to calculate your performance measures scores.</p>
@@ -290,10 +290,10 @@
 </div>
 
 
-  <h3 class="group-title" id="understanding-school-performance-tables">Understanding school performance tables</h3>
+  <h3 class="group-title" id="understanding-the-school-performance-tables">Understanding the school performance tables</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 </div>
 </div>
 
@@ -302,33 +302,15 @@
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/school-performance-tables-how-to-interpret-the-data" data-track-options='{"dimension28":"2","dimension29":"School performance tables: how to interpret the data"}' href="/government/publications/school-performance-tables-how-to-interpret-the-data">School performance tables: how to interpret the data</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.1" data-track-label="/government/publications/understanding-school-performance-measures" data-track-options='{"dimension28":"1","dimension29":"Understanding school performance measures"}' class="gem-c-document-list__item-title  " href="/government/publications/understanding-school-performance-measures">Understanding school performance measures</a>
           </h3>
 
 
 
-          <ul>
+         <ul>
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2018-01-25T09:46:15+00:00">
-                    25 January 2018
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Guidance
-              </li>
-          </ul>
-      </li>
-      <li class="gem-c-document-list__item">
-          <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="1.2" data-track-label="/government/publications/school-performance-tables-how-we-report-the-data" data-track-options='{"dimension28":"2","dimension29":"School performance tables: how we report the data"}' href="/government/publications/school-performance-tables-how-we-report-the-data">School performance tables: how we report the data</a>
-          </h3>
-
-
-
-          <ul>
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2018-02-05T11:12:21+00:00">
-                     5 February 2018
+                  <time datetime="2018-06-18T12:19:33+01:00">
+                    18 June 2018
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
@@ -342,7 +324,7 @@
   <h3 class="group-title" id="key-stage-2-performance-measures">Key stage 2 performance measures</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 <p>The guidance will help you understand the measures we use to assess school performance. The ready reckoners will help you to calculate your performance measure scores.</p>
 </div>
 </div>
@@ -352,7 +334,7 @@
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/government/publications/primary-school-accountability" data-track-options='{"dimension28":"2","dimension29":"Primary school accountability"}' href="/government/publications/primary-school-accountability">Primary school accountability</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.1" data-track-label="/government/publications/primary-school-accountability" data-track-options='{"dimension28":"2","dimension29":"Primary school accountability"}' class="gem-c-document-list__item-title  " href="/government/publications/primary-school-accountability">Primary school accountability</a>
           </h3>
 
 
@@ -370,7 +352,7 @@
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.2" data-track-label="/government/publications/ready-reckoners-for-key-stage-2-2017" data-track-options='{"dimension28":"2","dimension29":"Ready reckoners and transition matrices for key stage 2: 2017"}' href="/government/publications/ready-reckoners-for-key-stage-2-2017">Ready reckoners and transition matrices for key stage 2: 2017</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.2" data-track-label="/government/publications/ready-reckoners-for-key-stage-2-2017" data-track-options='{"dimension28":"2","dimension29":"Ready reckoners and transition matrices for key stage 2: 2017"}' class="gem-c-document-list__item-title  " href="/government/publications/ready-reckoners-for-key-stage-2-2017">Ready reckoners and transition matrices for key stage 2: 2017</a>
           </h3>
 
 
@@ -392,8 +374,8 @@
   <h3 class="group-title" id="key-stage-4-performance-measures">Key stage 4 performance measures</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
-<p>The guidance will help you understand the measures we use to assess school performance, the subjects included in the English Baccalaureate and the points awarded for qualifications. The ready reckoners will help you to calculate your performance measure scores.</p>
+      <div class="govspeak">
+<p>he guidance will help you understand the measures we use to assess school performance, the subjects included in the English Baccalaureate and the points awarded for qualifications. The ready reckoners will help you to calculate your performance measure scores.</p>
 </div>
 </div>
 
@@ -402,7 +384,7 @@
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/government/publications/progress-8-school-performance-measure" data-track-options='{"dimension28":"4","dimension29":"Secondary accountability measures (including Progress 8 and Attainment 8)"}' href="/government/publications/progress-8-school-performance-measure">Secondary accountability measures (including Progress 8 and Attainment 8)</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.1" data-track-label="/government/publications/progress-8-school-performance-measure" data-track-options='{"dimension28":"4","dimension29":"Secondary accountability measures (including Progress 8 and Attainment 8)"}' class="gem-c-document-list__item-title  " href="/government/publications/progress-8-school-performance-measure">Secondary accountability measures (including Progress 8 and Attainment 8)</a>
           </h3>
 
 
@@ -420,15 +402,15 @@
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.2" data-track-label="/government/publications/english-baccalaureate-eligible-qualifications" data-track-options='{"dimension28":"4","dimension29":"English Baccalaureate: eligible qualifications"}' href="/government/publications/english-baccalaureate-eligible-qualifications">English Baccalaureate: eligible qualifications</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.2" data-track-label="/government/publications/english-baccalaureate-eligible-qualifications" data-track-options='{"dimension28":"4","dimension29":"English Baccalaureate: eligible qualifications"}' class="gem-c-document-list__item-title  " href="/government/publications/english-baccalaureate-eligible-qualifications">English Baccalaureate: eligible qualifications</a>
           </h3>
 
 
 
           <ul>
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2017-09-22T16:10:38+01:00">
-                    22 September 2017
+                  <time datetime="2018-06-07T12:02:42+01:00">
+                     7 June 2018
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
@@ -438,15 +420,15 @@
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.3" data-track-label="/government/publications/key-stage-4-qualifications-discount-codes-and-point-scores" data-track-options='{"dimension28":"4","dimension29":"Key stage 4 qualifications, discount codes and point scores"}' href="/government/publications/key-stage-4-qualifications-discount-codes-and-point-scores">Key stage 4 qualifications, discount codes and point scores</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.3" data-track-label="/government/publications/key-stage-4-qualifications-discount-codes-and-point-scores" data-track-options='{"dimension28":"4","dimension29":"Key stage 4 qualifications, discount codes and point scores"}' class="gem-c-document-list__item-title  " href="/government/publications/key-stage-4-qualifications-discount-codes-and-point-scores">Key stage 4 qualifications, discount codes and point scores</a>
           </h3>
 
 
 
           <ul>
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2018-03-29T11:18:47+01:00">
-                    29 March 2018
+                  <time datetime="2018-06-13T16:33:01+01:00">
+                    13 June 2018
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
@@ -456,7 +438,7 @@
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.4" data-track-label="/government/publications/ready-reckoners-for-key-stage-4-2017" data-track-options='{"dimension28":"4","dimension29":"Ready reckoners and transition matrices for key stage 4: 2017"}' href="/government/publications/ready-reckoners-for-key-stage-4-2017">Ready reckoners and transition matrices for key stage 4: 2017</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="3.4" data-track-label="/government/publications/ready-reckoners-for-key-stage-4-2017" data-track-options='{"dimension28":"4","dimension29":"Ready reckoners and transition matrices for key stage 4: 2017"}' class="gem-c-document-list__item-title  " href="/government/publications/ready-reckoners-for-key-stage-4-2017">Ready reckoners and transition matrices for key stage 4: 2017</a>
           </h3>
 
 
@@ -465,7 +447,7 @@
               <li class="gem-c-document-list__attribute">
                   <time datetime="2018-01-30T09:29:28+00:00">
                     30 January 2018
-                 </time>
+                  </time>
               </li>
               <li class="gem-c-document-list__attribute">
                   Guidance
@@ -478,7 +460,7 @@
   <h3 class="group-title" id="16-to-18-students-performance-measures">16 to 18 students performance measures</h3>
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
-  <div class="govspeak">
+      <div class="govspeak">
 <p>The guidance will help you understand the measures we use to assess school performance and the points awarded for qualifications. The ready reckoners will help you to calculate your performance measure scores.</p>
 </div>
 </div>
@@ -488,15 +470,15 @@
       <ol class="gem-c-document-list ">
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/government/publications/16-to-19-qualifications-discount-codes-and-point-scores" data-track-options='{"dimension28":"4","dimension29":"16 to 18 qualifications, discount codes and point scores"}' href="/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">16 to 18 qualifications, discount codes and point scores</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.1" data-track-label="/government/publications/16-to-19-qualifications-discount-codes-and-point-scores" data-track-options='{"dimension28":"4","dimension29":"16 to 18 qualifications, discount codes and point scores"}' class="gem-c-document-list__item-title  " href="/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">16 to 18 qualifications, discount codes and point scores</a>
           </h3>
 
 
 
           <ul>
               <li class="gem-c-document-list__attribute">
-                  <time datetime="2018-03-27T16:55:40+01:00">
-                    27 March 2018
+                  <time datetime="2018-06-07T12:03:19+01:00">
+                     7 June 2018
                   </time>
               </li>
               <li class="gem-c-document-list__attribute">
@@ -506,7 +488,7 @@
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.2" data-track-label="/government/publications/16-to-19-accountability-headline-measures-technical-guide" data-track-options='{"dimension28":"4","dimension29":"16 to 18 accountability headline measures"}' href="/government/publications/16-to-19-accountability-headline-measures-technical-guide">16 to 18 accountability headline measures</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.2" data-track-label="/government/publications/16-to-19-accountability-headline-measures-technical-guide" data-track-options='{"dimension28":"4","dimension29":"16 to 18 accountability headline measures"}' class="gem-c-document-list__item-title  " href="/government/publications/16-to-19-accountability-headline-measures-technical-guide">16 to 18 accountability headline measures</a>
           </h3>
 
 
@@ -524,7 +506,7 @@
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/16-to-18-level-3-value-added-ready-reckoner" data-track-options='{"dimension28":"4","dimension29":"Ready reckoner and transition matrices for 16 to 18: 2017"}' href="/government/publications/16-to-18-level-3-value-added-ready-reckoner">Ready reckoner and transition matrices for 16 to 18: 2017</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/16-to-18-level-3-value-added-ready-reckoner" data-track-options='{"dimension28":"4","dimension29":"Ready reckoner and transition matrices for 16 to 18: 2017"}' class="gem-c-document-list__item-title  " href="/government/publications/16-to-18-level-3-value-added-ready-reckoner">Ready reckoner and transition matrices for 16 to 18: 2017</a>
           </h3>
 
 
@@ -542,7 +524,7 @@
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-            <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.4" data-track-label="/government/publications/16-to-18-english-and-maths-progress-measure-qualifications" data-track-options='{"dimension28":"4","dimension29":"16 to 18 English and maths progress measure qualifications"}' href="/government/publications/16-to-18-english-and-maths-progress-measure-qualifications">16 to 18 English and maths progress measure qualifications</a>
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.4" data-track-label="/government/publications/16-to-18-english-and-maths-progress-measure-qualifications" data-track-options='{"dimension28":"4","dimension29":"16 to 18 English and maths progress measure qualifications"}' class="gem-c-document-list__item-title  " href="/government/publications/16-to-18-english-and-maths-progress-measure-qualifications">16 to 18 English and maths progress measure qualifications</a>
           </h3>
 
 
@@ -663,7 +645,7 @@
           <nav class="gem-c-taxonomy-navigation__navigation" role="navigation">
             <ul class="gem-c-taxonomy-navigation__list">
                 <li class="gem-c-taxonomy-navigation__item">
-                  <a data-track-category="relatedLinkClicked" data-track-action="2.1" data-track-label="/government/publications/destination-measures-for-key-stage-4-and-16-to-18-students-2017" data-track-options='{"dimension28":"3","dimension29":"Destination measures for key stage 4 and 16 to 18 students: 2017"}' class="related-link gem-c-taxonomy-navigation__link" href="/government/publications/destination-measures-for-key-stage-4-and-16-to-18-students-2017">Destination measures for key stage 4 and 16 to 18 students: 2017</a>
+                  <a data-track-category="relatedLinkClicked" data-track-action="2.1" data-track-label="/government/publications/ready-reckoners-for-key-stage-2-2017" data-track-options='{"dimension28":"3","dimension29":"Ready reckoners for key stage 2: 2017"}' class="related-link gem-c-taxonomy-navigation__link" href="/government/publications/ready-reckoners-for-key-stage-2-2017">Ready reckoners for key stage 2: 2017</a>
                 </li>
                 <li class="gem-c-taxonomy-navigation__item">
                   <a data-track-category="relatedLinkClicked" data-track-action="2.2" data-track-label="/government/publications/school-performance-2017-point-scores-for-16-to-18-qualifications" data-track-options='{"dimension28":"3","dimension29":"School performance: 2017 point scores for 16 to 18 qualifications"}' class="related-link gem-c-taxonomy-navigation__link" href="/government/publications/school-performance-2017-point-scores-for-16-to-18-qualifications">School performance: 2017 point scores for 16 to 18 qualifications</a>
@@ -738,13 +720,13 @@
   <label class="
       gem-c-label__text
       
-    " for="input-f6c974b9">
+    " for="input-b4c2c203">
     What were you doing?
   </label>
 </div>
 
 
-<input class="gem-c-input " id="input-f6c974b9" name="what_doing" type="text" aria-describedby="feedback_explanation">
+<input class="gem-c-input " id="input-b4c2c203" name="what_doing" type="text" aria-describedby="feedback_explanation">
 
 
         
@@ -758,13 +740,13 @@
   <label class="
       gem-c-label__text
       
-    " for="input-98490ffa">
+    " for="input-78c4b1d2">
     What went wrong?
   </label>
 </div>
 
 
-<input class="gem-c-input " id="input-98490ffa" name="what_wrong" type="text">
+<input class="gem-c-input " id="input-78c4b1d2" name="what_wrong" type="text">
 
 
         <input class="gem-c-feedback__submit" type="submit" value="Send">
@@ -800,13 +782,13 @@
   <label class="
       gem-c-label__text
       
-    " for="input-74cfc6e7">
+    " for="input-bc64d82c">
     Email address
   </label>
 </div>
 
 
-<input class="gem-c-input " id="input-74cfc6e7" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation">
+<input class="gem-c-input " id="input-bc64d82c" name="email_survey_signup[email_address]" type="email" aria-describedby="survey_explanation">
 
 
         <input class="gem-c-feedback__submit" type="submit" value="Send me the survey">
@@ -847,7 +829,7 @@
           <li><a href="/browse/visas-immigration">Visas and immigration</a></li>
           <li><a href="/browse/working">Working, jobs and pensions</a></li>
         </ul>
-      </div>
+     </div>
 
       <div class="footer-inside-government">
         <h2>Departments and policy</h2>
@@ -905,7 +887,7 @@
 
     <script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
   <script src="https://assets-origin.integration.publishing.service.gov.uk/government-frontend/application-2a3e177b1002a6ea6d9d00098ad6e653a49291f802fb1ad6608d9a6fac4a1272.js" crossorigin="anonymous" integrity="sha256-Kj4XexACpuptnQAJitbmU6SSkfgC+xrWYI2ab6xKEnI="></script><script type="application/ld+json">
-  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www-origin.integration.publishing.service.gov.uk/government/collections/school-performance-tables-about-the-data"},"headline":"School performance measures: about the data","datePublished":"2016-04-29T10:39:00.000+00:00","dateModified":"2018-06-07T13:51:57.000+00:00","description":"Guidance and tools to help you understand and analyse your school’s performance. ","publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"author":{"@type":"Organization","name":"Department for Education","url":"https://www-origin.integration.publishing.service.gov.uk/government/organisations/department-for-education"},"articleBody":"\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThese guides will help school and college leaders understand the data in the \u003ca rel=\"external\" href=\"https://www.gov.uk/school-performance-tables\"\u003eschool and college performance tables\u003c/a\u003e and in the analyse school performance service.\u003c/p\u003e\n\n\u003cp\u003eYou can use the tools (ready reckoners) to calculate your performance measures scores.\u003c/p\u003e\n\u003c/div\u003e"}
+  {"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www-origin.integration.publishing.service.gov.uk/government/collections/school-performance-tables-about-the-data"},"headline":"School performance measures: about the data","datePublished":"2016-04-29T10:39:00.000+00:00","dateModified":"2018-06-07T13:51:57.000+00:00","description":"Guidance and tools to help you understand and analyse your school’s performance. ","publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"image":["https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-5ceffac04f7f6d4f421bd1d36dbb723ef48c15426d7f77f90be80a83af3c747e.png","https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-4x3-fcfe16abb1a015848e50d2ea797666a9eaf5158dca38ddfb1e52dc8c0543ab74.png","https://assets-origin.integration.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-16x9-fcf616879a7b37970df4d2117de962e08f7d057674ef1af6063dcdd529424eee.png"],"author":{"@type":"Organization","name":"Department for Education","url":"https://www-origin.integration.publishing.service.gov.uk/government/organisations/department-for-education"},"articleBody":"\u003cdiv class=\"govspeak\"\u003e\u003cp\u003eThese guides will help school and college leaders understand the data in the \u003ca rel=\"external\" href=\"https://www.gov.uk/school-performance-tables\"\u003eschool and college performance tables\u003c/a\u003e and in the analyse school performance service.\u003c/p\u003e\n\n\u003cp\u003eYou can use the tools (ready reckoners) to calculate your performance measures scores.\u003c/p\u003e\n\u003c/div\u003e"}
 </script><script type="application/ld+json">
   {"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://www-origin.integration.publishing.service.gov.uk/"}},{"@type":"ListItem","position":2,"item":{"name":"Education, training and skills","@id":"https://www-origin.integration.publishing.service.gov.uk/education"}},{"@type":"ListItem","position":3,"item":{"name":"Inspections and performance of education providers","@id":"https://www-origin.integration.publishing.service.gov.uk/education/inspections-and-performance-of-education-providers"}},{"@type":"ListItem","position":4,"item":{"name":"Inspection and performance of schools","@id":"https://www-origin.integration.publishing.service.gov.uk/education/inspection-and-performance-of-schools"}},{"@type":"ListItem","position":5,"item":{"name":"Pupil performance in schools","@id":"https://www-origin.integration.publishing.service.gov.uk/education/pupil-performance-in-schools"}}]}
 </script>
