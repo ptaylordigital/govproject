@@ -350,8 +350,7 @@
               </li>
           </ul>
       </li>
-      <li class="gem-c-document-list__item">
-          <h3 class="gem-c-document-list__item-title">
+      <li class="gem-c-document-list__item">          <h3 class="gem-c-document-list__item-title">
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="2.2" data-track-label="/government/publications/ready-reckoners-for-key-stage-2-2017" data-track-options='{"dimension28":"2","dimension29":"Ready reckoners and transition matrices for key stage 2: 2017"}' class="gem-c-document-list__item-title  " href="/government/publications/ready-reckoners-for-key-stage-2-2017">Ready reckoners and transition matrices for key stage 2: 2017</a>
           </h3>
 
@@ -375,7 +374,7 @@
     
 <div class="gem-c-govspeak govuk-govspeak direction-ltr">
       <div class="govspeak">
-<p>he guidance will help you understand the measures we use to assess school performance, the subjects included in the English Baccalaureate and the points awarded for qualifications. The ready reckoners will help you to calculate your performance measure scores.</p>
+<p>The guidance will help you understand the measures we use to assess school performance, the subjects included in the English Baccalaureate and the points awarded for qualifications. The ready reckoners will help you to calculate your performance measure scores.</p>
 </div>
 </div>
 
