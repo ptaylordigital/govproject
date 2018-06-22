@@ -506,24 +506,6 @@
       </li>
       <li class="gem-c-document-list__item">
           <h3 class="gem-c-document-list__item-title">
-        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/16-to-18-level-3-value-added-ready-reckoner" data-track-options='{"dimension28":"4","dimension29":"Ready reckoner and transition matrices for 16 to 18: 2017"}' class="gem-c-document-list__item-title  " href="/government/publications/16-to-18-level-3-value-added-ready-reckoner">Ready reckoner and transition matrices for 16 to 18: 2017</a>
-          </h3>
-
-
-
-          <ul>
-              <li class="gem-c-document-list__attribute">
-                  <time datetime="2018-02-02T09:30:14+00:00">
-                     2 February 2018
-                  </time>
-              </li>
-              <li class="gem-c-document-list__attribute">
-                  Guidance
-              </li>
-          </ul>
-      </li>
-      <li class="gem-c-document-list__item">
-          <h3 class="gem-c-document-list__item-title">
         <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.4" data-track-label="/government/publications/16-to-18-english-and-maths-progress-measure-qualifications" data-track-options='{"dimension28":"4","dimension29":"16 to 18 English and maths progress measure qualifications"}' class="gem-c-document-list__item-title  " href="/government/publications/16-to-18-english-and-maths-progress-measure-qualifications">16 to 18 English and maths progress measure qualifications</a>
           </h3>
 
@@ -540,7 +522,25 @@
               </li>
           </ul>
       </li>
-  </ol>
+      <li class="gem-c-document-list__item">
+          <h3 class="gem-c-document-list__item-title">
+        <a data-track-category="navDocumentCollectionLinkClicked" data-track-action="4.3" data-track-label="/government/publications/16-to-18-level-3-value-added-ready-reckoner" data-track-options='{"dimension28":"4","dimension29":"Ready reckoner and transition matrices for 16 to 18: 2017"}' class="gem-c-document-list__item-title  " href="/government/publications/16-to-18-level-3-value-added-ready-reckoner">Ready reckoner and transition matrices for 16 to 18: 2017</a>
+          </h3>
+
+
+
+          <ul>
+              <li class="gem-c-document-list__attribute">
+                  <time datetime="2018-02-02T09:30:14+00:00">
+                     2 February 2018
+                  </time>
+              </li>
+              <li class="gem-c-document-list__attribute">
+                  Guidance
+              </li>
+          </ul>
+      </li>
+    </ol>
 
   </div>
 
