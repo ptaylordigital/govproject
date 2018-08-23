@@ -1,0 +1,1119 @@
+	<!DOCTYPE html>
+	<!--[if lt IE 9]><html class="lte-ie8" lang="en"><![endif]--><!--[if gt IE 8]><!--><html lang="en">
+	<!--<![endif]-->
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta property="og:description" content="">
+	<meta property="og:title" content="16 to 18 school performance tables: data checking guidance">
+	<meta property="og:url" content="https://www.gov.uk/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance/16-to-18-school-performance-tables-data-checking-guidance">
+	<meta property="og:type" content="article">
+	<meta property="og:site_name" content="GOV.UK">
+	<meta name="twitter:card" content="summary">
+	<meta name="govuk:analytics:organisations" content="&lt;D6&gt;">
+	<meta name="govuk:content-id" content="d27389c5-e2f8-4cec-8905-1e278b1e4a2e">
+	<meta name="govuk:navigation-document-type" content="other">
+	<meta name="govuk:user-journey-stage" content="thing">
+	<meta name="govuk:schema-name" content="html_publication">
+	<meta name="govuk:publishing-application" content="whitehall">
+	<meta name="govuk:format" content="html_publication">
+	<meta name="csrf-token" content="EMBy/XoK2ChiLK2YFerwZ5phbzT4h5SnfQPGwDl3NBSd2tspUvMaDTTEwQiz7BJyDnhEv3aRFfFgDHIbJaHQdw==">
+	<meta name="csrf-param" content="authenticity_token">
+	<meta charset="utf-8">
+	<title lang="en">
+	16 to 18 school performance tables: data checking guidance - GOV.UK
+	</title>
+	
+	<!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-c0b8ba8b1652aacad298d74f24752260187f538b50c40c2484f7f333cbc3cf2b.css" crossorigin="anonymous" integrity="sha256-wLi6ixZSqsrSmNdPJHUiYBh/U4tQxAwkhPfzM8vDzys=">
+	<!--<![endif]-->
+	<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-ie6-2c1bb089ee71d4d70a08ba94e4b363a99542c8feddf3aa979bc4f8962aed5e02.css" /><![endif]-->
+	<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-ie7-062e553ef49a9f884a3a1f885c8a18e829b6557046b075e1384f6092a60151d1.css" /><![endif]-->
+	<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/govuk-template-ie8-11027733d1abeac34c7bf14e37fea30366ad3a87cfd7f7a084de3a3b4b838412.css" /><![endif]-->
+	<link rel="stylesheet" media="print" href="https://assets.publishing.service.gov.uk/static/govuk-template-print-1076519521c2fffbbf75ab3b0d3b32ee2d96ac7e9778f1cdfac1771eefd1a1c0.css" crossorigin="anonymous" integrity="sha256-EHZRlSHC//u/das7DTsy7i2WrH6XePHN+sF3Hu/RocA=">
+	
+	<link rel="stylesheet" media="all" href="https://assets.publishing.service.gov.uk/static/fonts-e9ec5a5f82e5c2a17927ce356e5a054cb28025ec1547ec5d00f5c98d2ec5e481.css" crossorigin="anonymous" integrity="sha256-6exaX4LlwqF5J841bloFTLKAJewVR+xdAPXJjS7F5IE=">
+	<!--[if lt IE 9]><script src="https://assets.publishing.service.gov.uk/static/ie-a4524544a53d57a7e259b4bb966b9c32557c98c920b77e52d09304642b68401a.js" crossorigin="anonymous" integrity="sha256-pFJFRKU9V6fiWbS7lmucMlV8mMkgt35S0JMEZCtoQBo="></script><![endif]-->
+	
+	<link rel="shortcut icon" href="https://assets.publishing.service.gov.uk/static/favicon-8d811b8c3badbc0b0e2f6e25d3660a96cc0cca7993e6f32e98785f205fc40907.ico" type="image/x-icon">
+	<link rel="mask-icon" href="https://assets.publishing.service.gov.uk/static/gov.uk_logotype_crown-de738c3fcce8ce2a91b67e89787090dc24a5cda0275ab6b75f6226c5b9619d3d.svg" color="#0b0c0c">
+	<link rel="apple-touch-icon" sizes="180x180" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-180x180-ea1cbb1cbbeddfff275dfa6e8e46b84cd530892df79dc4882a8f99b802b49a90.png">
+
+	<link rel="apple-touch-icon" sizes="167x167" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-167x167-181e404a50c572923285fb83f0fbd78da6b4e38e3ce52f8e6b8e29da8586450a.png">
+
+	<link rel="apple-touch-icon" sizes="152x152" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-152x152-02457fcdcee8d309276305af2233d41bfb8fd055e855727d355e61bce7ffa9bb.png">
+
+	<link rel="apple-touch-icon" href="https://assets.publishing.service.gov.uk/static/apple-touch-icon-a318f305290c523aed80082456175b46c95350c0eeac93f42e78a71c7a55544e.png">
+
+	
+	<meta name="theme-color" content="#0b0c0c">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/core-layout-5c3d985d43c06c7c5efa157f99dcc22b3b62fcc9944669d4237fc2b78793baf2.css" crossorigin="anonymous" integrity="sha256-XD2YXUPAbHxe+hV/mdzCKzti/MmURmnUI3/Ct4eTuvI=">
+	<!--<![endif]-->
+	<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/core-layout-ie6-eedd25aaef3dadbb4e173b879f7585bb6a7caa3045b715d98efb33d90b25cf76.css" /><script>var ieVersion = 6;</script><![endif]-->
+	<!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/core-layout-ie7-e77ac1463efb750c324309de3d592a240e60b8fbaa7e258f332182244407ffa4.css" /><script>var ieVersion = 7;</script><![endif]-->
+	<!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/static/core-layout-ie8-29ec3d53129f0657e59d7dc2fc9f67e0219c721c4155f09bdeacc21bc3b3c94b.css" /><script>var ieVersion = 8;</script><![endif]-->
+	
+	<link rel="stylesheet" media="print" href="https://assets.publishing.service.gov.uk/static/core-layout-print-9a2de3ce1590c8ca478a6f7edf5a2e4bad0c6291b1dd4a6e7ca85f653d9591b4.css" crossorigin="anonymous" integrity="sha256-mi3jzhWQyMpHim9+31ouS60MYpGx3UpufKhfZT2VkbQ=">
+	
+	
+	
+	<meta property="og:image" content="https://assets.publishing.service.gov.uk/static/opengraph-image-a1f7d89ffd0782738b1aeb0da37842d8bd0addbd724b8e58c3edbc7287cc11de.png">
+	<!--[if gt IE 8]><!--><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-c8ac330b42721565d7a81d7437863bbfeb023ee54de718ea13a0bb01cf62a5fd.css" crossorigin="anonymous" integrity="sha256-yKwzC0JyFWXXqB10N4Y7v+sCPuVN5xjqE6C7Ac9ipf0=">
+	<!--<![endif]--><link rel="stylesheet" media="print" href="https://assets.publishing.service.gov.uk/government-frontend/print-a9af06f0e0ff57a3916f6700715b87afc2f8c596fc6b03aa7b8ef4cbb8bdbb58.css" crossorigin="anonymous" integrity="sha256-qa8G8OD/V6ORb2cAcVuHr8L4xZb8awOqe470y7i9u1g=">
+	<link rel="canonical" href="https://www.gov.uk/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance/16-to-18-school-performance-tables-data-checking-guidance">
+
+	<!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-ie6-a7103320620a6aaf4edfbd3ab78cef5963a039cd62df6ea8f0a95195ef326984.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-ie7-da9ecd40310377a74859668693efa69d444a3d5fd5d5ef545e9738a1c1bd36d5.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-ie8-fab01ec8fc5a9ad63025f261889a34f02cf64aa3cb6531150e40befb8c4ca943.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
+	</head>
+	
+	<body class="draft">
+	<script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
+	
+	
+	
+	<div id="skiplink-container">
+	<div>
+	<a href="#content" class="skiplink">Skip to main content</a>
+
+	</div>
+	</div>
+	
+	<div id="global-cookie-message">
+	<p>GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a></p>
+
+	</div>
+	
+	<header role="banner" id="global-header" class="">
+	<div class="header-wrapper">
+	<div class="header-global">
+	<div class="header-logo">
+	<a href="https://www.gov.uk" title="Go to the GOV.UK homepage" id="logo" class="content">
+	<img src="https://assets.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> This is not GOV.UK
+	</a>
+	</div>
+	<a href="#search" class="search-toggle js-header-toggle">Search</a>
+
+	
+	<form id="search" class="site-search" action="/search" method="get" role="search">
+	<div class="content">
+	<label for="site-search-text">Search</label>
+	<input type="search" name="q" id="site-search-text" title="Search" class="js-search-focus">
+	<input class="submit" type="submit" value="Search">
+	</div>
+	</form>
+	
+	</div>
+	
+	</div>
+	</header>
+	
+	<div id="user-satisfaction-survey-container"></div>
+	
+	
+	<div id="global-header-bar"></div>
+	
+	<div id="wrapper" class="direction-ltr">
+	
+	
+	
+	<div class="gem-c-contextual-breadcrumbs">
+	<!-- Rendering parent-based breadcrumbs because no browse, no related links, no live taxons -->
+	
+	
+	
+	<div class="gem-c-breadcrumbs " data-module="track-click">
+	<ol>
+	
+	<li class="gem-c-breadcrumbs__item ">
+	<a data-track-category="breadcrumbClicked" data-track-action="1" data-track-label="/" data-track-options='{"dimension28":"2","dimension29":"Home"}' class="" aria-current="false" href="/">Home</a>
+
+	</li>
+	
+	<li class="gem-c-breadcrumbs__item ">
+	<a data-track-category="breadcrumbClicked" data-track-action="2" data-track-label="/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance" data-track-options='{"dimension28":"2","dimension29":"16 to 18 school and college performance tables: data checking guidance"}' class="" aria-current="false" href="/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance">16 to 18 school and college performance tables: data checking guidance</a>
+	</li>
+	</ol>
+	</div>
+	
+	</div>
+	
+	
+	<main role="main" id="content" class="html-publication" lang="en">
+	
+	
+	<div class="publication-external">
+	<ol class="organisation-logos">
+	<li class="organisation-logo">
+	<div class="gem-c-organisation-logo brand--department-for-education">
+	<a class="gem-c-organisation-logo__container gem-c-organisation-logo__link gem-c-organisation-logo__crest gem-c-organisation-logo__crest--single-identity brand__border-color" href="/government/organisations/department-for-education">
+
+	<span class="gem-c-organisation-logo__name">Department <br>for Education</span>
+	</a>
+	</div>
+	
+	</li>
+	</ol>
+	</div>
+	
+	<header class="gem-c-inverse-header gem-c-inverse-header--padding-top ">
+	
+	<div class="gem-c-title
+	gem-c-title--inverse
+	">
+	<p class="gem-c-title__context">
+	Guidance
+	</p>
+	<h1 class="gem-c-title__text ">
+	16 to 18 school performance tables: data checking guidance
+	</h1>
+	</div>
+	
+	<p class="publication-header__last-changed">Published 23 August 2018</p>
+	
+	</header>
+	
+	
+	
+	<div class="grid-row sidebar-with-body" data-module="sticky-element-container" id="contents">
+	<div class="column-quarter-desktop-only">
+	<nav role="navigation" class="gem-c-contents-list gem-c-contents-list--no-underline " data-module="track-click">
+	<h2 class="gem-c-contents-list__title">Contents</h2>
+	
+	<ol class="gem-c-contents-list__list">
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 1" data-track-label="#introduction" data-track-options='{"dimension29":"Introduction"}' href="#introduction">Introduction</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 2" data-track-label="#deadlines-change-each-year" data-track-options='{"dimension29":"Deadlines (change each year)"}' href="#deadlines-change-each-year">Deadlines (change each year)</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 3" data-track-label="#helpline" data-track-options='{"dimension29":"Helpline"}' href="#helpline">Helpline</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 4" data-track-label="#check-your-organisations-details" data-track-options='{"dimension29":"Check your organisation’s details"}' href="#check-your-organisations-details">Check your organisation’s details</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 5" data-track-label="#check-your-students-details" data-track-options='{"dimension29":"Check your student’s details"}' href="#check-your-students-details">Check your student’s details</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 6" data-track-label="#check-your-qualifications" data-track-options='{"dimension29":"Check your qualifications"}' href="#check-your-qualifications">Check your qualifications</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 7" data-track-label="#the-evidence-you-need-to-correct-results" data-track-options='{"dimension29":"The evidence you need to correct results"}' href="#the-evidence-you-need-to-correct-results">The evidence you need to correct results</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 8" data-track-label="#confirm-that-the-information-is-correct" data-track-options='{"dimension29":"Confirm that the information is correct"}' href="#confirm-that-the-information-is-correct">Confirm that the information is correct</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 9" data-track-label="#types-of-school-or-college" data-track-options='{"dimension29":"Types of school or college"}' href="#types-of-school-or-college">Types of school or college</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 10" data-track-label="#how-we-report-students" data-track-options='{"dimension29":"How we report students"}' href="#how-we-report-students">How we report students</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 11" data-track-label="#performance-measures-calculations" data-track-options='{"dimension29":"Performance measures calculations"}' href="#performance-measures-calculations">Performance measures calculations</a>
+
+	</li>
+	<li class="gem-c-contents-list__list-item gem-c-contents-list__list-item--numbered ">
+	<a class="gem-c-contents-list__link " data-track-category="contentsClicked" data-track-action="content_item 12" data-track-label="#contact" data-track-options='{"dimension29":"Contact"}' href="#contact">Contact</a>
+
+	</li>
+	</ol>
+	</nav>
+	
+	</div>
+	
+	<div class="print-wrapper">
+	<div class="print-meta-data">
+	<p>
+	<img class="print-meta-data-licence" src="https://assets.publishing.service.gov.uk/government-frontend/open-government-licence-min-e98134ae65ff5fe99a524d8c383350b3998f91c298dc24b36126e65f1656c578.png">
+
+	</p>
+	<p>
+	© Crown copyright 2018
+	</p>
+	<p>
+	This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3">nationalarchives.gov.uk/doc/open-government-licence/version/3</a> or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: <a href="mailto:psi@nationalarchives.gsi.gov.uk">psi@nationalarchives.gsi.gov.uk</a>.
+
+	</p>
+	<p>
+	Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+	</p>
+	<p>
+	This publication is available at https://draft-origin.publishing.service.gov.uk/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance/16-to-18-school-performance-tables-data-checking-guidance
+	</p>
+	
+	
+	
+	</div>
+	</div>
+	
+	<div class="column-three-quarters-desktop-only ">
+	<div class="gem-c-govspeak-html-publication">
+	
+	<div class="gem-c-govspeak govuk-govspeak direction-ltr">
+	<div class="govspeak">
+	<h2 id="introduction">Introduction</h2>
+	
+	<p>You will receive a letter in September 2018 containing your user name then a separate letter with your password. You will need to log on to the <a rel="external" href="https://tableschecking.education.gov.uk/">Performance tables checking</a> website to complete your checks.</p>
+	
+	<p>You need to:</p>
+	
+	<ul>
+	<li>check school or college background details</li>
+	<li>check school or college performance tables summary data</li>
+	<li>check student details</li>
+	<li>check results data</li>
+	<li>confirm you have checked the data</li>
+	</ul>
+	
+	<p>These checks are important to ensure the accuracy of your data in the performance tables.</p>
+	
+	<p>You must check and amend your data by the checking exercise deadlines.</p>
+	
+	<h2 id="deadlines-change-each-year">Deadlines (change each year)</h2>
+	
+	<p>Schools must complete their checking exercise by 5pm on 11 October 2018.
+	Further Education colleges must do it by 5pm on 18 October 2018.</p>
+	
+	<h2 id="helpline">Helpline</h2>
+	
+	<div class="contact " id="contact_3584">
+	<div class="content">
+	<h4>School performance tables helpline</h4>
+	
+	<div class="vcard contact-inner">
+	
+	<div class="email-url-number">
+	<p class="email">
+	<span class="type">Email</span>
+	<a class="email" href="mailto:examshelp@rm.com">examshelp@rm.com</a>
+
+	</p>
+	<p class="tel">
+	<span class="type">Telephone</span>
+	0845 307 7867
+	</p>
+	</div>
+	
+	
+	</div>
+	</div>
+	</div>
+	
+	<h2 id="check-your-organisations-details">Check your organisation’s details</h2>
+	
+	<p>The background information we publish such as address, age range, headteacher or principal’s name comes from the system Get information about schools (GIAS). You should also check GIAS, if there has been any recent changes, for example, headteacher name change or a sixth form has been closed or opened. The information should reflect your statutory position.</p>
+	
+	<p>If any of the information we hold on your school or college is incorrect, you should update the information by signing into your <a rel="external" href="https://sa.education.gov.uk/idp/Authn/UserPassword">Secure Access account</a>.</p>
+	
+	<p>You can find contact details for logging in to Secure Access on the Service Request link on the website.</p>
+	
+	<p>Updates to this system will appear in the published tables. It may take up to 5 working days for updates to appear in the tables.</p>
+	
+	<h2 id="check-your-students-details">Check your student’s details</h2>
+	
+	<p>You will need to log on to the <a rel="external" href="https://tableschecking.education.gov.uk/">Performance tables checking website</a> to complete your checking exercise.</p>
+	
+	<p>You will need to check the 16 to 18 year old students listed are correct.</p>
+	
+	<p>You can view the students on the website’s cohort student page by selecting the Pupils page if you are a school or the Students page if you are a further education sector college.</p>
+	
+	<p>To download the list of students and their results in a spreadsheet go to the Guidance/Documents section. It will be in the Data Files labelled student level performance data and results level performance data. You can print the list of students and their results and check the data manually. Printing instructions are in the Guidance/Documents page of the website.</p>
+	
+	<p>The help text on the right of the website page explains how to make changes.</p>
+	
+	<h3 id="correct-a-students-personal-details">Correct a student’s personal details</h3>
+	
+	<p>You need to make sure those details like date of birth, along with qualifications and results are correct.</p>
+	
+	<h3 id="add-missing-16-to-18-students">Add missing 16 to 18 students</h3>
+	
+	<p>Do not add students if they</p>
+	
+	<ul>
+	<li>are not at the end of their studies in the 2017 to 2018 reporting year</li>
+	<li>have previously been reported in 16 to 18 performance tables for your school or college</li>
+	<li>left your school or college (for example a year 12 student) and are continuing their level 3 or level 2 studies at another school or college or you do not know if they are continuing their studies</li>
+	<li>have a main registration elsewhere for the academic year you want to add them (2015 to 2016, 2016 to 2017 or 2017 to 2018)</li>
+	</ul>
+	
+	<p>We might reject your request to add a student if they are assigned to another school. 
+	This can happen when a student has registered with another school or college during the academic year.</p>
+	
+	<p>A student allocated to you may not visible on the list you list because our record indicate they are not at the end of their studies. You should only add them if they are at the end of their 16 to 18 studies. You may need to add missing results.</p>
+	
+	<p>Prior attainment and disadvantage status for 16 to 18 year olds is available in the CSV data files for schools and colleges. As these data items are already available in our database from when a student was at the end of key stage 4, there is no facility to change this on the website. If you are adding a new student, you only need to add in their attainment from post-16 studies and provide the year in which the student was at the end of key stage 4. We will add their key stage 4 prior attainment and disadvantage status from our database where this is available. Where this information is not available, the student will not be included in the level 3 value added measures or reported in the disadvantaged/non disadvantaged measures.</p>
+	
+	<h3 id="defer-16-to-18-students-continuing-their-studies">Defer 16 to 18 students continuing their studies</h3>
+	
+	<p>You can only defer students allocated to you for the 2017 to 2018 academic year.</p>
+	
+	<p>You cannot defer students who turn 18 before 31 August 2017.</p>
+	
+	<p>You should defer Students aged 16 or 17, who are continuing their study, and report their results next year or by their 18th birthday.</p>
+	
+	<p>Make sure you defer any students that have no results to report, if they are continuing their studies. If you do not defer these students, we will include them in the completion and attainment measure or retention measure. You may need to confirm that the student is continuing their studies.</p>
+	
+	<p>We will identify students without attainment but recorded with a learning aim on ILR or the school census as Student not included in performance measures for level 3, level 2 vocational and/or English and mathematics.</p>
+	
+	<p>You should defer students that have no results (level 3, level 2 vocational or below level 3 English and mathematics results) if they were aged 16 or 17 at the start of the 2017 to 2018 academic year and are continuing with their studies. They may still be in scope for the retention measure, and the completion and attainment measure that we publish in performance tables in March 2019. This is because these measures use learning aims data from the school census and the ILR.</p>
+	
+	<h3 id="remove-students-not-on-roll">Remove students not on roll</h3>
+	
+	<p>These can be:</p>
+	
+	<ul>
+	<li>external candidates (ie not on the roll of your school or college)</li>
+	<li>international students (fee paying foreign nationals)</li>
+	<li>apprentices not recorded on the school census or ILR, who have no Education and Skills Funding Agency funded learning aim</li>
+	</ul>
+	
+	<p>You can also remove apprentices on your ILR or school census from the English and mathematics progress measures only.</p>
+	
+	<p>We will consider your request to remove the student from the measure, if we have a matching record that indicates the student is an apprentice.</p>
+	
+	<h3 id="report-a-student-listed-twice">Report a student listed twice</h3>
+	
+	<p>Where a student has attended multiple schools or colleges, we will only accept changes to a student’s personal details, such as their date of birth, when all relevant school s or colleges report this to us. This is to avoid inconsistencies arising in a student’s personal details.</p>
+	
+	<p>To report a student listed twice or results assigned to the wrong student you should <a href="examshelp@rm.com">email the helpline</a>.</p>
+
+	
+	<p>You will need to provide the:</p>
+	
+	<ul>
+	<li>forvus index number</li>
+	<li>ULN</li>
+	<li>results affected</li>
+	</ul>
+	
+	<h2 id="check-your-qualifications">Check your qualifications</h2>
+	
+	<h3 id="add-missing-post-16-results">Add missing post-16 results</h3>
+	
+	<p>These should be approved qualifications reported in 16 to 18 performance tables:</p>
+	
+	<ul>
+	<li>level 3 academic, applied general and tech level qualifications</li>
+	<li>level 2 vocational qualifications at least the size of 2 GCSEs</li>
+	<li>English and mathematics qualifications (entry level, level 1 and level 2)</li>
+	</ul>
+	
+	<p>Please submit the relevant evidence.</p>
+	
+	<h3 id="remove-or-amend-results">Remove or amend results</h3>
+	
+	<p>You should:</p>
+	
+	<ul>
+	<li>amend any results following appeals or re-marks from awarding organisations</li>
+	<li>withdraw any level 2 results attained at key stage 4 but awarded late – these may be listed as post-16 attainment where they were awarded between October 2017 and January 2018</li>
+	</ul>
+	
+	<p>Please submit the requested evidence. If we have the result flagged as likely to be a late result, no evidence is required to withdraw late key stage 4 results reported as part of post-16 achievement.</p>
+	
+	<p>You cannot remove post-16 results achieved elsewhere (private entries) for a student registered on roll.</p>
+	
+	<h2 id="the-evidence-you-need-to-correct-results">The evidence you need to correct results</h2>
+	
+	<p>We cannot accept your request if evidence is not received. The online instructions will indicate whether you should send us evidence. You can only submit evidence to remove a student online.</p>
+	
+	<h3 id="qualification-evidence">Qualification evidence</h3>
+	
+	<p>We can only accept qualification evidence where:</p>
+	
+	<ul>
+	<li>it has been obtained from the awarding organisation, internal school or college records will not be accepted</li>
+	<li>the actual grade achieved for the full award is shown and not the unit marks or unit grades</li>
+	</ul>
+	
+	<p>Where the school or college does not hold such evidence, you should obtained it from the awarding organisation.</p>
+	
+	<p>Acceptable evidence is a photocopy of one of the following:</p>
+	
+	<ul>
+	<li>provisional examination results or vocational award slip</li>
+	<li>examination or vocational award certificate</li>
+	<li>written confirmation from examining board or awarding organisation of revised grade or withdrawal</li>
+	<li>evidence of transmission of a withdrawal request if no confirmation available</li>
+	</ul>
+	
+	<p>Removal of late key stage 4 vocational results included as post-16 attainment does not require evidence from the awarding organisation.</p>
+	
+	<p>Common reasons for not being able to accept evidence are:</p>
+	
+	<ul>
+	<li>where the qualification number, syllabus or qualification codes are incorrectly quoted or are missing</li>
+	<li>where a school or college attempts to add units of qualifications and not the full award</li>
+	<li>where the level 3 qualification or level 2 vocational qualification is not on the approved 2018 list to be reported in 2018 performance tables for 16 to 18 year olds</li>
+	<li>where the English and mathematics (entry level, level 1, 2 or 3) qualifications for 16 to 18 year olds are not on the approved Education and Skills Funding Agency (ESFA) list of qualifications</li>
+	<li>where a school or college attempts to add a student who has level 3 qualifications of insufficient size, for example less than 0.5 of an A level</li>
+	<li>where a student does not have sufficient size level 2 vocational qualification, for example less than the size of 2 GCSEs</li>
+	<li>where a school or college attempts to remove a private candidate’s results</li>
+	</ul>
+	
+	<h3 id="student-removal-evidence">Student removal evidence</h3>
+	
+	<p>As a general rule, a student must be reported if they are at the end of their studies and on roll. This includes those on roll anytime in the last 3 years and not previously reported, where your school or college are identified as the main school or college. Therefore, requests to remove students with special educational needs and disability (SEND), or non-attenders (for example school refusers) or excluded students will not be accepted. We also cannot remove a student that was previously on roll because they are no longer on roll or have left your school or college.</p>
+	
+	<p>If you have other valid reasons to remove a student, please submit your request using the Other – with evidence or Other – no evidence required removal categories on the website.</p>
+	
+	<p>You can make the majority of requests using the Other – with evidence option. You should upload a letter from the school, college or third party explaining why a student on roll should be removed. Any requests to remove students that have been allocated to your school or college using your school census return or ILR return, should be made using the Other – with evidence option.</p>
+	
+	<p>Use the Other- evidence not required option in circumstances such as a Year 11 pupil being reported as a sixth form student.</p>
+	
+	<h3 id="common-reasons-for-not-being-able-to-accept-evidence-or-requests-are">Common reasons for not being able to accept evidence or requests are:</h3>
+	
+	<ul>
+	<li>where a school or college attempts to include a student</li>
+	<li>of the wrong age, for example not aged 16 to 18 by 31 August 2017</li>
+	<li>who appears not to be at the end of 16 to 18 study in the academic year 2017 to 2018</li>
+	<li>already reported against their school or college in the previous year’s 16 to 18 performance tables</li>
+	<li>that has been allocated to another school or college (the main school or college) for that attendance year</li>
+	<li>where a school or college attempts to remove a student</li>
+	<li>as they are no longer on roll or left in the last 3 years</li>
+	<li>where a school or college attempts to remove a student as they are dually registered, for example at a hospital school or pupil referral unit</li>
+	<li>as they are a non-attender (non-attendance includes any absence unless for reasons of long term illness)</li>
+	<li>with SEND</li>
+	<li>who suffered short term illness and failed to sit all or some exams</li>
+	<li>where a school or college does not supply electronic evidence in support of their request where required</li>
+	</ul>
+	
+	<h3 id="submitting-evidence">Submitting evidence</h3>
+	
+	<p>You can submit supporting evidence for student removal requests using the secure website. You must also upload supporting documentation, if required. We will not accept documentation submitted by post or by an encrypted email.</p>
+	
+	<p>To assist the decision making process, please ensure your evidence is clear, concise and no longer than 12 pages. We may miss details in your request if it is long and unconcise.</p>
+	
+	<h3 id="supporting-evidence-is-one-or-more-of-the-following">Supporting evidence is one or more of the following:</h3>
+	
+	<ul>
+	<li>written statement on school or college headed paper explaining why a student on your roll should be removed</li>
+	<li>evidence from third party (for example welfare officer, medical professional) explaining how their studies, ability to take exams have been affected and statement on duration of school absence</li>
+	</ul>
+	
+	<h3 id="validation">Validation</h3>
+	
+	<p>We have robust validation processes in place to ensure all decisions made are fair and consistent. More than one independent reviewer considers all student amend requests before giving a final decision. We will not consider any amendments in January during the correction period unless they were not possible in September, for example, schools and colleges received appeals and re-marks outcomes after the checking exercise deadline in October.</p>
+	
+	<p>We will not consider rejected requests re-submitted during the correction period. Our decision is final.</p>
+	
+	<h3 id="providing-evidence-securely">Providing evidence securely</h3>
+	
+	<p>We are data controllers along with schools, colleges and awarding organisations. We all have a legal duty to comply with the Data Protection Act 2018 (DPA) and General Data Protection Regulations (GDPR) from May 25 onwards. Please read the guidance from ICO on GDPR.
+	Please do not send students’ personal details in the body of an email. Use the electronic upload facility to send evidence.</p>
+	
+	<p>If you need to send an email for any other reason, please send a password protected file with the forvus ID, UPN or ULN and send the password separately.</p>
+	
+	<p>If sending hard copy results evidence with personal details, the envelope must show a return address on the rear of the envelope.</p>
+	
+	<p>If you would like further guidance on evidence please call the helpline on 0845 307 7867.</p>
+	
+	<h2 id="confirm-that-the-information-is-correct">Confirm that the information is correct</h2>
+	
+	<p>You should complete the Confirmation link on the tables checking website to confirm that you have checked the data and made amendments where necessary. If you are a special school, you can choose to include your data in the performance tables.</p>
+	
+	<h2 id="types-of-school-or-college">Types of school or college</h2>
+	
+	<h3 id="special-schools">Special schools</h3>
+	
+	<p>Special schools with sixth form students may choose to have their performance measures included in the 16 to 18 performance tables. If you do not opt in, we will not publish your results. However, you still need to check and amend your school’s data, as we use this to calculate national results.</p>
+	
+	<h3 id="academy-conversions">Academy conversions</h3>
+	
+	<p>A school or sixth-form college may change to become an academy during the 2017 to 2018 academic year, or re-open after closing on the same site (for example, it becomes a sponsored academy).</p>
+	
+	<p>In most cases, we treat a converter academy as a continuing school or sixth-form college and a sponsored academy as a new academy. This affects how we report results for these institutions.</p>
+	
+	<p>If a school or sixth-form college becomes an academy before the start of that academic year (ie before 12 September 2017), we’ll publish the results under the new academy name.</p>
+	
+	<p>If a school or sixth-form college becomes an academy on or after 12 September, we’ll publish the results for that academic year under the old institution name and link to the new academy page, which will provide background information only.</p>
+	
+	<p>If a school or college has closed, the local authority will be required to complete the checking exercise. If a college has converted to an academy or merged with another, the new college will be required to complete the checking exercise.</p>
+	
+	<h3 id="sixth-form-centres-and-consortia">Sixth form centres and consortia</h3>
+	
+	<p>If your school or college is part of a consortium, you only need to confirm or amend the results for those students on roll at your school or college, as any amendments you make will automatically be included in the relevant consortium level data.</p>
+	
+	<p>We will include a school and its students in a consortium’s results if it was a feeder school to the consortium during the 2017 to 2018 academic year. For example, a school that joins a consortium in 2017 to 2018 will have all students that attended that school in the last 3 academic years reported against the consortium. If you ceased to be part of a consortium before 2017 to 2018 academic year, your students’ data will not be included in the consortium data.</p>
+	
+	<h3 id="recently-merged-colleges">Recently merged colleges</h3>
+	
+	<p>Where a further education college dissolved during the 2017 to 2018 academic year, we will not publish the results for the closed college. However, where a college merger has taken place and a college remains open, we have shared the closed college’s data with the successor college via the checking website. The successor college that remains open with the same UKPRN number can log onto the website and amend their own data and the data for the other merged colleges for the 2017 to 2018 academic year. From the Home page of the website select Change College to view and check the data for the closed college. Although we will not publish the closed college data, you still need to check and amend the data for the predecessor college, as we will use it to calculate national results.</p>
+	
+	<p>We will publish the successor college results if it was open and in operation at the start of the 2017 to 2018 academic year. The students attributed to the college will be based on the ILR return R10 for 2017 to 2018; ILR R14 for 2016 to 2017 and 2015 to 2016. Therefore, if the merger took place after returning the R10 in 2017 to 2018, we will base the published results on those students on roll at the time of the return. We will publish the successor college results under the name of the college provided in GIAS.</p>
+	
+	<h2 id="how-we-report-students">How we report students</h2>
+	
+	<h3 id="students-included-in-the-checking-exercise">Students included in the checking exercise</h3>
+	
+	<p>This sets out how we compile the data for you to check that is published on the school performance comparison website.</p>
+	
+	<p>We will report on students aged 16, 17 or 18 at the start of the 2017 to 2018 academic year, ie 31 August 2017, and at the end of their 16 to 18 studies. We will allocate student details and results for students enrolled and funded for their main programme of study to your school. This means we may allocate students to multiple schools or colleges, in different years if they have moved during their 16 to 18 studies.</p>
+	
+	<p>We will hold a state-funded school or college accountable for the student and their results if recorded on roll in the spring school census or with a core learning aim on their ILR. We’ve allocated students to schools and colleges for up to 3 years, for example the academic years 2017 to 2018, 2016 to 2017 and 2015 to 2016.</p>
+	
+	<p>We have allocated some students based on the volume of exam data received from awarding organisations. We base this on where the student has taken the exam and may not be where the student was on roll. This usually includes schools and colleges that have not made a school census return to us at student level nor an ILR return, for example independent schools.</p>
+	
+	<p>We only include students that meet the eligibility and entry criteria in the tables.</p>
+	
+	<p>We may still include students that have no results reported in the checking exercise in the retention and completion and attainment measures, where the ILR or school census show that they have a level 3 or level 2 learning aim. Schools and colleges need to check that these students have reached the end of their studies and defer them if they have not.</p>
+	
+	<h3 id="students-eligibility-criteria">Students eligibility criteria</h3>
+	
+	<p>Students are eligible if they:</p>
+	
+	<ul>
+	<li>have entered in the reporting year for at least 2 qualifications, each of which has at least the size of an A level or for at least 1 qualification the size of at least 2 A levels</li>
+	<li>have been allocated to the same school or college for the last 2 years</li>
+	<li>are 18 and have not been reported in the performance tables at their current allocated school or college</li>
+	</ul>
+	
+	<p>You will be able to defer students who meet either of the first 2 criteria above but are continuing their 16 to 18 study as long as they are not yet 18.</p>
+	
+	<p>Students eligible for reporting in 16 to 18 performance tables will also need to meet additional criteria for each performance measure to be included in that measure. For example, to be included in the average point score per entry for A level students, the student must have been entered for at least an AS qualification. To be included in the average point score per entry for level 2 vocational students, the student must have a level 2 vocational qualification that is at least the size of 2 GCSEs.</p>
+	
+	<p>The 16 to 18 technical guide to performance tables’ measures has detailed information on the methodologies for the performance measures and further details on the allocation of students to schools and colleges.</p>
+	
+	<h4 id="students-studying-part-time">Students studying part-time</h4>
+	
+	<p>We will include students studying part-time in 16 to 18 performance tables if they meet the eligibility criteria for inclusion.</p>
+	
+	<h4 id="students-studying-at-more-than-one-institution">Students studying at more than one institution</h4>
+	
+	<p>If a student studied in a school or college then moved to another school or college during the academic year we will include their results in the performance tables entry for the school or college identified as the core school or college. We will identify the core school or college based on where the student was on roll, or if this information is not available, the college or school that entered them for the greater volume of qualifications.</p>
+	
+	<p>We will allocate the student and their results to the school or college identified as the core school or college, if they have attended more than one.</p>
+	
+	<p>If you add a missing student during the checking exercise we will only accept this request if they are not on roll at any other school or college.</p>
+	
+	<h4 id="students-who-left-part-way-through-their-studies">Students who left part way through their studies</h4>
+	
+	<p>If a student was on roll at your school or college but left before completing their studies, the 16 to 18 performance tables will report all their achievements when they are at the end of their studies or reach the academic age of 18. 
+	You cannot remove these students or their results.</p>
+	
+	<h4 id="students-withdrawn-from-exams">Students withdrawn from exams</h4>
+	
+	<p>Where a student has been withdrawn from all exams reported in performance tables, you can remove them from your attainment measures in the 16 to 18 performance tables.</p>
+	
+	<p>However, we calculate the retention measures and completion and attainment measures for state-funded schools and colleges using aims data from the school census and ILR. Therefore, we will still count students withdrawn from exams outside of the funding qualifying period in these performance measures.</p>
+	
+	<p>We will include a fail grade for exam entries that have not been withdrawn by the awarding organisation in the attainment data and Level 3 Value Added measures.</p>
+	
+	<h4 id="apprenticeship-students">Apprenticeship students</h4>
+	
+	<p>We can allocate students to your school or college where awarding organisation data shows that they took exams at your centre. You should remove apprentices from your results, if they are not your on 2017 to 2018, 2016 to 2017 or 2015 to 2016 register, ie they are not on the school census return or ILR return for those years.
+	If you have recorded them on the ILR or school census and have been included in the English and mathematics progress measure, you can submit a request to remove these students from the English and mathematics measure.</p>
+	
+	<h4 id="international-students">International students</h4>
+	
+	<p>A student is an international student if they are from overseas and travelled to England for study. These students pay their own fees and do not receive public funding. They are not included on the roll of the school census or ILR. If you have recorded guess students on your school census, you can remove them from your results.</p>
+	
+	<h4 id="private-entries-and-external-candidates">Private entries and external candidates</h4>
+	
+	<p>Private entries for approved qualifications have been included. You cannot remove students on roll and their results from your figures; even if your school or college does not teach the qualification or the student sat the exam privately.</p>
+	
+	<p>External candidates, ie students who sat one or more examinations at your centre but were not on roll at your school or college, you should them from your results.</p>
+	
+	<h3 id="qualifications-reported">Qualifications reported</h3>
+	
+	<p>The 16 to 18 performance tables report level 3 applied general and tech level qualifications on the approved list of qualifications recognised in 2018 16 to 18 performance tables. We also report all academic qualifications at level 3 approved by the Secretary of State under Section 96 of the Learning and Skills Act 2000.</p>
+	
+	<p>We report on English and mathematics qualifications at entry level, level 1 and level 2 for students that did not achieve a GCSE grade 4 or C or the equivalent in these subjects by the end of key stage 4. We report English and mathematics qualifications that meet the condition of funding for 16 to 18 year olds.</p>
+	
+	<p>For the additional measure, we report level 3 mathematics, qualifications based on students who achieved a good pass in GCSE mathematics (or equivalent) by the end of key stage 4 and who go on to achieve an approved level 3 mathematics qualification.</p>
+	
+	<p>We report level 2 vocational qualifications that are at least the size of 2 GCSEs (minimum 145 guided learning hours) and approved under section 96 of the Learning and Skills Act 2000 for 16 to 18 year olds. We also report approved tech certificate qualifications, which are a subset of level 2 vocational qualifications.
+	Where a student has taken 2 or more qualifications in the same subject area, we will only give credit to one of the qualification in the performance tables. You can find further details on the discounting rules applied in the 16 to 18 discounting guidance.</p>
+	
+	<h4 id="reporting-fails">Reporting fails</h4>
+	
+	<p>Only grades U and F count as failing and attract zero point in the performance measures.
+	Grade Q (pending) is given zero points until we receive an update from the school or college. This means that the provisional data used in the checking exercise will treat Q as a fail. As soon as we receive the updates, we will amend the grade.</p>
+	
+	<p>Where a student has failed an A level we will include an AS pass grade in the same subject, where one exists. We will count the points for the AS but use the A level “size” (ie one rather than half) in the calculation of the average point score per A level and academic entry.</p>
+	
+	<h4 id="grade-x">Grade X</h4>
+	
+	<p>We do not count grade X (no result) in the performance measures. In the vast majority of cases grade X means a student has not yet completed all the required units or left the course and should have been withdrawn.</p>
+	
+	<h4 id="resits">Resits</h4>
+	
+	<p>We will only report a student once they are at the end of 16 to 18 study in the 16 to 18 tables. Therefore, before including a student in the data for the 2018 16 to 18 tables, you should ensure that they are at the end of their studies.</p>
+	
+	<p>Do not include students doing resits in the 2018 data if they you recorded them in the 2017 data. 
+	You should add all English and mathematics resits, below level 3, attained by post-16 students who did not achieve at least a GCSE grade 4 or C at the end of key stage 4.</p>
+	
+	<h3 id="examples-of-results-and-students-reported">Examples of results and students reported</h3>
+	
+	<p>Examples of some common scenarios and how we have reported results against a school or college. To ensure that you submit valid requests that meet performance tables’ policy, please consider these scenarios before requesting a change.</p>
+	
+	<h4 id="scenario-1">Scenario 1</h4>
+	
+	<p>A student is taking an academic pathway but moves school or college between AS and A levels. On completing 16-18 study in year, 13 outcomes are reported:</p>
+	
+	<p>Year 12 – Main school or college A: 4 AS levels</p>
+	
+	<p>Year 13 – Main school or college B: 3 A levels (in same subject as 3 AS levels)</p>
+	
+	<p>AS level achievement reported against school or college A and A level achievement reported against school or college B.</p>
+	
+	<p>If we hold information to show the student is studying elsewhere they will not appear in school or college A’s data to check until that further study is completed or until the student is aged 18 which may be 1 to 3 years after they leave school or college A.</p>
+	
+	<h4 id="scenario-2">Scenario 2</h4>
+	
+	<p>A student starts on an academic pathway but moves to another academic pathway and changes school or college. On completing 16 to 18 study in year 14 or by age 18 outcomes are reported:</p>
+	
+	<p>Year 12 – Main school or college A: 3 AS levels</p>
+	
+	<p>Year 13 and 14 – Main school or college B: AS levels (year 13) and A levels (year 14)</p>
+	
+	<p>AS level (year 12) achievement reported against school or college A and AS and A level achievement reported against school or college B, subject to discounting.</p>
+	
+	<h4 id="scenario-3">Scenario 3</h4>
+	
+	<p>A student starts on an academic pathway but moves to a vocational pathway and changes school or college. On completing 16-18 study in year 14 or by age 18 outcomes are reported:</p>
+	
+	<p>Year 12 – Main school or college A: 3 AS levels</p>
+	
+	<p>Year 13 and 14 – Main school or college B: 2 Applied General Qualifications (AGQs)</p>
+	
+	<p>AS level achievement reported against school or college A and applied general achievement reported against school or college B.</p>
+	
+	<p>The student will be included in the performance tables checking exercise at the end of the 2nd year (Year 13) for school or college A and B. School or college B will have the option to defer the reporting of the student until Year 14 if they are not yet 18 and not yet at the end of their studies. Any deferrals will be applied to the reporting of result for both school or college A and B.</p>
+	
+	<h4 id="scenario-4">Scenario 4</h4>
+	
+	<p>A student starts on an academic pathway but leaves partway through. The student will not appear in school or college A’s data to check until the student is 18 which may be 2 to 3 years later, as they could be enrolled at another school or college for further education. However, if the student has left school or college A and is no longer on roll or continuing studies elsewhere outcomes can be reported in Year 12 by adding in the student and their results during the performance data checking exercise. This should only be done where the student pursues alternative activity to further education, for example employment, apprenticeship or training, etc and is not 
+	studying elsewhere following Year 12 study.</p>
+	
+	<p>Year 12 – Main school or college A: 4 AS levels</p>
+	
+	<p>AS level achievement reported against school or college A.</p>
+	
+	<h4 id="scenario-5">Scenario 5</h4>
+	
+	<p>A student is studying with 2 different schools or colleges in the same academic year. A main school or college is selected using DfE allocation rules – see 16 to 18 Accountability Technical guide. All of their results are attributed to a single main school or college, including any results studied elsewhere. This may mean qualifications not offered by the main school or college are reported against them.</p>
+	
+	<p>Year 13 – school or college A: 2 Applied General Qualifications (AGQs)</p>
+	
+	<p>Year 13 – Main school or college B: 1 A level</p>
+	
+	<p>Applied general achievement reported against school or college B and 1 A level achievement reported against school or college B.</p>
+	
+	<p>The student will be included against school or college A and B for the retention measures based on the core aim at each school or college</p>
+	
+	<h2 id="performance-measures-calculations">Performance measures calculations</h2>
+	
+	<p>This section provides additional information on how we calculate the performance measures.</p>
+	
+	<h3 id="level-2-measures">Level 2 measures</h3>
+	
+	<p>The 2018 performance tables will include all students taking any ‘vocational’ level 2 qualifications that are at least the size of 2 GCSEs.</p>
+	
+	<h3 id="english-and-mathematics-progress-measure">English and mathematics progress measure</h3>
+	
+	<p>A student is potentially in scope to be reported in the English and mathematics progress measures if they did not achieve at least a grade 4 or C GCSE or equivalent by the end of key stage 4 in these subjects.</p>
+	
+	<p>Full details on student eligibility for the progress measure and further details on which qualifications are equivalent to GCSE and which qualifications taken during post-16 study can be found in the ‘English and mathematics’ section of the <a href="https://www.gov.uk/government/publications/16-to-19-accountability-headline-measures-technical-guide">technical guide</a>.</p>
+
+	
+	<h3 id="level-3-measures">Level 3 measures</h3>
+	
+	<p>We record 16 to 18 students’ results in qualifications at advanced level study are reported in 4 separate performance categories: A level, academic, applied general and tech level. We will report a student in a cohort for a school or college if they have firstly fulfilled the eligibility criteria (set out in the 16 to 18 technical guide) and then have met the respective criteria defined below:</p>
+	
+	<ul>
+	<li>A level cohort: entered for at least an AS qualification</li>
+	<li>academic cohort: entered for at least an AS sized advanced level academic qualification (students with Extended Project qualifications are included in the academic cohort)</li>
+	<li>applied general cohort: entered for at least an AS sized advanced level applied general qualification</li>
+	<li>tech level cohort: entered for at least an AS sized tech level qualification</li>
+	</ul>
+	
+	<p>Where a student has undertaken a mixed programme of study (for example academic and applied general), they will appear in more than one cohort if they meet the relevant criteria.
+	You can look at the list of qualifications that we recognise as academic, applied general and tech level is on the <a href="https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores">compare performance website</a>.</p>
+
+	
+	<p>Academic, applied general and tech level cohorts only include the relevant results. For example, the academic cohort will not include applied general results. It is based on all students at the end of advanced level study that have taken at least an AS2 sized advanced level academic qualification, such as an International Baccalaureate (IB) or Pre-U. This cohort would exclude students who only entered for advanced applied general or tech level qualifications, but could include students who entered a mixed programme of academic and applied general qualifications or tech level qualifications.</p>
+	
+	<h3 id="level-3-measure-a-level-attainment">Level 3 measure: A level attainment</h3>
+	
+	<p>To be included in the A level attainment measures for a school or college, a student must have entered for at least one of the following qualifications in the academic years they have been allocated to that school or college:</p>
+	
+	<table>
+	<thead>
+	<tr>
+	<th>Qualifications</th>
+	<th>Counts in APS measure</th>
+	<th>Counts in best 3 measure</th>
+	<th>Counts in AAB in facilitating subjects measure</th>
+	</tr>
+	</thead>
+	<tbody>
+	<tr>
+	<td>GCE A level</td>
+	<td>Yes</td>
+	<td>Yes (except General Studies and Critical Thinking)</td>
+	<td>Yes (except General Studies and Critical Thinking)</td>
+	</tr>
+	<tr>
+	<td>Applied GCE A level or AS level combined</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>No</td>
+	</tr>
+	<tr>
+	<td>GCE AS level</td>
+	<td>Yes</td>
+	<td>No</td>
+	<td>No</td>
+	</tr>
+	<tr>
+	<td>Applied GCE AS level Double Award</td>
+	<td>Yes</td>
+	<td>No</td>
+	<td>No</td>
+	</tr>
+	<tr>
+	<td>Applied GCE Single Award</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>No</td>
+	</tr>
+	<tr>
+	<td>Applied GCE AS level</td>
+	<td>Yes</td>
+	<td>No</td>
+	<td>No</td>
+	</tr>
+	<tr>
+	<td>Applied GCE Double Award</td>
+	<td>Yes</td>
+	<td>Yes</td>
+	<td>No</td>
+	</tr>
+	</tbody>
+	</table>
+	
+	<h3 id="level-3-measure-best-3-a-levels">Level 3 measure: best 3 A levels</h3>
+	
+	<p>This measure only applies to a subset of the A level cohort:</p>
+	
+	<ul>
+	<li>students who have entered at least one full size A level (see table above)</li>
+	<li>who have entered less than a total of size one in other academic, Applied General and Tech Level qualifications</li>
+	</ul>
+	
+	<p>A best 3 A levels score is calculated for each student by adding together the points in their best 3 A levels, then summing across a school or college, and then dividing by 3 to give a best 3 A levels points per entry, which is expressed as a grade.</p>
+	
+	<h3 id="level-3-measure-students-entered-for-less-than-3-a-levels">Level 3 measure: students entered for less than 3 A levels</h3>
+	
+	<p>For students who have only entered one or two A levels, but have been at a school or college for 2 years and haven’t entered at least size one of other approved qualifications, the points in their one or two A levels are still divided by 3.</p>
+	
+	<h3 id="level-3-measure-students-at-a-school-or-college-for-only-one-year">Level 3 measure: students at a school or college for only one year</h3>
+	
+	<p>Where a student has only been at a school or college for one year, they need to have entered 3 A levels to be included.</p>
+	
+	<h3 id="level-3-measure-aab-of-which-at-least-2-are-in-facilitating-subjects">Level 3 measure: AAB (of which at least 2 are in facilitating subjects)</h3>
+	
+	<p>This measure applies to a similar subset to the best 3 A levels measure, but applied A levels are not included when determining the cohort. A student only needs to be entered for at least 1 A level to be included in this measure.
+	A student achieves this measure if they have at least AAB at A level, of which at least 2 subjects must be facilitating subjects.</p>
+	
+	<h3 id="level-3-measure-mathematics">Level 3 measure: mathematics</h3>
+	
+	<p>A student is in scope to be reported in the level 3 mathematics measure if they achieved at least a GCSE grade 4 or C or equivalent by the end of key stage 4 in mathematics.</p>
+	
+	<h3 id="disadvantage-measures">Disadvantage measures</h3>
+	
+	<p>For the purposes of this measure, the disadvantage classification will follow that used at key stage 4 and cannot be changed. Disadvantaged students are all students who were in receipt of pupil premium when they were in their last year of key stage 4. We will not calculate these measures for independent schools, independent special schools or non-maintained special schools. The measures will not include students whose disadvantage status is not known, for example, because they came from overseas. Non-disadvantaged students are those at independent schools in their last year of key stage 4.</p>
+	
+	<h2 id="contact">Contact</h2>
+	
+	<div class="contact " id="contact_3584">
+	<div class="content">
+	<h4>School performance tables helpline</h4>
+	
+	<div class="vcard contact-inner">
+	
+	<div class="email-url-number">
+	<p class="email">
+	<span class="type">Email</span>
+	<a class="email" href="mailto:examshelp@rm.com">examshelp@rm.com</a>
+
+	</p>
+	<p class="tel">
+	<span class="type">Telephone</span>
+	0845 307 7867
+	</p>
+	</div>
+	
+	
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	</div>
+	
+	</div>
+	
+	<div data-sticky-element class="govuk-sticky-element">
+	<a class="app-c-back-to-top dont-print" href="#contents">
+
+	<svg class="app-c-back-to-top__icon" xmlns="http://www.w3.org/2000/svg" width="13" height="17" viewbox="0 0 13 17">
+	<path fill="currentColor" d="M6.5 0L0 6.5 1.4 8l4-4v12.7h2V4l4.3 4L13 6.4z"></path>
+	</svg>
+	Contents
+	</a>
+	
+	</div>
+	</div>
+	
+	</main>
+	
+	<div class="gem-c-feedback gem-c-feedback--top-margin" data-module="feedback">
+	<div class="gem-c-feedback__prompt gem-c-feedback__js-show js-prompt" tabindex="-1">
+	<div class="js-prompt-questions">
+	<h2 class="gem-c-feedback__prompt-question">Is this page useful?</h2>
+	
+	<a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--useful js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" href="/contact/govuk">
+
+	Yes <span class="visually-hidden">this page is useful</span>
+	</a>
+	<a class="gem-c-feedback__prompt-link js-toggle-form js-page-is-not-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffNoClick" aria-controls="page-is-not-useful" aria-expanded="false" role="button" href="/contact/govuk">
+
+	No <span class="visually-hidden">this page is not useful</span>
+	</a>
+	<a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--wrong js-toggle-form js-something-is-wrong" data-track-category="Onsite Feedback" data-track-action="GOV.UK Open Form" aria-controls="something-is-wrong" aria-expanded="false" role="button" href="/contact/govuk">
+
+	Is there anything wrong with this page?
+	</a> </div>
+	
+	<div class="gem-c-feedback__prompt-success js-prompt-success js-hidden" tabindex="-1">
+	Thank you for your feedback
+	</div>
+	</div>
+	
+	<form action="/contact/govuk/problem_reports" id="something-is-wrong" class="gem-c-feedback__form js-feedback-form js-hidden" data-track-category="Onsite Feedback" data-track-action="GOV.UK Send Form" method="post">
+	<a href="#" class="gem-c-feedback__close gem-c-feedback__js-show js-close-form" data-track-category="Onsite Feedback" data-track-action="GOV.UK Close Form" aria-controls="something-is-wrong" aria-expanded="true" role="button">Close</a>
+	
+	<div class="gem-c-feedback__grid-row">
+	<div class="gem-c-feedback__column-two-thirds">
+	<div class="gem-c-feedback__error-summary gem-c-feedback__js-show js-hidden js-errors" tabindex="-1"></div>
+	
+	<input type="hidden" name="url" value="https://draft-origin.publishing.service.gov.uk/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance/16-to-18-school-performance-tables-data-checking-guidance">
+	<input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36">
+	
+	<h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+	<p id="feedback_explanation" class="gem-c-feedback__form-paragraph">Don’t include personal or financial information like your National Insurance number or credit card details.</p>
+	
+	
+	<div class="govuk-form-group">
+	
+	<label for="input-87a970f7" class="gem-c-label govuk-label ">
+	What were you doing?
+	</label>
+	
+	
+	
+	
+	<input type="text" name="what_doing" id="input-87a970f7" class="gem-c-input govuk-input" aria-describedby="feedback_explanation">
+	</div>
+	
+	
+	<div class="govuk-form-group">
+	
+	<label for="input-e6b35d51" class="gem-c-label govuk-label ">
+	What went wrong?
+	</label>
+	
+	
+	
+	
+	<input type="text" name="what_wrong" id="input-e6b35d51" class="gem-c-input govuk-input">
+	</div>
+	
+	
+	<button class="gem-c-button govuk-button" type="submit">Send</button>
+	
+	
+	</div>
+	</div>
+	</form>
+	
+	<form action="/contact/govuk/email-survey-signup" id="page-is-not-useful" class="gem-c-feedback__form gem-c-feedback__form--email gem-c-feedback__js-show js-feedback-form js-hidden" data-track-category="yesNoFeedbackForm" data-track-action="Send Form" method="post">
+	<a href="#" class="gem-c-feedback__close js-close-form" data-track-category="yesNoFeedbackForm" data-track-action="ffFormClose" aria-controls="page-is-not-useful" aria-expanded="true" role="button">Close</a>
+	
+	<div class="gem-c-feedback__grid-row">
+	<div class="gem-c-feedback__column-two-thirds">
+	<div class="gem-c-feedback__error-summary js-hidden js-errors" tabindex="-1"></div>
+	
+	<input type="hidden" name="url" value="https://draft-origin.publishing.service.gov.uk/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance/16-to-18-school-performance-tables-data-checking-guidance">
+	<input type="hidden" name="user_agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36">
+	
+	<input name="email_survey_signup[survey_id]" type="hidden" value="footer_satisfaction_survey">
+	<input name="email_survey_signup[survey_source]" type="hidden" value="https://draft-origin.publishing.service.gov.uk/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance/16-to-18-school-performance-tables-data-checking-guidance">
+	<input name="email_survey_signup[ga_client_id]" type="hidden" value="1627485790.1515403243">
+	
+	<h3 class="gem-c-feedback__form-heading">Help us improve GOV.UK</h3>
+	<p id="survey_explanation" class="gem-c-feedback__form-paragraph">To help us improve GOV.UK, we’d like to know more about your visit today. We’ll send you a link to a feedback form. It will take only 2 minutes to fill in. Don’t worry we won’t send you spam or share your email address with anyone.</p>
+	
+	
+	<div class="govuk-form-group">
+	
+	<label for="input-e6bdc3a8" class="gem-c-label govuk-label ">
+	Email address
+	</label>
+	
+	
+	
+	
+	<input type="email" name="email_survey_signup[email_address]" id="input-e6bdc3a8" class="gem-c-input govuk-input" aria-describedby="survey_explanation">
+	</div>
+	
+	
+	<button class="gem-c-button govuk-button" type="submit">Send me the survey</button>
+	
+	
+	<a href="https://www.smartsurvey.co.uk/s/gov-uk-banner/?c=/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance/16-to-18-school-performance-tables-data-checking-guidance&amp;gcl=1627485790.1515403243" class="gem-c-feedback__email-link" id="take-survey" target="_blank" rel="noopener noreferrer">Don’t have an email address?</a>
+	</div>
+	</div>
+	</form>
+	
+	</div>
+	
+	</div>
+	
+	
+	<footer class="group js-footer" id="footer" role="contentinfo">
+	
+	<div class="footer-wrapper">
+	<div class="footer-categories">
+	<div class="footer-explore">
+	<h2>Services and information</h2>
+	
+	<ul>
+	<li><a href="/browse/benefits">Benefits</a></li>
+
+	<li><a href="/browse/births-deaths-marriages">Births, deaths, marriages and care</a></li>
+
+	<li><a href="/browse/business">Business and self-employed</a></li>
+
+	<li><a href="/browse/childcare-parenting">Childcare and parenting</a></li>
+
+	<li><a href="/browse/citizenship">Citizenship and living in the UK</a></li>
+
+	<li><a href="/browse/justice">Crime, justice and the law</a></li>
+
+	<li><a href="/browse/disabilities">Disabled people</a></li>
+
+	<li><a href="/browse/driving">Driving and transport</a></li>
+
+	</ul>
+	<ul>
+	<li><a href="/browse/education">Education and learning</a></li>
+
+	<li><a href="/browse/employing-people">Employing people</a></li>
+
+	<li><a href="/browse/environment-countryside">Environment and countryside</a></li>
+
+	<li><a href="/browse/housing-local-services">Housing and local services</a></li>
+
+	<li><a href="/browse/tax">Money and tax</a></li>
+
+	<li><a href="/browse/abroad">Passports, travel and living abroad</a></li>
+
+	<li><a href="/browse/visas-immigration">Visas and immigration</a></li>
+
+	<li><a href="/browse/working">Working, jobs and pensions</a></li>
+
+	</ul>
+	</div>
+	
+	<div class="footer-inside-government">
+	<h2>Departments and policy</h2>
+	
+	<ul>
+	<li><a href="/government/how-government-works">How government works</a></li>
+
+	<li><a href="/government/organisations">Departments</a></li>
+
+	<li><a href="/world">Worldwide</a></li>
+
+	<li><a href="/government/policies">Policies</a></li>
+
+	<li><a href="/government/publications">Publications</a></li>
+
+	<li><a href="/government/announcements">Announcements</a></li>
+
+	</ul>
+	</div>
+	<hr>
+	</div>
+	
+	
+	<div class="footer-meta">
+	<div class="footer-meta-inner">
+	<h2 class="visuallyhidden">Support links</h2>
+	<ul>
+	<li><a href="/help">Help</a></li>
+
+	<li><a href="/help/cookies">Cookies</a></li>
+
+	<li><a href="/contact">Contact</a></li>
+
+	<li><a href="/help/terms-conditions">Terms and conditions</a></li>
+
+	<li><a href="/cymraeg" lang="cy" hreflang="cy">Rhestr o Wasanaethau Cymraeg</a></li>
+
+	<li>Built by the <a href="https://www.gov.uk/government/organisations/government-digital-service">Government Digital Service</a>
+
+	</li>
+	</ul>
+	
+	
+	
+	<div class="open-government-licence">
+	<p class="logo"><a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence</a></p>
+
+	<p>All content is available under the <a href="https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/" rel="license">Open Government Licence v3.0</a>, except where otherwise stated</p>
+	</div>
+	</div>
+	
+	<div class="copyright">
+	<a href="https://www.nationalarchives.gov.uk/information-management/re-using-public-sector-information/uk-government-licensing-framework/crown-copyright/">© Crown copyright</a>
+	</div>
+	</div>
+	</div>
+	</footer>
+	
+	<div id="global-app-error" class="app-error hidden"></div>
+	
+	<script src="https://assets.publishing.service.gov.uk/static/govuk-template-ae4c5d21c0a7cb5bc8926a9f491de4e410244403f66c72997210c281efb92d4f.js" crossorigin="anonymous" integrity="sha256-rkxdIcCny1vIkmqfSR3k5BAkRAP2bHKZchDCge+5LU8="></script>
+	
+	<script src="https://assets.publishing.service.gov.uk/static/libs/jquery/jquery-1.12.4-f0bf7c5c0d22379f9911e96650480bd31caca94340a67034367514ccdfc6a5e0.js" crossorigin="anonymous" integrity="sha256-8L98XA0iN5+ZEelmUEgL0xysqUNApnA0NnUUzN/GpeA="></script>
+	<script src="https://assets.publishing.service.gov.uk/static/header-footer-only-91f5443085ae0bf29cd1defe1bdda34df18e2622d3aacab5ae2987a1f40fe557.js" crossorigin="anonymous" integrity="sha256-kfVEMIWuC/Kc0d7+G92jTfGOJiLTqsq1rimHofQP5Vc="></script>
+	<script src="https://assets.publishing.service.gov.uk/static/surveys-7d07ebebb7b98dc602a919b67a7762b347254c788fd984586b42da986420dfb6.js" crossorigin="anonymous" integrity="sha256-fQfr67e5jcYCqRm2endis0clTHiP2YRYa0LamGQg37Y="></script>
+	
+	
+	
+	<script>if (typeof window.GOVUK === 'undefined') document.body.className = document.body.className.replace('js-enabled', '');</script>
+	<script src="https://assets.publishing.service.gov.uk/government-frontend/application-e040e250e5dc43361ac1373d5f7cfbd651d5003701ff53eb15ffcacc8552934f.js" crossorigin="anonymous" integrity="sha256-4EDiUOXcQzYawTc9X3z71lHVADcB/1PrFf/KzIVSk08="></script><script type="application/ld+json">
+	{"@context":"http://schema.org","@type":"Article","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.gov.uk/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance/16-to-18-school-performance-tables-data-checking-guidance"},"headline":"16 to 18 school performance tables: data checking guidance","datePublished":null,"dateModified":"2018-08-22T12:58:06.000+00:00","description":null,"publisher":{"@type":"Organization","name":"GOV.UK","url":"https://www.gov.uk","logo":{"@type":"ImageObject","url":"https://assets.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-logo-e5962881254c9adb48f94d2f627d3bb67f258a6cbccc969e80abb7bbe4622976.png"}},"image":["https://assets.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-1x1-5ceffac04f7f6d4f421bd1d36dbb723ef48c15426d7f77f90be80a83af3c747e.png","https://assets.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-4x3-fcfe16abb1a015848e50d2ea797666a9eaf5158dca38ddfb1e52dc8c0543ab74.png","https://assets.publishing.service.gov.uk/government-frontend/govuk_publishing_components/govuk-schema-placeholder-16x9-fcf616879a7b37970df4d2117de962e08f7d057674ef1af6063dcdd529424eee.png"],"articleBody":"\u003cdiv class=\"govspeak\"\u003e\u003ch2 id=\"introduction\"\u003eIntroduction\u003c/h2\u003e\n\n\u003cp\u003eYou will receive a letter in September 2018 containing your user name then a separate letter with your password. You will need to log on to the \u003ca rel=\"external\" href=\"https://tableschecking.education.gov.uk/\"\u003ePerformance tables checking\u003c/a\u003e website to complete your checks.\u003c/p\u003e\n\n\u003cp\u003eYou need to:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003echeck school or college background details\u003c/li\u003e\n \u003cli\u003echeck school or college performance tables summary data\u003c/li\u003e\n \u003cli\u003echeck student details\u003c/li\u003e\n \u003cli\u003echeck results data\u003c/li\u003e\n \u003cli\u003econfirm you have checked the data\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eThese checks are important to ensure the accuracy of your data in the performance tables.\u003c/p\u003e\n\n\u003cp\u003eYou must check and amend your data by the checking exercise deadlines.\u003c/p\u003e\n\n\u003ch2 id=\"deadlines-change-each-year\"\u003eDeadlines (change each year)\u003c/h2\u003e\n\n\u003cp\u003eSchools must complete their checking exercise by 5pm on 11 October 2018.\nFurther Education colleges must do it by 5pm on 18 October 2018.\u003c/p\u003e\n\n\u003ch2 id=\"helpline\"\u003eHelpline\u003c/h2\u003e\n\n\u003cdiv class=\"contact \" id=\"contact_3584\"\u003e\n \u003cdiv class=\"content\"\u003e\n \u003ch4\u003eSchool performance tables helpline\u003c/h4\u003e\n\n \u003cdiv class=\"vcard contact-inner\"\u003e\n\n \u003cdiv class=\"email-url-number\"\u003e\n \u003cp class=\"email\"\u003e\n \u003cspan class=\"type\"\u003eEmail\u003c/span\u003e\n \u003ca class=\"email\" href=\"mailto:examshelp@rm.com\"\u003eexamshelp@rm.com\u003c/a\u003e\n \u003c/p\u003e\n \u003cp class=\"tel\"\u003e\n \u003cspan class=\"type\"\u003eTelephone\u003c/span\u003e\n 0845 307 7867\n \u003c/p\u003e\n \u003c/div\u003e\n\n\n \u003c/div\u003e\n \u003c/div\u003e\n\u003c/div\u003e\n\n\u003ch2 id=\"check-your-organisations-details\"\u003eCheck your organisation’s details\u003c/h2\u003e\n\n\u003cp\u003eThe background information we publish such as address, age range, headteacher or principal’s name comes from the system Get information about schools (GIAS). You should also check GIAS, if there has been any recent changes, for example, headteacher name change or a sixth form has been closed or opened. The information should reflect your statutory position.\u003c/p\u003e\n\n\u003cp\u003eIf any of the information we hold on your school or college is incorrect, you should update the information by signing into your \u003ca rel=\"external\" href=\"https://sa.education.gov.uk/idp/Authn/UserPassword\"\u003eSecure Access account\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eYou can find contact details for logging in to Secure Access on the Service Request link on the website.\u003c/p\u003e\n\n\u003cp\u003eUpdates to this system will appear in the published tables. It may take up to 5 working days for updates to appear in the tables.\u003c/p\u003e\n\n\u003ch2 id=\"check-your-students-details\"\u003eCheck your student’s details\u003c/h2\u003e\n\n\u003cp\u003eYou will need to log on to the \u003ca rel=\"external\" href=\"https://tableschecking.education.gov.uk/\"\u003ePerformance tables checking website\u003c/a\u003e to complete your checking exercise.\u003c/p\u003e\n\n\u003cp\u003eYou will need to check the 16 to 18 year old students listed are correct.\u003c/p\u003e\n\n\u003cp\u003eYou can view the students on the website’s cohort student page by selecting the Pupils page if you are a school or the Students page if you are a further education sector college.\u003c/p\u003e\n\n\u003cp\u003eTo download the list of students and their results in a spreadsheet go to the Guidance/Documents section. It will be in the Data Files labelled student level performance data and results level performance data. You can print the list of students and their results and check the data manually. Printing instructions are in the Guidance/Documents page of the website.\u003c/p\u003e\n\n\u003cp\u003eThe help text on the right of the website page explains how to make changes.\u003c/p\u003e\n\n\u003ch3 id=\"correct-a-students-personal-details\"\u003eCorrect a student’s personal details\u003c/h3\u003e\n\n\u003cp\u003eYou need to make sure those details like date of birth, along with qualifications and results are correct.\u003c/p\u003e\n\n\u003ch3 id=\"add-missing-16-to-18-students\"\u003eAdd missing 16 to 18 students\u003c/h3\u003e\n\n\u003cp\u003eDo not add students if they\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003eare not at the end of their studies in the 2017 to 2018 reporting year\u003c/li\u003e\n \u003cli\u003ehave previously been reported in 16 to 18 performance tables for your school or college\u003c/li\u003e\n \u003cli\u003eleft your school or college (for example a year 12 student) and are continuing their level 3 or level 2 studies at another school or college or you do not know if they are continuing their studies\u003c/li\u003e\n \u003cli\u003ehave a main registration elsewhere for the academic year you want to add them (2015 to 2016, 2016 to 2017 or 2017 to 2018)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWe might reject your request to add a student if they are assigned to another school. \nThis can happen when a student has registered with another school or college during the academic year.\u003c/p\u003e\n\n\u003cp\u003eA student allocated to you may not visible on the list you list because our record indicate they are not at the end of their studies. You should only add them if they are at the end of their 16 to 18 studies. You may need to add missing results.\u003c/p\u003e\n\n\u003cp\u003ePrior attainment and disadvantage status for 16 to 18 year olds is available in the CSV data files for schools and colleges. As these data items are already available in our database from when a student was at the end of key stage 4, there is no facility to change this on the website. If you are adding a new student, you only need to add in their attainment from post-16 studies and provide the year in which the student was at the end of key stage 4. We will add their key stage 4 prior attainment and disadvantage status from our database where this is available. Where this information is not available, the student will not be included in the level 3 value added measures or reported in the disadvantaged/non disadvantaged measures.\u003c/p\u003e\n\n\u003ch3 id=\"defer-16-to-18-students-continuing-their-studies\"\u003eDefer 16 to 18 students continuing their studies\u003c/h3\u003e\n\n\u003cp\u003eYou can only defer students allocated to you for the 2017 to 2018 academic year.\u003c/p\u003e\n\n\u003cp\u003eYou cannot defer students who turn 18 before 31 August 2017.\u003c/p\u003e\n\n\u003cp\u003eYou should defer Students aged 16 or 17, who are continuing their study, and report their results next year or by their 18th birthday.\u003c/p\u003e\n\n\u003cp\u003eMake sure you defer any students that have no results to report, if they are continuing their studies. If you do not defer these students, we will include them in the completion and attainment measure or retention measure. You may need to confirm that the student is continuing their studies.\u003c/p\u003e\n\n\u003cp\u003eWe will identify students without attainment but recorded with a learning aim on ILR or the school census as Student not included in performance measures for level 3, level 2 vocational and/or English and mathematics.\u003c/p\u003e\n\n\u003cp\u003eYou should defer students that have no results (level 3, level 2 vocational or below level 3 English and mathematics results) if they were aged 16 or 17 at the start of the 2017 to 2018 academic year and are continuing with their studies. They may still be in scope for the retention measure, and the completion and attainment measure that we publish in performance tables in March 2019. This is because these measures use learning aims data from the school census and the ILR.\u003c/p\u003e\n\n\u003ch3 id=\"remove-students-not-on-roll\"\u003eRemove students not on roll\u003c/h3\u003e\n\n\u003cp\u003eThese can be:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003eexternal candidates (ie not on the roll of your school or college)\u003c/li\u003e\n \u003cli\u003einternational students (fee paying foreign nationals)\u003c/li\u003e\n \u003cli\u003eapprentices not recorded on the school census or ILR, who have no Education and Skills Funding Agency funded learning aim\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou can also remove apprentices on your ILR or school census from the English and mathematics progress measures only.\u003c/p\u003e\n\n\u003cp\u003eWe will consider your request to remove the student from the measure, if we have a matching record that indicates the student is an apprentice.\u003c/p\u003e\n\n\u003ch3 id=\"report-a-student-listed-twice\"\u003eReport a student listed twice\u003c/h3\u003e\n\n\u003cp\u003eWhere a student has attended multiple schools or colleges, we will only accept changes to a student’s personal details, such as their date of birth, when all relevant school s or colleges report this to us. This is to avoid inconsistencies arising in a student’s personal details.\u003c/p\u003e\n\n\u003cp\u003eTo report a student listed twice or results assigned to the wrong student you should \u003ca href=\"examshelp@rm.com\"\u003eemail the helpline\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eYou will need to provide the:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003eforvus index number\u003c/li\u003e\n \u003cli\u003eULN\u003c/li\u003e\n \u003cli\u003eresults affected\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch2 id=\"check-your-qualifications\"\u003eCheck your qualifications\u003c/h2\u003e\n\n\u003ch3 id=\"add-missing-post-16-results\"\u003eAdd missing post-16 results\u003c/h3\u003e\n\n\u003cp\u003eThese should be approved qualifications reported in 16 to 18 performance tables:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003elevel 3 academic, applied general and tech level qualifications\u003c/li\u003e\n \u003cli\u003elevel 2 vocational qualifications at least the size of 2 GCSEs\u003c/li\u003e\n \u003cli\u003eEnglish and mathematics qualifications (entry level, level 1 and level 2)\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003ePlease submit the relevant evidence.\u003c/p\u003e\n\n\u003ch3 id=\"remove-or-amend-results\"\u003eRemove or amend results\u003c/h3\u003e\n\n\u003cp\u003eYou should:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003eamend any results following appeals or re-marks from awarding organisations\u003c/li\u003e\n \u003cli\u003ewithdraw any level 2 results attained at key stage 4 but awarded late – these may be listed as post-16 attainment where they were awarded between October 2017 and January 2018\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003ePlease submit the requested evidence. If we have the result flagged as likely to be a late result, no evidence is required to withdraw late key stage 4 results reported as part of post-16 achievement.\u003c/p\u003e\n\n\u003cp\u003eYou cannot remove post-16 results achieved elsewhere (private entries) for a student registered on roll.\u003c/p\u003e\n\n\u003ch2 id=\"the-evidence-you-need-to-correct-results\"\u003eThe evidence you need to correct results\u003c/h2\u003e\n\n\u003cp\u003eWe cannot accept your request if evidence is not received. The online instructions will indicate whether you should send us evidence. You can only submit evidence to remove a student online.\u003c/p\u003e\n\n\u003ch3 id=\"qualification-evidence\"\u003eQualification evidence\u003c/h3\u003e\n\n\u003cp\u003eWe can only accept qualification evidence where:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003eit has been obtained from the awarding organisation, internal school or college records will not be accepted\u003c/li\u003e\n \u003cli\u003ethe actual grade achieved for the full award is shown and not the unit marks or unit grades\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWhere the school or college does not hold such evidence, you should obtained it from the awarding organisation.\u003c/p\u003e\n\n\u003cp\u003eAcceptable evidence is a photocopy of one of the following:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003eprovisional examination results or vocational award slip\u003c/li\u003e\n \u003cli\u003eexamination or vocational award certificate\u003c/li\u003e\n \u003cli\u003ewritten confirmation from examining board or awarding organisation of revised grade or withdrawal\u003c/li\u003e\n \u003cli\u003eevidence of transmission of a withdrawal request if no confirmation available\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eRemoval of late key stage 4 vocational results included as post-16 attainment does not require evidence from the awarding organisation.\u003c/p\u003e\n\n\u003cp\u003eCommon reasons for not being able to accept evidence are:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003ewhere the qualification number, syllabus or qualification codes are incorrectly quoted or are missing\u003c/li\u003e\n \u003cli\u003ewhere a school or college attempts to add units of qualifications and not the full award\u003c/li\u003e\n \u003cli\u003ewhere the level 3 qualification or level 2 vocational qualification is not on the approved 2018 list to be reported in 2018 performance tables for 16 to 18 year olds\u003c/li\u003e\n \u003cli\u003ewhere the English and mathematics (entry level, level 1, 2 or 3) qualifications for 16 to 18 year olds are not on the approved Education and Skills Funding Agency (ESFA) list of qualifications\u003c/li\u003e\n \u003cli\u003ewhere a school or college attempts to add a student who has level 3 qualifications of insufficient size, for example less than 0.5 of an A level\u003c/li\u003e\n \u003cli\u003ewhere a student does not have sufficient size level 2 vocational qualification, for example less than the size of 2 GCSEs\u003c/li\u003e\n \u003cli\u003ewhere a school or college attempts to remove a private candidate’s results\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"student-removal-evidence\"\u003eStudent removal evidence\u003c/h3\u003e\n\n\u003cp\u003eAs a general rule, a student must be reported if they are at the end of their studies and on roll. This includes those on roll anytime in the last 3 years and not previously reported, where your school or college are identified as the main school or college. Therefore, requests to remove students with special educational needs and disability (SEND), or non-attenders (for example school refusers) or excluded students will not be accepted. We also cannot remove a student that was previously on roll because they are no longer on roll or have left your school or college.\u003c/p\u003e\n\n\u003cp\u003eIf you have other valid reasons to remove a student, please submit your request using the Other – with evidence or Other – no evidence required removal categories on the website.\u003c/p\u003e\n\n\u003cp\u003eYou can make the majority of requests using the Other – with evidence option. You should upload a letter from the school, college or third party explaining why a student on roll should be removed. Any requests to remove students that have been allocated to your school or college using your school census return or ILR return, should be made using the Other – with evidence option.\u003c/p\u003e\n\n\u003cp\u003eUse the Other- evidence not required option in circumstances such as a Year 11 pupil being reported as a sixth form student.\u003c/p\u003e\n\n\u003ch3 id=\"common-reasons-for-not-being-able-to-accept-evidence-or-requests-are\"\u003eCommon reasons for not being able to accept evidence or requests are:\u003c/h3\u003e\n\n\u003cul\u003e\n \u003cli\u003ewhere a school or college attempts to include a student\u003c/li\u003e\n \u003cli\u003eof the wrong age, for example not aged 16 to 18 by 31 August 2017\u003c/li\u003e\n \u003cli\u003ewho appears not to be at the end of 16 to 18 study in the academic year 2017 to 2018\u003c/li\u003e\n \u003cli\u003ealready reported against their school or college in the previous year’s 16 to 18 performance tables\u003c/li\u003e\n \u003cli\u003ethat has been allocated to another school or college (the main school or college) for that attendance year\u003c/li\u003e\n \u003cli\u003ewhere a school or college attempts to remove a student\u003c/li\u003e\n \u003cli\u003eas they are no longer on roll or left in the last 3 years\u003c/li\u003e\n \u003cli\u003ewhere a school or college attempts to remove a student as they are dually registered, for example at a hospital school or pupil referral unit\u003c/li\u003e\n \u003cli\u003eas they are a non-attender (non-attendance includes any absence unless for reasons of long term illness)\u003c/li\u003e\n \u003cli\u003ewith SEND\u003c/li\u003e\n \u003cli\u003ewho suffered short term illness and failed to sit all or some exams\u003c/li\u003e\n \u003cli\u003ewhere a school or college does not supply electronic evidence in support of their request where required\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"submitting-evidence\"\u003eSubmitting evidence\u003c/h3\u003e\n\n\u003cp\u003eYou can submit supporting evidence for student removal requests using the secure website. You must also upload supporting documentation, if required. We will not accept documentation submitted by post or by an encrypted email.\u003c/p\u003e\n\n\u003cp\u003eTo assist the decision making process, please ensure your evidence is clear, concise and no longer than 12 pages. We may miss details in your request if it is long and unconcise.\u003c/p\u003e\n\n\u003ch3 id=\"supporting-evidence-is-one-or-more-of-the-following\"\u003eSupporting evidence is one or more of the following:\u003c/h3\u003e\n\n\u003cul\u003e\n \u003cli\u003ewritten statement on school or college headed paper explaining why a student on your roll should be removed\u003c/li\u003e\n \u003cli\u003eevidence from third party (for example welfare officer, medical professional) explaining how their studies, ability to take exams have been affected and statement on duration of school absence\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003ch3 id=\"validation\"\u003eValidation\u003c/h3\u003e\n\n\u003cp\u003eWe have robust validation processes in place to ensure all decisions made are fair and consistent. More than one independent reviewer considers all student amend requests before giving a final decision. We will not consider any amendments in January during the correction period unless they were not possible in September, for example, schools and colleges received appeals and re-marks outcomes after the checking exercise deadline in October.\u003c/p\u003e\n\n\u003cp\u003eWe will not consider rejected requests re-submitted during the correction period. Our decision is final.\u003c/p\u003e\n\n\u003ch3 id=\"providing-evidence-securely\"\u003eProviding evidence securely\u003c/h3\u003e\n\n\u003cp\u003eWe are data controllers along with schools, colleges and awarding organisations. We all have a legal duty to comply with the Data Protection Act 2018 (DPA) and General Data Protection Regulations (GDPR) from May 25 onwards. Please read the guidance from ICO on GDPR.\nPlease do not send students’ personal details in the body of an email. Use the electronic upload facility to send evidence.\u003c/p\u003e\n\n\u003cp\u003eIf you need to send an email for any other reason, please send a password protected file with the forvus ID, UPN or ULN and send the password separately.\u003c/p\u003e\n\n\u003cp\u003eIf sending hard copy results evidence with personal details, the envelope must show a return address on the rear of the envelope.\u003c/p\u003e\n\n\u003cp\u003eIf you would like further guidance on evidence please call the helpline on 0845 307 7867.\u003c/p\u003e\n\n\u003ch2 id=\"confirm-that-the-information-is-correct\"\u003eConfirm that the information is correct\u003c/h2\u003e\n\n\u003cp\u003eYou should complete the Confirmation link on the tables checking website to confirm that you have checked the data and made amendments where necessary. If you are a special school, you can choose to include your data in the performance tables.\u003c/p\u003e\n\n\u003ch2 id=\"types-of-school-or-college\"\u003eTypes of school or college\u003c/h2\u003e\n\n\u003ch3 id=\"special-schools\"\u003eSpecial schools\u003c/h3\u003e\n\n\u003cp\u003eSpecial schools with sixth form students may choose to have their performance measures included in the 16 to 18 performance tables. If you do not opt in, we will not publish your results. However, you still need to check and amend your school’s data, as we use this to calculate national results.\u003c/p\u003e\n\n\u003ch3 id=\"academy-conversions\"\u003eAcademy conversions\u003c/h3\u003e\n\n\u003cp\u003eA school or sixth-form college may change to become an academy during the 2017 to 2018 academic year, or re-open after closing on the same site (for example, it becomes a sponsored academy).\u003c/p\u003e\n\n\u003cp\u003eIn most cases, we treat a converter academy as a continuing school or sixth-form college and a sponsored academy as a new academy. This affects how we report results for these institutions.\u003c/p\u003e\n\n\u003cp\u003eIf a school or sixth-form college becomes an academy before the start of that academic year (ie before 12 September 2017), we’ll publish the results under the new academy name.\u003c/p\u003e\n\n\u003cp\u003eIf a school or sixth-form college becomes an academy on or after 12 September, we’ll publish the results for that academic year under the old institution name and link to the new academy page, which will provide background information only.\u003c/p\u003e\n\n\u003cp\u003eIf a school or college has closed, the local authority will be required to complete the checking exercise. If a college has converted to an academy or merged with another, the new college will be required to complete the checking exercise.\u003c/p\u003e\n\n\u003ch3 id=\"sixth-form-centres-and-consortia\"\u003eSixth form centres and consortia\u003c/h3\u003e\n\n\u003cp\u003eIf your school or college is part of a consortium, you only need to confirm or amend the results for those students on roll at your school or college, as any amendments you make will automatically be included in the relevant consortium level data.\u003c/p\u003e\n\n\u003cp\u003eWe will include a school and its students in a consortium’s results if it was a feeder school to the consortium during the 2017 to 2018 academic year. For example, a school that joins a consortium in 2017 to 2018 will have all students that attended that school in the last 3 academic years reported against the consortium. If you ceased to be part of a consortium before 2017 to 2018 academic year, your students’ data will not be included in the consortium data.\u003c/p\u003e\n\n\u003ch3 id=\"recently-merged-colleges\"\u003eRecently merged colleges\u003c/h3\u003e\n\n\u003cp\u003eWhere a further education college dissolved during the 2017 to 2018 academic year, we will not publish the results for the closed college. However, where a college merger has taken place and a college remains open, we have shared the closed college’s data with the successor college via the checking website. The successor college that remains open with the same UKPRN number can log onto the website and amend their own data and the data for the other merged colleges for the 2017 to 2018 academic year. From the Home page of the website select Change College to view and check the data for the closed college. Although we will not publish the closed college data, you still need to check and amend the data for the predecessor college, as we will use it to calculate national results.\u003c/p\u003e\n\n\u003cp\u003eWe will publish the successor college results if it was open and in operation at the start of the 2017 to 2018 academic year. The students attributed to the college will be based on the ILR return R10 for 2017 to 2018; ILR R14 for 2016 to 2017 and 2015 to 2016. Therefore, if the merger took place after returning the R10 in 2017 to 2018, we will base the published results on those students on roll at the time of the return. We will publish the successor college results under the name of the college provided in GIAS.\u003c/p\u003e\n\n\u003ch2 id=\"how-we-report-students\"\u003eHow we report students\u003c/h2\u003e\n\n\u003ch3 id=\"students-included-in-the-checking-exercise\"\u003eStudents included in the checking exercise\u003c/h3\u003e\n\n\u003cp\u003eThis sets out how we compile the data for you to check that is published on the school performance comparison website.\u003c/p\u003e\n\n\u003cp\u003eWe will report on students aged 16, 17 or 18 at the start of the 2017 to 2018 academic year, ie 31 August 2017, and at the end of their 16 to 18 studies. We will allocate student details and results for students enrolled and funded for their main programme of study to your school. This means we may allocate students to multiple schools or colleges, in different years if they have moved during their 16 to 18 studies.\u003c/p\u003e\n\n\u003cp\u003eWe will hold a state-funded school or college accountable for the student and their results if recorded on roll in the spring school census or with a core learning aim on their ILR. We’ve allocated students to schools and colleges for up to 3 years, for example the academic years 2017 to 2018, 2016 to 2017 and 2015 to 2016.\u003c/p\u003e\n\n\u003cp\u003eWe have allocated some students based on the volume of exam data received from awarding organisations. We base this on where the student has taken the exam and may not be where the student was on roll. This usually includes schools and colleges that have not made a school census return to us at student level nor an ILR return, for example independent schools.\u003c/p\u003e\n\n\u003cp\u003eWe only include students that meet the eligibility and entry criteria in the tables.\u003c/p\u003e\n\n\u003cp\u003eWe may still include students that have no results reported in the checking exercise in the retention and completion and attainment measures, where the ILR or school census show that they have a level 3 or level 2 learning aim. Schools and colleges need to check that these students have reached the end of their studies and defer them if they have not.\u003c/p\u003e\n\n\u003ch3 id=\"students-eligibility-criteria\"\u003eStudents eligibility criteria\u003c/h3\u003e\n\n\u003cp\u003eStudents are eligible if they:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003ehave entered in the reporting year for at least 2 qualifications, each of which has at least the size of an A level or for at least 1 qualification the size of at least 2 A levels\u003c/li\u003e\n \u003cli\u003ehave been allocated to the same school or college for the last 2 years\u003c/li\u003e\n \u003cli\u003eare 18 and have not been reported in the performance tables at their current allocated school or college\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eYou will be able to defer students who meet either of the first 2 criteria above but are continuing their 16 to 18 study as long as they are not yet 18.\u003c/p\u003e\n\n\u003cp\u003eStudents eligible for reporting in 16 to 18 performance tables will also need to meet additional criteria for each performance measure to be included in that measure. For example, to be included in the average point score per entry for A level students, the student must have been entered for at least an AS qualification. To be included in the average point score per entry for level 2 vocational students, the student must have a level 2 vocational qualification that is at least the size of 2 GCSEs.\u003c/p\u003e\n\n\u003cp\u003eThe 16 to 18 technical guide to performance tables’ measures has detailed information on the methodologies for the performance measures and further details on the allocation of students to schools and colleges.\u003c/p\u003e\n\n\u003ch4 id=\"students-studying-part-time\"\u003eStudents studying part-time\u003c/h4\u003e\n\n\u003cp\u003eWe will include students studying part-time in 16 to 18 performance tables if they meet the eligibility criteria for inclusion.\u003c/p\u003e\n\n\u003ch4 id=\"students-studying-at-more-than-one-institution\"\u003eStudents studying at more than one institution\u003c/h4\u003e\n\n\u003cp\u003eIf a student studied in a school or college then moved to another school or college during the academic year we will include their results in the performance tables entry for the school or college identified as the core school or college. We will identify the core school or college based on where the student was on roll, or if this information is not available, the college or school that entered them for the greater volume of qualifications.\u003c/p\u003e\n\n\u003cp\u003eWe will allocate the student and their results to the school or college identified as the core school or college, if they have attended more than one.\u003c/p\u003e\n\n\u003cp\u003eIf you add a missing student during the checking exercise we will only accept this request if they are not on roll at any other school or college.\u003c/p\u003e\n\n\u003ch4 id=\"students-who-left-part-way-through-their-studies\"\u003eStudents who left part way through their studies\u003c/h4\u003e\n\n\u003cp\u003eIf a student was on roll at your school or college but left before completing their studies, the 16 to 18 performance tables will report all their achievements when they are at the end of their studies or reach the academic age of 18. \nYou cannot remove these students or their results.\u003c/p\u003e\n\n\u003ch4 id=\"students-withdrawn-from-exams\"\u003eStudents withdrawn from exams\u003c/h4\u003e\n\n\u003cp\u003eWhere a student has been withdrawn from all exams reported in performance tables, you can remove them from your attainment measures in the 16 to 18 performance tables.\u003c/p\u003e\n\n\u003cp\u003eHowever, we calculate the retention measures and completion and attainment measures for state-funded schools and colleges using aims data from the school census and ILR. Therefore, we will still count students withdrawn from exams outside of the funding qualifying period in these performance measures.\u003c/p\u003e\n\n\u003cp\u003eWe will include a fail grade for exam entries that have not been withdrawn by the awarding organisation in the attainment data and Level 3 Value Added measures.\u003c/p\u003e\n\n\u003ch4 id=\"apprenticeship-students\"\u003eApprenticeship students\u003c/h4\u003e\n\n\u003cp\u003eWe can allocate students to your school or college where awarding organisation data shows that they took exams at your centre. You should remove apprentices from your results, if they are not your on 2017 to 2018, 2016 to 2017 or 2015 to 2016 register, ie they are not on the school census return or ILR return for those years.\nIf you have recorded them on the ILR or school census and have been included in the English and mathematics progress measure, you can submit a request to remove these students from the English and mathematics measure.\u003c/p\u003e\n\n\u003ch4 id=\"international-students\"\u003eInternational students\u003c/h4\u003e\n\n\u003cp\u003eA student is an international student if they are from overseas and travelled to England for study. These students pay their own fees and do not receive public funding. They are not included on the roll of the school census or ILR. If you have recorded guess students on your school census, you can remove them from your results.\u003c/p\u003e\n\n\u003ch4 id=\"private-entries-and-external-candidates\"\u003ePrivate entries and external candidates\u003c/h4\u003e\n\n\u003cp\u003ePrivate entries for approved qualifications have been included. You cannot remove students on roll and their results from your figures; even if your school or college does not teach the qualification or the student sat the exam privately.\u003c/p\u003e\n\n\u003cp\u003eExternal candidates, ie students who sat one or more examinations at your centre but were not on roll at your school or college, you should them from your results.\u003c/p\u003e\n\n\u003ch3 id=\"qualifications-reported\"\u003eQualifications reported\u003c/h3\u003e\n\n\u003cp\u003eThe 16 to 18 performance tables report level 3 applied general and tech level qualifications on the approved list of qualifications recognised in 2018 16 to 18 performance tables. We also report all academic qualifications at level 3 approved by the Secretary of State under Section 96 of the Learning and Skills Act 2000.\u003c/p\u003e\n\n\u003cp\u003eWe report on English and mathematics qualifications at entry level, level 1 and level 2 for students that did not achieve a GCSE grade 4 or C or the equivalent in these subjects by the end of key stage 4. We report English and mathematics qualifications that meet the condition of funding for 16 to 18 year olds.\u003c/p\u003e\n\n\u003cp\u003eFor the additional measure, we report level 3 mathematics, qualifications based on students who achieved a good pass in GCSE mathematics (or equivalent) by the end of key stage 4 and who go on to achieve an approved level 3 mathematics qualification.\u003c/p\u003e\n\n\u003cp\u003eWe report level 2 vocational qualifications that are at least the size of 2 GCSEs (minimum 145 guided learning hours) and approved under section 96 of the Learning and Skills Act 2000 for 16 to 18 year olds. We also report approved tech certificate qualifications, which are a subset of level 2 vocational qualifications.\nWhere a student has taken 2 or more qualifications in the same subject area, we will only give credit to one of the qualification in the performance tables. You can find further details on the discounting rules applied in the 16 to 18 discounting guidance.\u003c/p\u003e\n\n\u003ch4 id=\"reporting-fails\"\u003eReporting fails\u003c/h4\u003e\n\n\u003cp\u003eOnly grades U and F count as failing and attract zero point in the performance measures.\nGrade Q (pending) is given zero points until we receive an update from the school or college. This means that the provisional data used in the checking exercise will treat Q as a fail. As soon as we receive the updates, we will amend the grade.\u003c/p\u003e\n\n\u003cp\u003eWhere a student has failed an A level we will include an AS pass grade in the same subject, where one exists. We will count the points for the AS but use the A level “size” (ie one rather than half) in the calculation of the average point score per A level and academic entry.\u003c/p\u003e\n\n\u003ch4 id=\"grade-x\"\u003eGrade X\u003c/h4\u003e\n\n\u003cp\u003eWe do not count grade X (no result) in the performance measures. In the vast majority of cases grade X means a student has not yet completed all the required units or left the course and should have been withdrawn.\u003c/p\u003e\n\n\u003ch4 id=\"resits\"\u003eResits\u003c/h4\u003e\n\n\u003cp\u003eWe will only report a student once they are at the end of 16 to 18 study in the 16 to 18 tables. Therefore, before including a student in the data for the 2018 16 to 18 tables, you should ensure that they are at the end of their studies.\u003c/p\u003e\n\n\u003cp\u003eDo not include students doing resits in the 2018 data if they you recorded them in the 2017 data. \nYou should add all English and mathematics resits, below level 3, attained by post-16 students who did not achieve at least a GCSE grade 4 or C at the end of key stage 4.\u003c/p\u003e\n\n\u003ch3 id=\"examples-of-results-and-students-reported\"\u003eExamples of results and students reported\u003c/h3\u003e\n\n\u003cp\u003eExamples of some common scenarios and how we have reported results against a school or college. To ensure that you submit valid requests that meet performance tables’ policy, please consider these scenarios before requesting a change.\u003c/p\u003e\n\n\u003ch4 id=\"scenario-1\"\u003eScenario 1\u003c/h4\u003e\n\n\u003cp\u003eA student is taking an academic pathway but moves school or college between AS and A levels. On completing 16-18 study in year, 13 outcomes are reported:\u003c/p\u003e\n\n\u003cp\u003eYear 12 – Main school or college A: 4 AS levels\u003c/p\u003e\n\n\u003cp\u003eYear 13 – Main school or college B: 3 A levels (in same subject as 3 AS levels)\u003c/p\u003e\n\n\u003cp\u003eAS level achievement reported against school or college A and A level achievement reported against school or college B.\u003c/p\u003e\n\n\u003cp\u003eIf we hold information to show the student is studying elsewhere they will not appear in school or college A’s data to check until that further study is completed or until the student is aged 18 which may be 1 to 3 years after they leave school or college A.\u003c/p\u003e\n\n\u003ch4 id=\"scenario-2\"\u003eScenario 2\u003c/h4\u003e\n\n\u003cp\u003eA student starts on an academic pathway but moves to another academic pathway and changes school or college. On completing 16 to 18 study in year 14 or by age 18 outcomes are reported:\u003c/p\u003e\n\n\u003cp\u003eYear 12 – Main school or college A: 3 AS levels\u003c/p\u003e\n\n\u003cp\u003eYear 13 and 14 – Main school or college B: AS levels (year 13) and A levels (year 14)\u003c/p\u003e\n\n\u003cp\u003eAS level (year 12) achievement reported against school or college A and AS and A level achievement reported against school or college B, subject to discounting.\u003c/p\u003e\n\n\u003ch4 id=\"scenario-3\"\u003eScenario 3\u003c/h4\u003e\n\n\u003cp\u003eA student starts on an academic pathway but moves to a vocational pathway and changes school or college. On completing 16-18 study in year 14 or by age 18 outcomes are reported:\u003c/p\u003e\n\n\u003cp\u003eYear 12 – Main school or college A: 3 AS levels\u003c/p\u003e\n\n\u003cp\u003eYear 13 and 14 – Main school or college B: 2 Applied General Qualifications (AGQs)\u003c/p\u003e\n\n\u003cp\u003eAS level achievement reported against school or college A and applied general achievement reported against school or college B.\u003c/p\u003e\n\n\u003cp\u003eThe student will be included in the performance tables checking exercise at the end of the 2nd year (Year 13) for school or college A and B. School or college B will have the option to defer the reporting of the student until Year 14 if they are not yet 18 and not yet at the end of their studies. Any deferrals will be applied to the reporting of result for both school or college A and B.\u003c/p\u003e\n\n\u003ch4 id=\"scenario-4\"\u003eScenario 4\u003c/h4\u003e\n\n\u003cp\u003eA student starts on an academic pathway but leaves partway through. The student will not appear in school or college A’s data to check until the student is 18 which may be 2 to 3 years later, as they could be enrolled at another school or college for further education. However, if the student has left school or college A and is no longer on roll or continuing studies elsewhere outcomes can be reported in Year 12 by adding in the student and their results during the performance data checking exercise. This should only be done where the student pursues alternative activity to further education, for example employment, apprenticeship or training, etc and is not \nstudying elsewhere following Year 12 study.\u003c/p\u003e\n\n\u003cp\u003eYear 12 – Main school or college A: 4 AS levels\u003c/p\u003e\n\n\u003cp\u003eAS level achievement reported against school or college A.\u003c/p\u003e\n\n\u003ch4 id=\"scenario-5\"\u003eScenario 5\u003c/h4\u003e\n\n\u003cp\u003eA student is studying with 2 different schools or colleges in the same academic year. A main school or college is selected using DfE allocation rules – see 16 to 18 Accountability Technical guide. All of their results are attributed to a single main school or college, including any results studied elsewhere. This may mean qualifications not offered by the main school or college are reported against them.\u003c/p\u003e\n\n\u003cp\u003eYear 13 – school or college A: 2 Applied General Qualifications (AGQs)\u003c/p\u003e\n\n\u003cp\u003eYear 13 – Main school or college B: 1 A level\u003c/p\u003e\n\n\u003cp\u003eApplied general achievement reported against school or college B and 1 A level achievement reported against school or college B.\u003c/p\u003e\n\n\u003cp\u003eThe student will be included against school or college A and B for the retention measures based on the core aim at each school or college\u003c/p\u003e\n\n\u003ch2 id=\"performance-measures-calculations\"\u003ePerformance measures calculations\u003c/h2\u003e\n\n\u003cp\u003eThis section provides additional information on how we calculate the performance measures.\u003c/p\u003e\n\n\u003ch3 id=\"level-2-measures\"\u003eLevel 2 measures\u003c/h3\u003e\n\n\u003cp\u003eThe 2018 performance tables will include all students taking any ‘vocational’ level 2 qualifications that are at least the size of 2 GCSEs.\u003c/p\u003e\n\n\u003ch3 id=\"english-and-mathematics-progress-measure\"\u003eEnglish and mathematics progress measure\u003c/h3\u003e\n\n\u003cp\u003eA student is potentially in scope to be reported in the English and mathematics progress measures if they did not achieve at least a grade 4 or C GCSE or equivalent by the end of key stage 4 in these subjects.\u003c/p\u003e\n\n\u003cp\u003eFull details on student eligibility for the progress measure and further details on which qualifications are equivalent to GCSE and which qualifications taken during post-16 study can be found in the ‘English and mathematics’ section of the \u003ca href=\"https://www.gov.uk/government/publications/16-to-19-accountability-headline-measures-technical-guide\"\u003etechnical guide\u003c/a\u003e.\u003c/p\u003e\n\n\u003ch3 id=\"level-3-measures\"\u003eLevel 3 measures\u003c/h3\u003e\n\n\u003cp\u003eWe record 16 to 18 students’ results in qualifications at advanced level study are reported in 4 separate performance categories: A level, academic, applied general and tech level. We will report a student in a cohort for a school or college if they have firstly fulfilled the eligibility criteria (set out in the 16 to 18 technical guide) and then have met the respective criteria defined below:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003eA level cohort: entered for at least an AS qualification\u003c/li\u003e\n \u003cli\u003eacademic cohort: entered for at least an AS sized advanced level academic qualification (students with Extended Project qualifications are included in the academic cohort)\u003c/li\u003e\n \u003cli\u003eapplied general cohort: entered for at least an AS sized advanced level applied general qualification\u003c/li\u003e\n \u003cli\u003etech level cohort: entered for at least an AS sized tech level qualification\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eWhere a student has undertaken a mixed programme of study (for example academic and applied general), they will appear in more than one cohort if they meet the relevant criteria.\nYou can look at the list of qualifications that we recognise as academic, applied general and tech level is on the \u003ca href=\"https://www.gov.uk/government/publications/16-to-19-qualifications-discount-codes-and-point-scores\"\u003ecompare performance website\u003c/a\u003e.\u003c/p\u003e\n\n\u003cp\u003eAcademic, applied general and tech level cohorts only include the relevant results. For example, the academic cohort will not include applied general results. It is based on all students at the end of advanced level study that have taken at least an AS2 sized advanced level academic qualification, such as an International Baccalaureate (IB) or Pre-U. This cohort would exclude students who only entered for advanced applied general or tech level qualifications, but could include students who entered a mixed programme of academic and applied general qualifications or tech level qualifications.\u003c/p\u003e\n\n\u003ch3 id=\"level-3-measure-a-level-attainment\"\u003eLevel 3 measure: A level attainment\u003c/h3\u003e\n\n\u003cp\u003eTo be included in the A level attainment measures for a school or college, a student must have entered for at least one of the following qualifications in the academic years they have been allocated to that school or college:\u003c/p\u003e\n\n\u003ctable\u003e\n \u003cthead\u003e\n \u003ctr\u003e\n \u003cth\u003eQualifications\u003c/th\u003e\n \u003cth\u003eCounts in APS measure\u003c/th\u003e\n \u003cth\u003eCounts in best 3 measure\u003c/th\u003e\n \u003cth\u003eCounts in AAB in facilitating subjects measure\u003c/th\u003e\n \u003c/tr\u003e\n \u003c/thead\u003e\n \u003ctbody\u003e\n \u003ctr\u003e\n \u003ctd\u003eGCE A level\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eYes (except General Studies and Critical Thinking)\u003c/td\u003e\n \u003ctd\u003eYes (except General Studies and Critical Thinking)\u003c/td\u003e\n \u003c/tr\u003e\n \u003ctr\u003e\n \u003ctd\u003eApplied GCE A level or AS level combined\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eNo\u003c/td\u003e\n \u003c/tr\u003e\n \u003ctr\u003e\n \u003ctd\u003eGCE AS level\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eNo\u003c/td\u003e\n \u003ctd\u003eNo\u003c/td\u003e\n \u003c/tr\u003e\n \u003ctr\u003e\n \u003ctd\u003eApplied GCE AS level Double Award\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eNo\u003c/td\u003e\n \u003ctd\u003eNo\u003c/td\u003e\n \u003c/tr\u003e\n \u003ctr\u003e\n \u003ctd\u003eApplied GCE Single Award\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eNo\u003c/td\u003e\n \u003c/tr\u003e\n \u003ctr\u003e\n \u003ctd\u003eApplied GCE AS level\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eNo\u003c/td\u003e\n \u003ctd\u003eNo\u003c/td\u003e\n \u003c/tr\u003e\n \u003ctr\u003e\n \u003ctd\u003eApplied GCE Double Award\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eYes\u003c/td\u003e\n \u003ctd\u003eNo\u003c/td\u003e\n \u003c/tr\u003e\n \u003c/tbody\u003e\n\u003c/table\u003e\n\n\u003ch3 id=\"level-3-measure-best-3-a-levels\"\u003eLevel 3 measure: best 3 A levels\u003c/h3\u003e\n\n\u003cp\u003eThis measure only applies to a subset of the A level cohort:\u003c/p\u003e\n\n\u003cul\u003e\n \u003cli\u003estudents who have entered at least one full size A level (see table above)\u003c/li\u003e\n \u003cli\u003ewho have entered less than a total of size one in other academic, Applied General and Tech Level qualifications\u003c/li\u003e\n\u003c/ul\u003e\n\n\u003cp\u003eA best 3 A levels score is calculated for each student by adding together the points in their best 3 A levels, then summing across a school or college, and then dividing by 3 to give a best 3 A levels points per entry, which is expressed as a grade.\u003c/p\u003e\n\n\u003ch3 id=\"level-3-measure-students-entered-for-less-than-3-a-levels\"\u003eLevel 3 measure: students entered for less than 3 A levels\u003c/h3\u003e\n\n\u003cp\u003eFor students who have only entered one or two A levels, but have been at a school or college for 2 years and haven’t entered at least size one of other approved qualifications, the points in their one or two A levels are still divided by 3.\u003c/p\u003e\n\n\u003ch3 id=\"level-3-measure-students-at-a-school-or-college-for-only-one-year\"\u003eLevel 3 measure: students at a school or college for only one year\u003c/h3\u003e\n\n\u003cp\u003eWhere a student has only been at a school or college for one year, they need to have entered 3 A levels to be included.\u003c/p\u003e\n\n\u003ch3 id=\"level-3-measure-aab-of-which-at-least-2-are-in-facilitating-subjects\"\u003eLevel 3 measure: AAB (of which at least 2 are in facilitating subjects)\u003c/h3\u003e\n\n\u003cp\u003eThis measure applies to a similar subset to the best 3 A levels measure, but applied A levels are not included when determining the cohort. A student only needs to be entered for at least 1 A level to be included in this measure.\nA student achieves this measure if they have at least AAB at A level, of which at least 2 subjects must be facilitating subjects.\u003c/p\u003e\n\n\u003ch3 id=\"level-3-measure-mathematics\"\u003eLevel 3 measure: mathematics\u003c/h3\u003e\n\n\u003cp\u003eA student is in scope to be reported in the level 3 mathematics measure if they achieved at least a GCSE grade 4 or C or equivalent by the end of key stage 4 in mathematics.\u003c/p\u003e\n\n\u003ch3 id=\"disadvantage-measures\"\u003eDisadvantage measures\u003c/h3\u003e\n\n\u003cp\u003eFor the purposes of this measure, the disadvantage classification will follow that used at key stage 4 and cannot be changed. Disadvantaged students are all students who were in receipt of pupil premium when they were in their last year of key stage 4. We will not calculate these measures for independent schools, independent special schools or non-maintained special schools. The measures will not include students whose disadvantage status is not known, for example, because they came from overseas. Non-disadvantaged students are those at independent schools in their last year of key stage 4.\u003c/p\u003e\n\n\u003ch2 id=\"contact\"\u003eContact\u003c/h2\u003e\n\n\u003cdiv class=\"contact \" id=\"contact_3584\"\u003e\n \u003cdiv class=\"content\"\u003e\n \u003ch4\u003eSchool performance tables helpline\u003c/h4\u003e\n\n \u003cdiv class=\"vcard contact-inner\"\u003e\n\n \u003cdiv class=\"email-url-number\"\u003e\n \u003cp class=\"email\"\u003e\n \u003cspan class=\"type\"\u003eEmail\u003c/span\u003e\n \u003ca class=\"email\" href=\"mailto:examshelp@rm.com\"\u003eexamshelp@rm.com\u003c/a\u003e\n \u003c/p\u003e\n \u003cp class=\"tel\"\u003e\n \u003cspan class=\"type\"\u003eTelephone\u003c/span\u003e\n 0845 307 7867\n \u003c/p\u003e\n \u003c/div\u003e\n\n\n \u003c/div\u003e\n \u003c/div\u003e\n\u003c/div\u003e\n\u003c/div\u003e"}
+	</script><script type="application/ld+json">
+	{"@context":"http://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"item":{"name":"Home","@id":"https://www.gov.uk/"}},{"@type":"ListItem","position":2,"item":{"name":"16 to 18 school and college performance tables: data checking guidance","@id":"https://www.gov.uk/government/publications/16-to-18-school-and-college-performance-tables-data-checking-guidance"}}]}
+	</script>
+	</body>
+	</html>
+	
+
