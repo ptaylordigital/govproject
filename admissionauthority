@@ -61,7 +61,7 @@
 <!--[if IE 6]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-ie6-9b0fa9e8618a0502b3199995168997ef47e7f1780f00867f4e9e568d07ffe00f.css" /><script>var ieVersion = 6;</script><![endif]--><!--[if IE 7]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-ie7-9da8902cbf7971bc93eb102a3d3e6e77325303740f771b1b72c36209befa56bb.css" /><script>var ieVersion = 7;</script><![endif]--><!--[if IE 8]><link rel="stylesheet" media="screen" href="https://assets.publishing.service.gov.uk/government-frontend/application-ie8-331a9feec5ac4ee9aea162cf6fa2f4b91c855aa58d3244cb365cb3e6b7710d58.css" /><script>var ieVersion = 8;</script><![endif]--><meta name="govuk:rendering-application" content="government-frontend">
 </head>
 
-  <body class="draft">
+  <body>
     <script>document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script>
 
     
