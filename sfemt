@@ -101,7 +101,7 @@
 	<img src="https://assets.publishing.service.gov.uk/static/gov.uk_logotype_crown_invert_trans-203e1db49d3eff430d7dc450ce723c1002542fe1d2bce661b6d8571f14c1043c.png" width="36" height="32" alt=""> This is not GOV.UK
 	</a>
 	</div>
-	<a rel="external" href="#search" class="search-toggle js-header-toggle">Search</a>
+	<a href="#search" class="search-toggle js-header-toggle">Search</a>
 
 	
 	<form id="search" class="site-search" action="/search" method="get" role="search">
@@ -193,7 +193,7 @@
 	<ol>
 	
 	<li class="gem-c-breadcrumbs__item ">
-	<a data-track-category="breadcrumbClicked" data-track-action="1" data-track-label="/" data-track-options='{"dimension28":"4","dimension29":"Home"}' class="" aria-current="false" href="https://gov.uk /">Home</a>
+	<a data-track-category="breadcrumbClicked" data-track-action="1" data-track-label="/" data-track-options='{"dimension28":"4","dimension29":"Home"}' class="" aria-current="false" href="https://gov.uk/">Home</a>
 
 	</li>
 	
@@ -363,7 +363,7 @@
 	</div>
 	</section><section class="attachment embedded" id="attachment_2931144">
 	<div class="attachment-thumb">
-	<a aria-hidden="true" class="thumbnail" rel="external" href="https://patricktaylordfe.github.io/govproject/180903_Metric_Methodology_v2_.pdf"><img alt="" rel="external" src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/739888/thumbnail_180903_Metric_Methodology_v2_.pdf.png"></a>
+	<a aria-hidden="true" class="thumbnail" rel="external" href="https://patricktaylordfe.github.io/govproject/180903_Metric_Methodology_v2_.pdf"><img alt="" rel="external"  src="https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/739888/thumbnail_180903_Metric_Methodology_v2_.pdf.png"></a>
 
 	</div>
 	<div class="attachment-details">
@@ -409,7 +409,7 @@
 	<p>Read more guidance on <a rel="external" href="https://www.gov.uk/government/collections/schools-financial-health-and-efficiency">schools financial health and efficiency</a>.</p>
 
 	
-	<p>Please use our survey to <a rel="external" rel="external" href="http://www.smartsurvey.co.uk/s/ATGPO/">provide feedback on the school efficiency metric tool</a>.</p>
+	<p>Please use our survey to <a rel="external" href="http://www.smartsurvey.co.uk/s/ATGPO/">provide feedback on the school efficiency metric tool</a>.</p>
 
 	
 	</div>
@@ -460,7 +460,7 @@
 	<h2 class="gem-c-taxonomy-navigation__heading">Related content</h2>
 	<div data-track-count="sidebarTaxonSection">
 	<h3 class="gem-c-taxonomy-navigation__heading">
-	<a class="gem-c-taxonomy-navigation__link" data-track-category="relatedLinkClicked" data-track-action="1" data-track-label="/education/local-authority-schools-financial-reporting-and-assurance" data-track-options='{"dimension28":"1","dimension29":"Local authority schools financial reporting and assurance"}' rel="external" href="https://gov.uk/education/local-authority-schools-financial-reporting-and-assurance">Local authority schools financial reporting and assurance</a>
+	<a rel="external" class="gem-c-taxonomy-navigation__link" data-track-category="relatedLinkClicked" data-track-action="1" data-track-label="/education/local-authority-schools-financial-reporting-and-assurance" data-track-options='{"dimension28":"1","dimension29":"Local authority schools financial reporting and assurance"}' href="https://gov.uk/education/local-authority-schools-financial-reporting-and-assurance">Local authority schools financial reporting and assurance</a>
 
 	</h3>
 	
@@ -476,7 +476,7 @@
 	</h3>
 	<nav class="gem-c-taxonomy-navigation__navigation" data-module="toggle" role="navigation">
 	<ul class="gem-c-taxonomy-navigation__list">
-	<li><a class="gem-c-taxonomy-navigation__section-link" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/schools-financial-health-and-efficiency" data-track-options='{"dimension28":"1","dimension29":"School resource management"}' rel="external" href="https://gov.uk/government/collections/schools-financial-health-and-efficiency">School resource management</a></li>
+	<li><a rel="external"  class="gem-c-taxonomy-navigation__section-link" data-track-category="relatedLinkClicked" data-track-action="1.1 Related content" data-track-label="/government/collections/schools-financial-health-and-efficiency" data-track-options='{"dimension28":"1","dimension29":"School resource management"}'  href="https://gov.uk/government/collections/schools-financial-health-and-efficiency">School resource management</a></li>
 
 	</ul>
 	</nav>
@@ -497,7 +497,7 @@
 	<div class="js-prompt-questions">
 	<h2 class="gem-c-feedback__prompt-question">Is this page useful?</h2>
 	
-	<a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--useful js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" rel="external" href="hyyps://gov.uk/contact/govuk">
+	<a class="gem-c-feedback__prompt-link gem-c-feedback__prompt-link--useful js-page-is-useful" data-track-category="yesNoFeedbackForm" data-track-action="ffYesClick" rel="external" href="https://gov.uk/contact/govuk">
 
 	Yes <span class="visually-hidden">this page is useful</span>
 	</a>
